@@ -1,0 +1,45 @@
+[
+  {
+    "title": "My Awesome Series",
+    "imageUrl": "https://example.com/images/my_awesome_series.png",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+            "title": "Episode 1",
+            "videoUrl": "https://example.com/videos/episode1.mp4"
+          },
+          {
+            "title": "Episode 2",
+            "videoUrl": "https://example.com/videos/episode2.mp4"
+          }
+        ]
+      },
+      {
+        "seasonNumber": 2,
+        "episodes": [
+          {
+            "title": "Episode 1",
+            "videoUrl": "https://example.com/videos/s2e1.mp4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Another Series",
+    "imageUrl": "https://example.com/images/another_series.png",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+            "title": "Pilot",
+            "videoUrl": "https://example.com/videos/pilot.mp4"
+          }
+        ]
+      }
+    ]
+  }
+]
