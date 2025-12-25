@@ -17,12 +17,12 @@
   {
     "title": "News Nation",
     "streamUrl": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/news_nation.png"
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/news_nation.jpg"
   },
   {
     "title": "News 24",
     "streamUrl": "https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/news_24.png"
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/news_24.jpg"
   },
   {
     "title": "India News",
@@ -32,7 +32,7 @@
   {
     "title": "India TV",
     "streamUrl": "https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/india_tv.png"
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/india_tv.jpg"
   },
   {
     "title": "Z Bharat",
@@ -42,21 +42,11 @@
   {
     "title": "Z Uttar Pradesh",
     "streamUrl": "https://duw35ict5q7th.cloudfront.net/index_3.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/z_up.png"
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/z_up.jpg"
   },
   {
     "title": "K News",
     "streamUrl": "https://knews.livebox.co.in/youtubehls/live.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/k_news.png"
-  },
-  {
-    "title": "K News 1",
-    "streamUrl": "https://knews.livebox.co.in/youtubehls/live.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/k_news.png"
-  },
-  {
-    "title": "K News 2",
-    "streamUrl": "https://knews.livebox.co.in/youtubehls/live.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/k_news.png"
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/k_news.jpg"
   }
 ]
