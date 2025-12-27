@@ -1,6 +1,6 @@
 [
   {
-    "title": "My Awesome Series",
+    "title": "Bhay The Gaurav Tiwari Story",
     "imageUrl": "https://example.com/images/my_awesome_series.png",
     "seasons": [
       {
@@ -8,11 +8,35 @@
         "episodes": [
           {
             "title": "Episode 1",
-            "videoUrl": "https://example.com/videos/episode1.mp4"
+            "videoUrl": "https://si.videoapne.to/hls/,bdohwsgy7bboxuzvta574cin3syk2xiunp356mkoexfhdzm4kbdchpxew3wq,.urlset/master.m3u8"
           },
           {
             "title": "Episode 2",
-            "videoUrl": "https://example.com/videos/episode2.mp4"
+            "videoUrl": "https://si.videoapne.to/hls/,bdohwr6y7bboxuzvta574byc3gyspruzbhw7iaq6jdr7uw72jps765ilurqa,.urlset/master.m3u8"
+          },
+          {
+            "title": "Episode 3",
+            "videoUrl": "https://si.videoapne.to/hls/bdohwrwy7bboxuzvta574fyy3hek54aeineldhllonpqy6o5otmsk6ywfrsa/index-v1-a1.m3u8"
+          },
+          {
+            "title": "Episode 4",
+            "videoUrl": "https://si.videoapne.to/hls/bdohwroy7bboxuzvta574tqs3j7d3jnql6tztzuc7lyg5dcih4t2p4l4vyka/index-v1-a1.m3u8"
+          },
+          {
+            "title": "Episode 5",
+            "videoUrl": "https://s2.videoapne.to/hls/bdohwq6y7bboxuzvta574hajtgirbip2fzqfi5nok2qqwiyt7lswftoomchq/index-v1-a1.m3u8"
+          },
+          {
+            "title": "Episode 6",
+            "videoUrl": "https://s2.videoapne.to/hls/bdohwqwy7bboxuzvta574sad3ozm4hmfjv3opt4scs75hx3n4nptpetzlk4q/index-v1-a1.m3u8"
+          },
+          {
+            "title": "Episode 7",
+            "videoUrl": "https://s2.videoapne.to/hls/,bdohwqoy7bboxuzvta574bikq3dyiotfnhqktzafm7j3ujgrxob7xoiq5tdq,.urlset/master.m3u8"
+          },
+          {
+            "title": "Episode 8",
+            "videoUrl": "https://s2.videoapne.to/hls/,bdohwqgy7bboxuzvta574dsstjtrazdiz65sw43k3nnebercbiyjkpibt5dq,.urlset/master.m3u88"
           }
         ]
       },
@@ -21,22 +45,57 @@
         "episodes": [
           {
             "title": "Episode 1",
-            "videoUrl": "https://example.com/videos/s2e1.mp4"
+            "videoUrl": "na"
           }
         ]
       }
     ]
   },
   {
-    "title": "Another Series",
+    "title": "The Great Indian Kapil Show",
+    "imageUrl": "https://example.com/images/another_series.png",
+    "seasons": [
+      {
+        "seasonNumber": 4,
+        "episodes": [
+          {
+            "title": "Episode 1",
+            "videoUrl": "https://s2.videoapne.to/hls/,bdohx5o27bboxuzvta574fkssyagy23qb4z6m7xjwfvl75ej4braqbg5i3tq,.urlset/master.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "90s A Middle Class Biopic",
     "imageUrl": "https://example.com/images/another_series.png",
     "seasons": [
       {
         "seasonNumber": 1,
         "episodes": [
           {
-            "title": "Pilot",
-            "videoUrl": "https://example.com/videos/pilot.mp4"
+            "title": "Episode 1",
+            "videoUrl": "https://s2.videoapne.to/hls/,bdohxmw27bboxuzvta574ridrcn3g5laosfqjgtnevqzelkbcwisb7mds4pa,.urlset/master.m3u8"
+          },
+          {
+            "title": "Episode 2",
+            "videoUrl": "https://s2.videoapne.to/hls/,bdohxmo27bboxuzvta574tqz37c3uqh2kho5wx7i5hbn5q42u6iyktbpmybq,.urlset/master.m3u8"
+          },
+          {
+            "title": "Episode 3",
+            "videoUrl": "https://s2.videoapne.to/hls/,bdohxmg27bboxuzvta574bi3qwshquw7jysnj225mw2usbjsagtwn6vw24za,.urlset/master.m3u8"
+          },
+          {
+            "title": "Episode 4",
+            "videoUrl": "https://s2.videoapne.to/hls/,bdohxl627bboxuzvta574eymq6z6famznovsxhvm34yi7gox37rc6poxc6ka,.urlset/master.m3u8"
+          },
+          {
+            "title": "Episode 5",
+            "videoUrl": "https://s2.videoapne.to/hls/,bdohxlw27bboxuzvta574eiltqql2wmmynqhqnn5yxe7xdofdlajyvnhk2nq,.urlset/master.m3u8"
+          },
+          {
+            "title": "Episode 6",
+            "videoUrl": "https://s2.videoapne.to/hls/,bdohxlo27bboxuzvta574hqktw3hdgnm63slcctvpyf6acgupcql2kfcj2wa,.urlset/master.m3u8"
           }
         ]
       }
