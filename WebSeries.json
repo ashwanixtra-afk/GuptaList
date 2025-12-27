@@ -1,7 +1,7 @@
 [
   {
     "title": "Bhay The Gaurav Tiwari Story",
-    "imageUrl": "https://example.com/images/my_awesome_series.png",
+    "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/bhay.png",
     "seasons": [
       {
         "seasonNumber": 1,
@@ -37,15 +37,6 @@
           {
             "title": "Episode 8",
             "videoUrl": "https://s2.videoapne.to/hls/,bdohwqgy7bboxuzvta574dsstjtrazdiz65sw43k3nnebercbiyjkpibt5dq,.urlset/master.m3u88"
-          }
-        ]
-      },
-      {
-        "seasonNumber": 2,
-        "episodes": [
-          {
-            "title": "Episode 1",
-            "videoUrl": "na"
           }
         ]
       }
