@@ -1,5 +1,59 @@
 [
   {
+    "title": "Reality Ranis of Jungle",
+    "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/kapilshow.jpg",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+            "title": "Episode 1",
+            "videoUrl": "https://s2.videoapne.to/hls/bdohwsvj7bboxuzvta5p4hazqc7xushd753qo7xeq7zsyemsgtdhuhce5pwq/index-v1-a1.m3u8"
+          }, {
+            "title": "Episode 2",
+            "videoUrl": "https://s2.videoapne.to/hls/,bdohwsnj7bboxuzvta5p4faf3av65crnlt4p2ljhcqtgsywbt7ti4ukkh6bq,.urlset/master.m3u8"
+          }, {
+            "title": "Episode 3",
+            "videoUrl": "https://s2.videoapne.to/hls/bdohwsfj7bboxuzvta5p4bihtbphln73xc3hrugdl6bbe3xsvniofsf2acca/index-v1-a1.m3u8"
+          }, {
+            "title": "Episode 4",
+            "videoUrl": "https://s2.videoapne.to/hls/,bdohwr5j7bboxuzvta5p4dats2swp4hfaapt7tt4hegsallu5laveg3qvwzq,.urlset/master.m3u8"
+          }, {
+            "title": "Episode 5",
+            "videoUrl": "https://s2.videoapne.to/hls/bdohwrvj7bboxuzvta5p4diiqrekzommugjw5di6livp3gdxmw3bsc6p2k3a/index-v1-a1.m3u8"
+          }, {
+            "title": "Episode 6",
+            "videoUrl": "https://si.videoapne.to/hls/bdohwrnj7bboxuzvta5p4tydrb6gkwd6nqbilopttg3as432mjkxxlbcquka/index-v1-a1.m3u8"
+          }, {
+            "title": "Episode 7",
+            "videoUrl": "https://si.videoapne.to/hls/bdohwrnj7bboxuzvta5p4tydrb6gkwd6nqbilopttg3as432mjkxxlbcquka/index-v1-a1.m3u8"
+          }, {
+            "title": "Episode 8",
+            "videoUrl": "https://si.videoapne.to/hls/,bdohwq5j7bboxuzvta5p4saas4reavovruckbcfhyzwgodotajmj52gqimjq,.urlset/master.m3u8"
+          }, {
+            "title": "Episode 9",
+            "videoUrl": "https://si.videoapne.to/hls/bdohwqvj7bboxuzvta5p4baz3sdvg7wxjrrhqofryr4h7ey5vov3rid3h4bq/index-v1-a1.m3u8"
+          }, {
+            "title": "Episode 10",
+            "videoUrl": "https://gamezyt.com/new/holaplayer.php/?url=https://si.videoapne.to/hls/,bdohwqnj7bboxuzvta5p4dyoqlnyctaqqze3vgnvtogdm746qglqbt3i3xva,.urlset/master.m3u8"
+          }
+        ]
+      },
+       {
+        "seasonNumber": 2,
+        "episodes": [
+          {
+            "title": "Episode 1",
+            "videoUrl": "https://s2.videoapne.to/hls/,bdohx5o27bboxuzvta574fkssyagy23qb4z6m7xjwfvl75ej4braqbg5i3tq,.urlset/master.m3u8"
+          }, {
+            "title": "Episode 2",
+            "videoUrl": "https://s2.videoapne.to/hls/,bdohxfw37bboxuzvta574s2uqaqztmv6efjutdw3tzir4fe4a4mmqnhwjxka,.urlset/master.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "Bhay The Gaurav Tiwari Story",
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/bhay.png",
     "seasons": [
