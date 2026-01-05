@@ -1,5 +1,20 @@
 [
   {
+    "title": "Master Chef",
+    "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/masterchef.jpg",
+    "seasons": [
+      {
+        "seasonNumber": 9,
+        "episodes": [
+          {
+            "title": "E1 - 5th January 2026",
+            "videoUrl": "https://s2.videoapne.to/hls/bdohxwge7bboxuzvta574fquqin4odscskbw3ygnxm3k7ggcsu3qbgdiosmq/index-v1-a1.m3u8"
+          }
+        ]
+      }
+    ]
+  },
+  {
     "title": "Reality Ranis of Jungle",
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/ranisofjungle.jpg",
     "seasons": [
