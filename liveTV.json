@@ -61,7 +61,47 @@
   },
   {
     "title": "9X Music",
-    "streamUrl": "http://0nelivezer0.jkkllmm.info:21190/ajuno/in9xm/chunks.m3u8?nimblesessionid=35118412&wmsAuthSign=c2VydmVyX3RpbWU9MS85LzIwMjYgMTA6NDk6NTIgUE0maGFzaF92YWx1ZT1YRGV3bHNMOGJ2UnMrNVhqK2VjNlVnPT0mdmFsaWRtaW51dGVzPTI=",
-    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/sudarshan.jpg"
+    "streamUrl": "https://9xjio.wiseplayout.com/9XM/master.m3u8",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/9xm.jpg"
+  },
+  {
+    "title": "B4U Music",
+    "streamUrl": "https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/b4umusic.jpg"
+  },
+  {
+    "title": "Music India",
+    "streamUrl": "https://cdn-2.pishow.tv/live/226/master.m3u8",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/musicindia.jpg"
+  },
+  {
+    "title": "YRF Music",
+    "streamUrl": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/yrfmusic.jpg"
+  },
+  {
+    "title": "Z Cine Classic",
+    "streamUrl": "https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/zeeclassic.jpg"
+  },
+  {
+    "title": "B4U Movies",
+    "streamUrl": "https://mumt02.tangotv.in/B4UMOVIES/index.m3u8",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/b4umovies.jpg"
+  },
+  {
+    "title": "Willow Sports",
+    "streamUrl": "https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/willowsports.jpg"
+  },
+  {
+    "title": "Astha HD",
+    "streamUrl": "https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/astha.jpg"
+  },
+  {
+    "title": "Astha Prime 1",
+    "streamUrl": "https://aasthaott.akamaized.net/110923/smil:aasthaprime1.smil/master.m3u8",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/asthaprime1.jpg"
   }
 ]
