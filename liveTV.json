@@ -69,6 +69,11 @@
     "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/9xm.jpg"
   },
   {
+    "title": "9X Jalwa",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/9xjalwa.jpg"
+  },
+  {
     "title": "B4U Music",
     "streamUrl": "https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8",
     "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/b4umusic.jpg"
@@ -87,6 +92,11 @@
     "title": "Z Cine Classic",
     "streamUrl": "https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8",
     "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/zeeclassic.jpg"
+  },
+  {
+    "title": "Bollywood Classic",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/bollyclassic.jpg"
   },
   {
     "title": "B4U Movies",
