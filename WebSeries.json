@@ -1,9 +1,5 @@
 [
   {
-    "title": "Master Chef",
-    "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/masterchef.jpg",
-    "seasons": [
-        {
           "title": "Tarak Mehta Ka Ooltha Chasma",
           "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/tmok.jpg",
           "seasons": [
@@ -44,6 +40,11 @@
             }
           ]
         },
+  {
+    "title": "Master Chef",
+    "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/masterchef.jpg",
+    "seasons": [
+        
       {
         "seasonNumber": 9,
         "episodes": [
