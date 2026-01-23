@@ -89,9 +89,9 @@
     "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/yrfmusic.jpg"
   },
   {
-    "title": "Z Cine Classic",
-    "streamUrl": "https://amg00862-amg00862c8-amgplt0173.playout.now3.amagi.tv/playlist/amg00862-amg00862c8-amgplt0173/playlist.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/zeeclassic.jpg"
+    "title": "Sony Kal",
+    "streamUrl": "https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1007&wurl_name=SonyKAL&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/sonykal.jpg"
   },
   {
     "title": "Bollywood Classic",
@@ -99,14 +99,54 @@
     "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/bollyclassic.jpg"
   },
   {
+    "title": "Bollywood HD",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23077&ads.content_duration=18000&ads.episode_id=87418&ads.show_id=3260&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CMovies%2CBollywood%2CAsian&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=hi&ads.showtitle=Bollywood%20HD&ads.episodetitle=Bollywood%20HD&ads.keywords=Bollywood%2CHindu%2CMovies%2Cdesi&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20251209",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/bollywoodhd.jpg"
+  },
+  {
+    "title": "Shemaroo Bollywood",
+    "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/playlist.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23141&ads.content_duration=18000&ads.episode_id=123695&ads.show_id=4996&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Entertainment%2CBollywood%2COldies%2FAdult%20Standards%2CAsian&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=hi&ads.showtitle=Shemaroo%20Bollywood&ads.episodetitle=Shemaroo%20Bollywood&ads.keywords=shemaroo%20movies%2Cshemaroo%20bollywood%20channel%2Ctop%2010%20bollywood%20movies%2Ccomedy%20movies%2Cbollywood%20movies%2Chindi%20movies%2Ctop%2010%20hindi%20movies%2Cmovie%20clips%2Cbest%20hindi%20movies%2Cakshay%20kumar%20movies%2CRanbir%20Kapoor%20movies&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20251209",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/shemaroobollywood.jpg"
+  },
+  {
     "title": "B4U Movies",
     "streamUrl": "https://mumt02.tangotv.in/B4UMOVIES/index.m3u8",
     "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/b4umovies.jpg"
   },
   {
+    "title": "Z One",
+    "streamUrl": "https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/zone.jpg"
+  },
+  {
+    "title": "Z BollyMovies",
+    "streamUrl": "https://amg17931-zee-amg17931c8-samsung-ph-6525.playouts.now.amagi.tv/playlist.m3u8",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/zbollymovies.jpg"
+  },
+  {
+    "title": "Z Sine",
+    "streamUrl": "https://amg17931-zee-amg17931c9-samsung-ph-6528.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeesine-samsungph/playlist.m3u8",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/zbollymovies.jpg"
+  },
+  {
     "title": "Willow Sports",
     "streamUrl": "https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8",
     "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/willowsports.jpg"
+  },
+  {
+    "title": "DD Sports",
+    "streamUrl": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/ddsports.jpg"
+  },
+  {
+    "title": "Sony Sports 1",
+    "streamUrl": "https://crichd.cr7x.workers.dev/play.php?Sony_Sports3",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/sonysports1.jpg"
+  },
+  {
+    "title": "Star Sports 1",
+    "streamUrl": "https://crichd.cr7x.workers.dev/play.php?Star_Sports_1_Hindi",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/starsports1.jpg"
   },
   {
     "title": "Travel XP",
