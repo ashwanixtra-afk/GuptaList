@@ -7,6 +7,21 @@
               "seasonNumber": 1,
               "episodes": [
                 {
+                  "title": "23th January 2026",
+                  "videoUrl": "https://s2.videoapne.to/hls/,bdohxlwh7bboxuzvta574sih3ir4okrmekhhhtmancboxnzhaesteifed3jq,.urlset/master.m3u8"
+                }, {
+                  "title": "22th January 2026",
+                  "videoUrl": "https://s2.videoapne.to/hls/,bdohww6g7bboxuzvta574rafrfnoxzo2xgtvyvotyjhkuptu3sziwkr2t5lq,.urlset/master.m3u8"
+                }, {
+                  "title": "21th January 2026",
+                  "videoUrl": "https://s2.videoapne.to/hls/,bdohwegg7bboxuzvta574cyd3kusdrxbxqno7mbhyxvocyjrftbavk7cw3va,.urlset/master.m3u8"
+                },{
+                  "title": "20th January 2026",
+                  "videoUrl": "https://s2.videoapne.to/hls/,bdohwm6g7bboxuzvta574diqt5kxopyv47zplav5cu5ft6z4ide2qhgnx23q,.urlset/master.m3u8"
+                },{
+                  "title": "18th January 2026",
+                  "videoUrl": "https://s2.videoapne.to/hls/,bdohxvog7bboxuzvta574eyy3lqhowocrw4cbjzuci6xuxsa34zd7fodzjpq,.urlset/master.m3u8"
+                },{
                   "title": "17th January 2026",
                   "videoUrl": "https://s2.videoapne.to/hls/,bdohxgwg7bboxuzvta574damtpyhacitihl72asspvtwfd35dsrtayclczxq,.urlset/master.m3u8"
                 },
