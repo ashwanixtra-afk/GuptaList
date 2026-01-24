@@ -239,6 +239,11 @@
     "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/travelxp.jpg"
   },
   {
+    "title": "Big Magic",
+    "streamUrl": "https://php-cr7x.wasmer.app/play.php?id=LIVETV_LIVETVCHANNEL_BIG_MAGIC&uid=le-beta&pass=maar-moj,
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/bigmagic.jpg"
+  },
+  {
     "title": "Astha HD",
     "streamUrl": "https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8",
     "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/astha.jpg"
