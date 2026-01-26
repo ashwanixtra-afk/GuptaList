@@ -120,17 +120,17 @@
   },
   {
     "title": "&TV",
-    "streamUrl": "https://php-cr7x.wasmer.app/play.php?id=40&uid=le-beta&pass=maar-moj",
+    "streamUrl": "https://candy.cr7x.workers.dev/play.php?id=a6b5f6130cc5",
     "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/andtv.jpg"
   },
   {
     "title": "& Pictures",
-    "streamUrl": "https://zee5-x-07-special.cr7x.workers.dev/live/le-beta/maar-moj/0-9-tvpictureshd/master.m3u8",
+    "streamUrl": "https://candy.cr7x.workers.dev/play.php?id=1d8f06362c1e",
     "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/andpictures.jpg"
   },
   {
     "title": "Sony Max",
-    "streamUrl": "https://php-cr7x.wasmer.app/play.php?id=LIVETV_LIVETVCHANNEL_SONY_MAX_HD&uid=le-beta&pass=maar-moj",
+    "streamUrl": "https://candy.cr7x.workers.dev/play.php?id=72e420862a7f",
     "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/sonymax.jpg"
   },
   {
@@ -184,6 +184,11 @@
     "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/zclassic.jpg"
   },
   {
+    "title": "Z Cinema",
+    "streamUrl": "https://candy.cr7x.workers.dev/play.php?id=d581dd66e556",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/zcinema.jpg"
+  },
+  {
     "title": "Z BollyMovies",
     "streamUrl": "https://amg17931-zee-amg17931c8-samsung-ph-6525.playouts.now.amagi.tv/playlist.m3u8",
     "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/zbollymovies.jpg"
@@ -210,12 +215,12 @@
   },
   {
     "title": "Sony Sports 1",
-    "streamUrl": "https://php-cr7x.wasmer.app/play.php?id=LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1_HD&uid=le-beta&pass=maar-moj",
+    "streamUrl": "https://candy.cr7x.workers.dev/play.php?id=afd176a5b887",
     "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/sonysports1.jpg"
   },
   {
     "title": "Sony Sports 2",
-    "streamUrl": "https://php-cr7x.wasmer.app/play.php?id=LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2_HD&uid=le-beta&pass=maar-moj",
+    "streamUrl": "https://candy.cr7x.workers.dev/play.php?id=0a0ad851d705",
     "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/sonysports2.jpg"
   },
   {
@@ -225,7 +230,7 @@
   },
   {
     "title": "Sony Sports 5",
-    "streamUrl": "https://php-cr7x.wasmer.app/play.php?id=LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5_HD&uid=le-beta&pass=maar-moj",
+    "streamUrl": "https://candy.cr7x.workers.dev/play.php?id=2dece57b30a1",
     "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/sonysports5.jpg"
   },
   {
