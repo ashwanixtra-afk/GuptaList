@@ -1,5 +1,9 @@
 [
    {
+    "title": "Dhuarandhar (Low Quality)",
+    "streamUrl": "https://si.videoapne.to/hls/bdohxo6a7bboxuzvta574rcx3voti7cwwwted35654vjbzuyr5jhhacknvua/index-v1-a1.m3u8",
+    "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/dhurandhar.png"
+  },{
     "title": "Akhanda 2 (2025)",
     "streamUrl": "https://s2.videoapne.to/hls/,bdohwv6e7bboxuzvta574eivrlg7to4tkotrlqoviooa4jxct77aoopt4unq,.urlset/master.m3u8",
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/akhanda2.jpg"
@@ -17,11 +21,7 @@
     "streamUrl": "https://s2.videoapne.to/hls/,bdohwzo37bboxuzvta574birsqldzal7phspxueohgohmjqo3lshonvryk2q,.urlset/master.m3u8",
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/120bahadur.jpg"
   },
-   {
-    "title": "Dhuarandhar (Low Quality)",
-    "streamUrl": "https://si.videoapne.to/hls/,bdohwco77bboxuzvta574eyutrbwldusuyeox3wwpv2zdetukpxbki25i3la,.urlset/master.m3u8",
-    "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/dhurandhar.png"
-  },
+   
   {
     "title": "Kantara",
     "streamUrl": "https://si.videoapne.to/hls/,bdohxeo67bboxuzvta574dyurf6o2eao3a5yejoya4bvnzbdpufguzbzieaa,.urlset/master.m3u8",
