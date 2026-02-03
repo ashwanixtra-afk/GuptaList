@@ -64,6 +64,10 @@
         "seasonNumber": 9,
         "episodes": [
              {
+            "title": "E22 - 3rd Feb 2026",
+            "videoUrl": "https://s2.videoapne.to/hls/,bdohwdga7bboxuzvta574byuquuwh5cfv255aooefnulsbslflwpg4xfjeba,.urlset/master.m3u8"
+          }
+          ,{
             "title": "E21 - 2nd Feb 2026",
             "videoUrl": "https://s2.videoapne.to/hls/,bdohwloa7bboxuzvta574ri3qh4qxwqjj56mfrt2tymyf3ljm54nqh5ndqrq,.urlset/master.m3u8"
           }
