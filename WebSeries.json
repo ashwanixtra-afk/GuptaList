@@ -64,6 +64,10 @@
         "seasonNumber": 9,
         "episodes": [
              {
+            "title": "E27 - 10th Feb 2026",
+            "videoUrl": "https://s2.videoapne.to/hls/,bdohw46b7bboxuzvta2p4fipqs6otltvzdvlmepdx33jekkpv5yqt6l55lmq,.urlset/master.m3u8"
+          }
+          , {
             "title": "E26 - 9th Feb 2026",
             "videoUrl": "https://si.videoapne.to/hls/bdohwd6b7bboxuzvta2p4tilrsw6twfvrmmz3sfvoo2qhqa5tjmo2awdehaq/index-v1-a1.m3u8"
           }
