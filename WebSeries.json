@@ -64,6 +64,10 @@
         "seasonNumber": 9,
         "episodes": [
              {
+            "title": "E30 - 13th Feb 2026",
+            "videoUrl": "https://s2.videoapne.to/hls/,bdohxewc7bboxuzvta2p4fszqlamgfnsiseg43b3pwzacf5cbddfvxatinua,.urlset/master.m3u8"
+          }
+          ,{
             "title": "E29 - 12th Feb 2026",
             "videoUrl": "https://s2.videoapne.to/hls/,bdohxewc7bboxuzvta2p4fszqlamgfnsiseg43b3pwzacf5cbddfvxatinua,.urlset/master.m3u8"
           }
