@@ -64,6 +64,10 @@
         "seasonNumber": 9,
         "episodes": [
              {
+            "title": "E35 - 20th Feb 2026",
+            "videoUrl": "https://si.videoapne.to/hls/,bdohxq6d7bboxuzvta2p4dymqwtadhguxs27joxcxwj2ugjamdyrmxik3cxq,.urlset/master.m3u8"
+          }
+          ,  {
             "title": "E34 - 19th Feb 2026",
             "videoUrl": "https://s2.videoapne.to/hls/,bdohx26d7bboxuzvta2p4fimrwbjwvkicb7wmlla5rk5j5caby2lkolpgvsq,.urlset/master.m3u8"
           }
