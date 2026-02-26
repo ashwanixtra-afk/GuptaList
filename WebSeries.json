@@ -64,6 +64,10 @@
         "seasonNumber": 9,
         "episodes": [
             {
+            "title": "E38 - 25th Feb 2026",
+            "videoUrl": "https://s2.videoapne.to/hls/,bdohxa6m7bboxuzvta2p4bya2y32yrsenpj77xhwnfe4f4sf3yfpkx76rc2a,.urlset/master.m3u8"
+          }
+          , {
             "title": "E37 - 24th Feb 2026",
             "videoUrl": "https://s2.videoapne.to/hls/,bdohxlom7bboxuzvta2p4tqls3eaofgmybwooyqroj2uhk4ru75fopx2bena,.urlset/master.m3u8"
           }
