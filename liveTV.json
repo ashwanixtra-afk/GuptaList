@@ -89,69 +89,14 @@
     "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/yrfmusic.jpg"
   },
   {
-    "title": "Sony Kal",
-    "streamUrl": "https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8?wurl_channel=1007&wurl_name=SonyKAL&coppa=0&uid=[DEVICE_ID]&rdid=[IFA]&ifatype=[IFA_TYPE]&dnt=[LMT]&donotsell=[DNS]&isgdpr=[GDPR]&gdpr=[GDPR_CONSENT]&country=[COUNTRY]&pr=[US_PRIVACY]&appstoreurl=[APP_STOREURL]&bundleid=[APP_BUNDLE]&appname=[APP_NAME]&appversion=[APP_VERSION]&dt=[DEVICE_TYPE]&make=[DEVICE_MAKE]&model=[DEVICE_MODEL]&targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&nonce=[NONCE]",
-    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/sonykal.jpg"
-  },
-  {
-    "title": "Sony Sab",
-    "streamUrl": "https://php-cr7x.wasmer.app/play.php?id=LIVETV_LIVETVCHANNEL_SONY_SAB_HD&uid=le-beta&pass=maar-moj",
-    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/sonysab.jpg"
-  },
-  {
-    "title": "Colors HD",
-    "streamUrl": "https://php-cr7x.wasmer.app/play.php?id=LIVETV_LIVETVCHANNEL_COLORS_HD&uid=le-beta&pass=maar-moj",
-    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/colorshd.jpg"
-  },
-  {
-    "title": "Zee TV",
-    "streamUrl": "https://php-cr7x.wasmer.app/play.php?id=LIVETV_LIVETVCHANNEL_ZEE_TV_HD&uid=le-beta&pass=maar-moj",
-    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/zeetv.jpg"
-  },
-  {
-    "title": "Star Plus HD",
-    "streamUrl": "https://php-cr7x.wasmer.app/play.php?id=LIVETV_LIVETVCHANNEL_STAR_PLUS_HD&uid=le-beta&pass=maar-moj",
-    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/starplushd.jpg"
-  },
-  {
-    "title": "Star Bharat",
-    "streamUrl": "https://php-cr7x.wasmer.app/play.php?id=LIVETV_LIVETVCHANNEL_STAR_BHARAT_HD&uid=le-beta&pass=maar-moj",
-    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/starbharat.jpg"
-  },
-  {
     "title": "&TV",
     "streamUrl": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
     "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/andtv.jpg"
   },
   {
-    "title": "& Pictures",
-    "streamUrl": "https://candy.cr7x.workers.dev/play.php?id=1d8f06362c1e",
-    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/andpictures.jpg"
-  },
-  {
     "title": "Sony Cine",
     "streamUrl": "https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8",
     "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/sonycine.jpg"
-  },
-  {
-    "title": "Tata Play Classic TV",
-    "streamUrl": "https://php-cr7x.wasmer.app/play.php?id=964&uid=le-beta&pass=maar-moj",
-    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/tataplayclassictv.jpg"
-  },
-  {
-    "title": "Tata Play Classic Cinema",
-    "streamUrl": "https://php-cr7x.wasmer.app/play.php?id=741&uid=le-beta&pass=maar-moj",
-    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/tataplayclassiccinema.jpg"
-  },
-  {
-    "title": "Star Gold",
-    "streamUrl": "https://php-cr7x.wasmer.app/play.php?id=LIVETV_LIVETVCHANNEL_STAR_GOLD_HD&uid=le-beta&pass=maar-moj",
-    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/stargold.jpg"
-  },
-  {
-    "title": "Star Gold 2",
-    "streamUrl": "https://php-cr7x.wasmer.app/play.php?id=LIVETV_LIVETVCHANNEL_STAR_GOLD_2_HD&uid=le-beta&pass=maar-moj",
-    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/stargold2.jpg"
   },
   {
     "title": "Bollywood Classic",
@@ -177,16 +122,6 @@
     "title": "Z One",
     "streamUrl": "https://amg17931-zee-amg17931c6-samsung-au-8872.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeeworld-samsungau/playlist.m3u8",
     "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/zone.jpg"
-  },
-  {
-    "title": "Z Classic",
-    "streamUrl": "https://php-cr7x.wasmer.app/play.php?id=LIVETV_LIVETVCHANNEL_ZEE_CLASSIC&uid=le-beta&pass=maar-moj",
-    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/zclassic.jpg"
-  },
-  {
-    "title": "Z Cinema",
-    "streamUrl": "https://candy.cr7x.workers.dev/play.php?id=d581dd66e556",
-    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/zcinema.jpg"
   },
   {
     "title": "Z BollyMovies",
@@ -215,7 +150,7 @@
   },
   {
     "title": "Sony Sports 1",
-    "streamUrl": "https://candy.cr7x.workers.dev/play.php?id=afd176a5b887",
+    "streamUrl": "https://n8.sanwalyaarpya.com:1686/hls/skyscric.m3u8?md5=tlxJA54skb-MJHgrkR4ypQ&expires=1772082769 ",
     "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/sonysports1.jpg"
   },
   {
@@ -242,12 +177,7 @@
     "title": "Travel XP",
     "streamUrl": "https://travelxp-travelxp-1-au.samsung.wurl.tv/playlist.m3u8",
     "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/travelxp.jpg"
-  },
-  {
-    "title": "Big Magic",
-    "streamUrl": "https://php-cr7x.wasmer.app/play.php?id=LIVETV_LIVETVCHANNEL_BIG_MAGIC&uid=le-beta&pass=maar-moj",
-    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/bigmagic.jpg"
-  },
+  }
   {
     "title": "Astha HD",
     "streamUrl": "https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/index.m3u8",
@@ -264,24 +194,9 @@
     "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/cartoonclassic.jpg"
   },
   {
-    "title": "Cartoon Network",
-    "streamUrl": "https://php-cr7x.wasmer.app/play.php?id=LIVETV_LIVETVCHANNEL_CARTOON_NETWORK&uid=le-beta&pass=maar-moj",
-    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/cartoonnetwork.jpg"
-  },
-  {
     "title": "Cartoon Rewind",
     "streamUrl": "https://amg00136-wbd-amg00136c75-tablo-us-7211.playouts.now.amagi.tv/playlist.m3u8",
     "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/cartoonrewind.jpg"
-  },
-  {
-    "title": "Discovery Kids",
-    "streamUrl": "https://php-cr7x.wasmer.app/play.php?id=LIVETV_LIVETVCHANNEL_DISCOVERY_KIDS&uid=le-beta&pass=maar-moj",
-    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/discoverykids.jpg"
-  },
-  {
-    "title": "Disney Channel",
-    "streamUrl": "https://php-cr7x.wasmer.app/play.php?id=LIVETV_LIVETVCHANNEL_DISNEY_CHANNEL&uid=le-beta&pass=maar-moj",
-    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/disneychannel.jpg"
   },
   {
     "title": "Nursery Rhymes",
