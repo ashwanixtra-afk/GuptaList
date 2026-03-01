@@ -64,6 +64,14 @@
         "seasonNumber": 9,
         "episodes": [
             {
+            "title": "E40 - 27th Feb 2026",
+            "videoUrl": "https://s2.videoapne.to/hls/,bdohwhom7bboxuzvta2p4gku3alsjh4rvfwnv5rxlhzvg2afgnmcgzhnrnia,.urlset/master.m3u8"
+          }
+          ,  {
+            "title": "E39 - 26th Feb 2026",
+            "videoUrl": "https://si.videoapne.to/hls/bdohxwom7bboxuzvta2p4hqdqgikc63ruuquh6jo4ambagmhfaxakpj23paa/index-v1-a1.m3u8"
+          }
+          , {
             "title": "E38 - 25th Feb 2026",
             "videoUrl": "https://s2.videoapne.to/hls/,bdohxa6m7bboxuzvta2p4bya2y32yrsenpj77xhwnfe4f4sf3yfpkx76rc2a,.urlset/master.m3u8"
           }
