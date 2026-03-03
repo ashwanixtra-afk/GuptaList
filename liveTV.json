@@ -99,6 +99,11 @@
     "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/sonycine.jpg"
   },
   {
+    "title": "Mastiii",
+    "streamUrl": "https://mumt02.tangotv.in/MASTIII/index.m3u8",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/mastiii.jpg"
+  },
+  {
     "title": "Bollywood Classic",
     "streamUrl": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8",
     "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/bollyclassic.jpg"
@@ -139,6 +144,11 @@
     "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/zsine.jpg"
   },
   {
+    "title": "Z Cinema",
+    "streamUrl": "http://103.99.249.139/zeecinema/index.m3u8",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/zcinema.jpg"
+  },
+  {
     "title": "Willow Sports",
     "streamUrl": "https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8",
     "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/willowsports.jpg"
@@ -172,6 +182,10 @@
     "title": "Star Sports 1",
     "streamUrl": "https://crichd.cr7x.workers.dev/play.php?Star_Sports_1_Hindi",
     "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/starsports1.jpg"
+  }, {
+    "title": "Star Sports 2",
+    "streamUrl": "http://tvn1.chowdhury-shaheb.com/starsport2/index.m3u8",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/starsports2.jpg"
   },
   {
     "title": "Travel XP",
