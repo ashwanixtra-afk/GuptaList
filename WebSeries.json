@@ -64,6 +64,10 @@
         "seasonNumber": 9,
         "episodes": [
             {
+            "title": "E42 - 3nd March 2026",
+            "videoUrl": "https://s2.videoapne.to/hls/bdohxbgn7bboxuzvta2p4canssr73v2vlc44dkrdzjdyf4grctgt22sn6n7q/index-v1-a1.m3u8"
+          }
+          , {
             "title": "E41 - 2nd March 2026",
             "videoUrl": "https://s2.videoapne.to/hls/,bdohxjwn7bboxuzvta2p4gya3gdtypwmwnxlzogqubnoyizuhisidb2qunsq,.urlset/master.m3u8"
           }
