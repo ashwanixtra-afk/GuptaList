@@ -89,6 +89,10 @@
     "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/yrfmusic.jpg"
   },
   {
+    "title": "Mastiii",
+    "streamUrl": "https://mumt02.tangotv.in/MASTIII/index.m3u8",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/mastiii.jpg"
+  },{
     "title": "&TV",
     "streamUrl": "https://amg01117-amg01117c1-amgplt0029.playout.now3.amagi.tv/playlist/amg01117-amg01117c1-amgplt0029/playlist.m3u8",
     "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/andtv.jpg"
@@ -97,11 +101,6 @@
     "title": "Sony Cine",
     "streamUrl": "https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8",
     "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/sonycine.jpg"
-  },
-  {
-    "title": "Mastiii",
-    "streamUrl": "https://mumt02.tangotv.in/MASTIII/index.m3u8",
-    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/mastiii.jpg"
   },
   {
     "title": "Bollywood Classic",
