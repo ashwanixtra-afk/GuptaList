@@ -1,5 +1,19 @@
 [
       {
+          "title": "MTV Splitsvilla",
+          "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/splitzvilla.jpeg",
+          "seasons": [
+                      {
+                        "seasonNumber": 13,
+                            "episodes": [
+                              {
+                                "title": "13th March 2026",
+                                "videoUrl": "https://s2.videoapne.to/hls/,bdohwygo7bboxuzvta2p4cyx3czlsvfug6v3vulr3atxsah6xdqdkpagl25a,.urlset/master.m3u8"
+                              }
+                        ]
+                      }
+                    ]
+        },{
           "title": "Kyunki Saas Bhi Kabhi Bahu Thi",
           "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/kyonkisaasbhi.jpeg",
           "seasons": [
