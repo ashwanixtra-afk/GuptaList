@@ -1,5 +1,60 @@
 [
+   {
+    "title": "Laughter Chefs",
+    "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/laughterchef.jpeg",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+           
+          }
+        ]
+      }
+    ]
+  },
   {
+    "title": "Wheel Of Fortune",
+    "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/wheeloffortune.jpeg",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+           
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Yeh Rishta Kya Kehlata Hai",
+    "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/yrkkh.jpeg",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+           
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Anupamaa",
+    "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/anupama.jpeg",
+    "seasons": [
+      {
+        "seasonNumber": 1,
+        "episodes": [
+          {
+           
+          }
+        ]
+      }
+    ]
+  },{
     "title": "MTV Splitsvilla",
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/splitzvilla.jpeg",
     "seasons": [
@@ -61,7 +116,7 @@
     ]
   },
   {
-    "title": "Tarak Mehta Ka Ooltha Chasma",
+    "title": "Taarak Mehta Ka Ooltah Chashmah",
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/tmok.jpg",
     "seasons": [
       {
