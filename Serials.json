@@ -1,14 +1,12 @@
 [
-   {
+  {
     "title": "Laughter Chefs",
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/lughterchef.jpeg",
     "seasons": [
       {
         "seasonNumber": 1,
         "episodes": [
-          {
-           
-          }
+          {}
         ]
       }
     ]
@@ -21,8 +19,10 @@
         "seasonNumber": 1,
         "episodes": [
           {
-           
-          }
+            "title": "13th March 2026",
+            "videoUrl": "https://si.videoapne.to/bdohwtgo7bboxuzvta2p4fsrqu2yqkmmzg23peuveby5q6x7z6sqlvaxrzia/v.mp4"
+          },
+          {}
         ]
       }
     ]
@@ -35,8 +35,14 @@
         "seasonNumber": 1,
         "episodes": [
           {
-           
-          }
+            "title": "15th March 2026",
+            "videoUrl": "https://si.videoapne.to/bdohxfop7bboxuzvta2p4syp3i2sgqliplwzdtiyrghqc5j7ya3qkqzs5vaq/v.mp4"
+          },
+          {
+            "title": "14th March 2026",
+            "videoUrl": "https://si.videoapne.to/bdohxnop7bboxuzvta2p4riutazwfwcadr7iybauvmcou24xou5zixlbfqsa/v.mp4"
+          },
+          {}
         ]
       }
     ]
@@ -49,12 +55,19 @@
         "seasonNumber": 1,
         "episodes": [
           {
-           
-          }
+            "title": "15th March 2026",
+            "videoUrl": "https://si.videoapne.to/bdohxg6p7bboxuzvta2p4cqqqx6j2a6u5hxjaiku5ykmhrof5fmb72qe3kfq/v.mp4"
+          },
+          {
+            "title": "14th March 2026",
+            "videoUrl": "https://si.videoapne.to/bdohxpgp7bboxuzvta2p4sqdtp4gdpyuy7csod5xcpkctmlxdrmhuftt6gzq/v.mp4"
+          },
+          {}
         ]
       }
     ]
-  },{
+  },
+  {
     "title": "MTV Splitsvilla",
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/splitzvilla.jpeg",
     "seasons": [
@@ -122,6 +135,10 @@
       {
         "seasonNumber": 1,
         "episodes": [
+          {
+            "title": "14th March 2026",
+            "videoUrl": "https://s2.videoapne.to/bdohxlop7bboxuzvta2p4e2v2ynd7o73kiytvxeuaa6tdfngplflhioaynnq/v.mp4"
+          },
           {
             "title": "23th January 2026",
             "videoUrl": "https://s2.videoapne.to/hls/,bdohxlwh7bboxuzvta574sih3ir4okrmekhhhtmancboxnzhaesteifed3jq,.urlset/master.m3u8"
@@ -536,5 +553,4 @@
       }
     ]
   }
-  
 ]
