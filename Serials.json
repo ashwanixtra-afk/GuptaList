@@ -242,7 +242,11 @@
     "title": "Mannat Har Khushi Paane Ki",
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/mannat_serial.jpeg",
     "episodes": [
-      
+      {
+        "title": "18th March 2026",
+        "videoUrl": "https://s2.videoapne.to/bdohwg6p7bboxuzvta2p4sym36vws5ipoohh6obj7dm32vjh3d63lypt7r7a/v.mp4",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/6m1qdep5p4cf.jpg"
+      },
       {
         "title": "14th March 2026",
         "videoUrl": "https://s2.videoapne.to/bdohxhwp7bboxuzvta2p4dqa3s47ggovyeveydzjh6oijelh6a3likfylytq/v.mp4",
