@@ -40,7 +40,10 @@
     "title": "Yeh Rishta Kya Kehlata Hai",
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/yrkkh.jpeg",
     "episodes": [
-      
+      {
+        "title": "18th March 2026",
+        "videoUrl": "https://si.videoapne.to/bdohwiop7bboxuzvta2p4ssv2yhw6xkkzyaybytfzdgqk2bljiw56hrojzta/v.mp4"
+      },
       {
         "title": "17th March 2026",
         "videoUrl": "https://s2.videoapne.to/bdohxtwp7bboxuzvta2p4eqft6oldkjqvtbmbyk4on3jig2zrf7bwi2aldiq/v.mp4",
@@ -67,7 +70,10 @@
     "title": "Anupamaa",
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/anupama.jpeg",
     "episodes": [
-     
+      {
+        "title": "18th March 2026",
+        "videoUrl": "https://si.videoapne.to/bdohwk6p7bboxuzvta2p4cirtvlfgykqnj3vqdr3gvfomu2y6n753sj5f3ta/v.mp4"
+      },
       {
         "title": "17th March 2026",
         "videoUrl": "https://si.videoapne.to/bdohxw6p7bboxuzvta2p4cawtp2ujhdfxb4bnjgwk56crmq53mxvr4mv7fvq/v.mp4",
