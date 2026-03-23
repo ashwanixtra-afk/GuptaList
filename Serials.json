@@ -3,7 +3,7 @@
     "title": "Laughter Chefs Season 3",
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/lughterchef.jpeg",
     "episodes": [
-      {
+       {
         "title": "22nd March 2026",
         "videoUrl": "https://si.videoapne.to/bdohx5gi7bboxuzvta2p4scvr7tiuipufmo2fo76zttd5qr3ekoygxb5v3fq/v.mp4",
         "imageUrl": "https://si.videoapne.to/i/01/00024/54aaxm4gz569.jpg"
@@ -411,11 +411,6 @@
         "title": "18th March 2026",
         "videoUrl": "https://s2.videoapne.to/bdohwg6p7bboxuzvta2p4sym36vws5ipoohh6obj7dm32vjh3d63lypt7r7a/v.mp4",
         "imageUrl": "https://s2.videoapne.to/i/01/00024/6m1qdep5p4cf.jpg"
-      },
-      {
-        "title": "14th March 2026",
-        "videoUrl": "https://s2.videoapne.to/bdohxhwp7bboxuzvta2p4dqa3s47ggovyeveydzjh6oijelh6a3likfylytq/v.mp4",
-        "imageUrl": ""
       }
     ]
   },
