@@ -245,6 +245,53 @@
     ]
   },
   {
+    "title": "Tribeverse",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Tribeverse.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "https://s2.videoapne.to/bdohx5hu7bboxuzvta2p4ekxr7klhrw2o5kbwa5utgsmypkbwbfyjyiavapa/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Tribeverse_Episode_1.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "https://s2.videoapne.to/bdohx47u7bboxuzvta2p4sqitw5nad5hq2y35vdqqsk32qprfzcc6v455iqa/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Tribeverse_Episode_2.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "https://s2.videoapne.to/bdohx4xu7bboxuzvta2p4f2y3pcem3hnzhoirtbf7mbglyvwlk4fuxkvazyq/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Tribeverse_Episode_3.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "https://si.videoapne.to/bdohx4pu7bboxuzvta2p4eaarbjbbrz5zwlc6fbnayv4dzj34xehvmfrtera/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Tribeverse_Episode_4.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "https://s2.videoapne.to/bdohwopu7bboxuzvta2p4ckst3fqvcut6odfwjbihsu2id3exjelsvmqi7va/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Tribeverse_Episode_5.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "https://si.videoapne.to/bdohwkpu7bboxuzvta2p4dasqsrhwpx7ohkroaewzlp4j7nt4kimy5p6epya/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Tribeverse_Episode_6.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "https://si.videoapne.to/bdohw7pu7bboxuzvta2p4g2ttv6efcc73uxahewcz4r323fwyr22b5ngn2ta/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Tribeverse_Episode_7.jpg"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "https://s2.videoapne.to/bdohwx7u7bboxuzvta2p4eswqrdabzei6tcop2wlwfgylcwnzjsgbgerzapa/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Tribeverse_Episode_8.jpg"
+      }
+    ]
+  },
+  {
     "title": "Adalat Insaaf Ki Jung",
     "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Adalat_Insaaf_Ki_Jung.jpg",
     "year": "2026",
@@ -441,33 +488,6 @@
         "title": "Episode 6",
         "videoUrl": "https://s2.videoapne.to/bdohxi7u7bboxuzvta2p4gamq2vglnlvsqmdrjfelkbq6zcvzmjdvnhtxfjq/v.mp4",
         "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Ashubh_Vivaah_Episode_6.jpg"
-      }
-    ]
-  },
-  {
-    "title": "Tribeverse",
-    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Tribeverse.jpg",
-    "year": "2026",
-    "episodes": [
-      {
-        "title": "Episode 1",
-        "videoUrl": "https://s2.videoapne.to/bdohx5hu7bboxuzvta2p4ekxr7klhrw2o5kbwa5utgsmypkbwbfyjyiavapa/v.mp4",
-        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Tribeverse_Episode_1.jpg"
-      },
-      {
-        "title": "Episode 2",
-        "videoUrl": "https://s2.videoapne.to/bdohx47u7bboxuzvta2p4sqitw5nad5hq2y35vdqqsk32qprfzcc6v455iqa/v.mp4",
-        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Tribeverse_Episode_2.jpg"
-      },
-      {
-        "title": "Episode 3",
-        "videoUrl": "https://s2.videoapne.to/bdohx4xu7bboxuzvta2p4f2y3pcem3hnzhoirtbf7mbglyvwlk4fuxkvazyq/v.mp4",
-        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Tribeverse_Episode_3.jpg"
-      },
-      {
-        "title": "Episode 4",
-        "videoUrl": "https://si.videoapne.to/bdohx4pu7bboxuzvta2p4eaarbjbbrz5zwlc6fbnayv4dzj34xehvmfrtera/v.mp4",
-        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Tribeverse_Episode_4.jpg"
       }
     ]
   },
