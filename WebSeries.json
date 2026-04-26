@@ -1,62 +1,5 @@
 [
   {
-    "title": "Muthu Alias Kaattaan",
-    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Muthu_Alias_Kaattaan.jpg",
-    "year": "2026",
-    "episodes": [
-      {
-        "title": "Episode 1",
-        "videoUrl": "https://si.videoapne.to/bdohxmgj7bboxuzvta2p4fqrrfgva7yuen3d6m5qhttejhycyjuwzvaedxha/v.mp4",
-        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Muthu_Alias_Kaattaan_Episode_1.jpg"
-      },
-      {
-        "title": "Episode 2",
-        "videoUrl": "https://si.videoapne.to/bdohxl6j7bboxuzvta2p4fawsr3h5vjgeawwn3wapfdakaumnexehs6e5kha/v.mp4",
-        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Muthu_Alias_Kaattaan_Episode_2.jpg"
-      },
-      {
-        "title": "Episode 3",
-        "videoUrl": "https://si.videoapne.to/bdohxlwj7bboxuzvta2p4cqetkv3fdgwisi3rkbmyck2kqakinfqk3wdgtca/v.mp4",
-        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Muthu_Alias_Kaattaan_Episode_3.jpg"
-      },
-      {
-        "title": "Episode 4",
-        "videoUrl": "https://si.videoapne.to/bdohxloj7bboxuzvta2p4fsrt3a2mm4sqvpkziojxi5n23a5lvgweop3nywa/v.mp4",
-        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Muthu_Alias_Kaattaan_Episode_4.jpg"
-      },
-      {
-        "title": "Episode 5",
-        "videoUrl": "https://si.videoapne.to/bdohxlgj7bboxuzvta2p4eyiqcg2tttcse5vpo4wgahqu7hfltryd2gievyq/v.mp4",
-        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Muthu_Alias_Kaattaan_Episode_5.jpg"
-      },
-      {
-        "title": "Episode 6",
-        "videoUrl": "https://s2.videoapne.to/bdohxk6j7bboxuzvta2p4biot37l4tvgvwizpheh4sank3agcvcvelx5o56a/v.mp4",
-        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Muthu_Alias_Kaattaan_Episode_6.jpg"
-      },
-      {
-        "title": "Episode 7",
-        "videoUrl": "https://s2.videoapne.to/bdohxkwj7bboxuzvta2p4sss27557l5v2srg62ndtcw23ryh3hzkjqhywv7q/v.mp4",
-        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Muthu_Alias_Kaattaan_Episode_7.jpg"
-      },
-      {
-        "title": "Episode 8",
-        "videoUrl": "https://s2.videoapne.to/bdohxkoj7bboxuzvta2p4b2stxztkrtvbjoky6la3y3dmnehxhnojynwbckq/v.mp4",
-        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Muthu_Alias_Kaattaan_Episode_8.jpg"
-      },
-      {
-        "title": "Episode 9",
-        "videoUrl": "https://s2.videoapne.to/bdohxkgj7bboxuzvta2p4gquq5o7gkckjxnbvgl4udyws6hbatcwjlacnjna/v.mp4",
-        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Muthu_Alias_Kaattaan_Episode_9.jpg"
-      },
-      {
-        "title": "Episode 10",
-        "videoUrl": "https://s2.videoapne.to/bdohxj6j7bboxuzvta2p4dqntdwefbvxq37xk7kalbpgjv7u2lrcklgb3lia/v.mp4",
-        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Muthu_Alias_Kaattaan_Episode_10.jpg"
-      }
-    ]
-  },
-  {
     "title": "Tribeverse",
     "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Tribeverse.jpg",
     "year": "2026",
@@ -110,6 +53,78 @@
         "title": "Episode 10",
         "videoUrl": "https://si.videoapne.to/bdohxc7v7bboxuzvta2p4eiiqbsxvthclh3kdkglhaokip6icjkgk5ugz2fa/v.mp4",
         "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Tribeverse_Episode_10.jpg"
+      },
+      {
+        "title": "Episode 11",
+        "videoUrl": "https://s2.videoapne.to/bdohx2xv7bboxuzvta2p4saprdjw2nu7ezyt4dqyplmxnttozzmncy74zwkq/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Tribeverse_Episode_11.jpg"
+      },
+      {
+        "title": "Episode 12",
+        "videoUrl": "https://si.videoapne.to/bdohxt7v7bboxuzvta2p4eqz3g6v34y76itgosbi3g5375lm6jkjswisz5ja/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Tribeverse_Episode_12.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Battleground Season 2",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Battleground_Season_2.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "https://s2.videoapne.to/bdohxthv7bboxuzvta2p4eqwtbbvdfbnmobzqvu3strpqb3ilybsknzxxcpa/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Battleground_Season_2_Episode_1.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "https://s2.videoapne.to/bdohxs7v7bboxuzvta2p4fywssu24gdt4eyb2dnz22j5rocniueygk32w4wq/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Battleground_Season_2_Episode_2.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "https://s2.videoapne.to/bdohxsxv7bboxuzvta2p4gcx26wfzviv5noly2ijhjjralu55k4muxkhogya/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Battleground_Season_2_Episode_3.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "https://si.videoapne.to/bdohxshv7bboxuzvta2p4gqvt3rizlylzbtnxeewxdg26jhmcz5rpee5ugda/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Battleground_Season_2_Episode_4.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "https://si.videoapne.to/bdohxr7v7bboxuzvta2p4cqxsqvtqngdseh3wvbgqzgy3cyhonf7kcl4glsq/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Battleground_Season_2_Episode_5.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "https://si.videoapne.to/bdohxrxv7bboxuzvta2p4ekwta5bopjdmvzqnzh2cxppvigllanhdds7xr6q/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Battleground_Season_2_Episode_6.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "https://si.videoapne.to/bdohxrpv7bboxuzvta2p4gitq76mrbatezvjpuydmru5jj5zhp7yojl7snra/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Battleground_Season_2_Episode_7.jpg"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "https://s2.videoapne.to/bdohwpxv7bboxuzvta2p4didqtjdlvgb5zrileelp7o5oqgxlompuuds44ha/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Battleground_Season_2_Episode_8.jpg"
+      },
+      {
+        "title": "Episode 9",
+        "videoUrl": "https://s2.videoapne.to/bdohwppv7bboxuzvta2p4gacqgabfef4xqlczyeyktyx6aeb26322k6jle2a/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Battleground_Season_2_Episode_9.jpg"
+      },
+      {
+        "title": "Episode 10",
+        "videoUrl": "https://s2.videoapne.to/bdohwphv7bboxuzvta2p4tsvqqjqfr5ozqnegebzlc2i52rvelllupq6nfra/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Battleground_Season_2_Episode_10.jpg"
+      },
+      {
+        "title": "Episode 11",
+        "videoUrl": "https://s2.videoapne.to/bdohwo7v7bboxuzvta2p4hqyqwuisihxwjaui7c6melhwfbvrnkqgfmq7a3q/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Battleground_Season_2_Episode_11.jpg"
       }
     ]
   },
@@ -587,6 +602,63 @@
         "title": "Episode 22",
         "videoUrl": "https://s2.videoapne.to/bdohx66j7bboxuzvta2p4hquqeyayowuxyxgqof25d7wi7yib5cfwratlseq/v.mp4",
         "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/The_Society_Season_2_Episode_22.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Muthu Alias Kaattaan",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Muthu_Alias_Kaattaan.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "https://si.videoapne.to/bdohxmgj7bboxuzvta2p4fqrrfgva7yuen3d6m5qhttejhycyjuwzvaedxha/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Muthu_Alias_Kaattaan_Episode_1.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "https://si.videoapne.to/bdohxl6j7bboxuzvta2p4fawsr3h5vjgeawwn3wapfdakaumnexehs6e5kha/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Muthu_Alias_Kaattaan_Episode_2.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "https://si.videoapne.to/bdohxlwj7bboxuzvta2p4cqetkv3fdgwisi3rkbmyck2kqakinfqk3wdgtca/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Muthu_Alias_Kaattaan_Episode_3.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "https://si.videoapne.to/bdohxloj7bboxuzvta2p4fsrt3a2mm4sqvpkziojxi5n23a5lvgweop3nywa/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Muthu_Alias_Kaattaan_Episode_4.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "https://si.videoapne.to/bdohxlgj7bboxuzvta2p4eyiqcg2tttcse5vpo4wgahqu7hfltryd2gievyq/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Muthu_Alias_Kaattaan_Episode_5.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "https://s2.videoapne.to/bdohxk6j7bboxuzvta2p4biot37l4tvgvwizpheh4sank3agcvcvelx5o56a/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Muthu_Alias_Kaattaan_Episode_6.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "https://s2.videoapne.to/bdohxkwj7bboxuzvta2p4sss27557l5v2srg62ndtcw23ryh3hzkjqhywv7q/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Muthu_Alias_Kaattaan_Episode_7.jpg"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "https://s2.videoapne.to/bdohxkoj7bboxuzvta2p4b2stxztkrtvbjoky6la3y3dmnehxhnojynwbckq/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Muthu_Alias_Kaattaan_Episode_8.jpg"
+      },
+      {
+        "title": "Episode 9",
+        "videoUrl": "https://s2.videoapne.to/bdohxkgj7bboxuzvta2p4gquq5o7gkckjxnbvgl4udyws6hbatcwjlacnjna/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Muthu_Alias_Kaattaan_Episode_9.jpg"
+      },
+      {
+        "title": "Episode 10",
+        "videoUrl": "https://s2.videoapne.to/bdohxj6j7bboxuzvta2p4dqntdwefbvxq37xk7kalbpgjv7u2lrcklgb3lia/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Muthu_Alias_Kaattaan_Episode_10.jpg"
       }
     ]
   },
