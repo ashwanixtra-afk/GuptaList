@@ -1,21 +1,85 @@
-[  
-   {
+[
+  {
+    "title": "Duniya",
+    "streamUrl": "https://si.videoapne.to/bdohxjxv7bboxuzvta2p4dqorfio3ubfkfhby6wa5hyn4q32jrlgf24aklma/v.mp4",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/Classic/movie_Duniya_1776939600.jpg"
+  },
+  {
+    "title": "100 Days",
+    "streamUrl": "https://si.videoapne.to/bdohw27u7bboxuzvta2p4bagtp6l46e6hfgmvrf6mwgk4pfsj6hjpdlsslya/v.mp4",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/Classic/movie_100-Days_1776767973.jpg"
+  },
+  {
+    "title": "Gair",
+    "streamUrl": "https://si.videoapne.to/bdohw3pu7bboxuzvta2p4fyrtpe3g3fo3drnnkksrcxbswv4e6wcurr6uwqa/v.mp4",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/Classic/movie_Gair_1776762268.jpg"
+  },
+  {
+    "title": "Shakti",
+    "streamUrl": "https://si.videoapne.to/bdohx5wl7bboxuzvta2p4dqrs6m5m4qtpr6g57uvnb6vdsiowiioklsd5yfa/v.mp4",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/Classic/movie_Shakti_1775902372.jpg"
+  },
+  {
+    "title": "Platform",
+    "streamUrl": "https://si.videoapne.to/bdohxpwl7bboxuzvta2p4fqhqx6m4cue3tsbjfatmnkttmuhelcdakbcipdq/v.mp4",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/Classic/movie_Platform_1775749918.jpg"
+  },
+  {
+    "title": "Rakshak",
+    "streamUrl": "https://si.videoapne.to/bdohwbdd7bboxuzvta774dal3t4erptdat3cndjqvv3ewp5k2xw3btvif3pa/v.mp4",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/Classic/movie_Rakshak_1727343713.jpg"
+  },
+  {
+    "title": "Damini",
+    "streamUrl": "https://si.videoapne.to/bdohwold7bboxuzvta774tct26kw5w645j2jrysaxmwbaxxyxdymvwclfk7a/v.mp4",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/Classic/movie_Damini_1727233658.jpg"
+  },
+  {
+    "title": "Shaan",
+    "streamUrl": "https://si.videoapne.to/bdohwodd7bboxuzvta774tkwtzbe4xmgbrb3z36k547x4ss3x3nky5apevda/v.mp4",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/Classic/movie_Shaan_1727235309.jpg"
+  },
+  {
+    "title": "Haatim Tai",
+    "streamUrl": "https://si.videoapne.to/bdohxcld7bboxuzvta774hqntzbgtuyem2727mf3xrecg6hufkbh7mmqxazq/v.mp4",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/Classic/movie_Haatim-Tai_1727106347.jpg"
+  },
+  {
+    "title": "Kaala Patthar",
+    "streamUrl": "https://si.videoapne.to/bdohxctd7bboxuzvta774fiztcor26l5hgwcwdfhsjolglihcyiejw2yne4a/v.mp4",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/Classic/movie_Kaala-Patt_1727106177.jpg"
+  },
+  {
+    "title": "Haathi Mere Saathi  (1971)",
+    "streamUrl": "https://si.videoapne.to/bdohwhlc7bboxuzvta774gqj2yygdguznxjvgirycorwn4wqyhjw6edhsmba/v.mp4",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/Classic/movie_Haathi-Mer_1726811962.jpg"
+  },
+  {
+    "title": "Ilaaka",
+    "streamUrl": "https://si.videoapne.to/bdohxttc7bboxuzvta774cylq6zstmffrb23v3jk4krd3zyjz3iugsi4m3fa/v.mp4",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/Classic/movie_Ilaaka_1726726239.jpg"
+  },
+  {
     "title": "Hum Dil Chuke Sanam - 1999",
     "streamUrl": "https://si.videoapne.to/hls/,bdohxopo7fboxuzvtaqp4fsyqp6c3vciqa5xvjtvmcjyvsrfgxiu4luf7aaq,.urlset/master.m3u8",
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/hddcs.jpg"
-  },{
+  },
+  {
     "title": "Hum Saath Saath Hain - 1999",
     "streamUrl": "https://s2.videoapne.to/hls/,bdohwyrm7bboxuzvta6p4hqi3j5yrjgl3iolc7uiegfpzqahqnom3eh4lv4q,.urlset/master.m3u8",
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/hssh.jpg"
-  },{
+  },
+  {
     "title": "Zindagi Na Milegi Dobara - 2011",
     "streamUrl": "https://si.videoapne.to/hls/,bdohw4qt7bboxuzvtaq74ckstuq5lfoh4sny6u5ag4nziax25afw4ds57jca,.urlset/master.m3u8",
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/znmd.jpg"
-  },{
+  },
+  {
     "title": "3 Idiots - 2009",
     "streamUrl": "https://s2.videoapne.to/hls/,bdohw2rm7bboxuzvta6p4bkrtwx6lvuz6s6gzwfmzro5ktbyrbqlvr5med4a,.urlset/master.m3u8",
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/3idiots.jpg"
-  },{
+  },
+  {
     "title": "Daraar - 1996",
     "streamUrl": "https://ia600203.us.archive.org/18/items/daraar-1996-hindi.-dv-drip.-480p.-avc.x-264.-aac.-arabic.-esub..-by-juleyano/Daraar%20%281996%29%20Hindi.DvDrip.480p.AVC.x264.AAC.Arabic.Esub..BY%20Juleyano.ia.mp4",
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/daraar1996.jpg"
@@ -25,85 +89,87 @@
     "streamUrl": "https://dn720409.ca.archive.org/0/items/andaz-apna-apna-1994/Andaz%20Apna%20Apna%201994.mp4",
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/andazapnapna.jpg"
   },
-   {
+  {
     "title": "Hum Apke Hain Koun - Blu Ray - 1994",
     "streamUrl": "https://ia601305.us.archive.org/23/items/hum-aapke-hain-koun-1994-1080p-blu-ray-ac-3-5.1-esubs/Hum%20Aapke%20Hain%20Koun%20%21%20%281994%29%201080p%20Blu-ray%20AC3%205.1%20ESubs.mp4",
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/hahk.png"
   },
-   {
+  {
     "title": "Vivah - Blu Ray - 2006",
     "streamUrl": "https://ia800202.us.archive.org/33/items/vivah-2006-blu-ray-10bit-hevc-5.1-dolby-digital-cinema-audio/Vivah%20%7B2006%7D%20%7BBlu-ray%7D%20%7B10bit-HEVC%7D%20%7B5.1%20Dolby%20Digital%20Cinema%20Audio%7D%20.mp4",
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/vivah.jpg"
   },
-   {
+  {
     "title": "Aanchal - 1980",
     "streamUrl": "https://dn720301.ca.archive.org/0/items/aanchal-1980/Aanchal%201980.mp4",
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/aanchal.jpg"
-  },   
-   {
+  },
+  {
     "title": "Khubsoorat (1980)",
     "streamUrl": "https://dn710002.ca.archive.org/0/items/khubsoorat-1980-hindi.-dv-drip.-480p.-x-264.-aac.-5.1.-arabic.-e.-sub.-by.juleyano/Khubsoorat%20%281980%29%20Hindi.DvDRip.480p.X264.AAC.5.1.Arabic.E.Sub.BY.juleyano.ia.mp4",
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/khoobsorat.jpg"
   },
-   {
+  {
     "title": "Baaton Baaton Main",
     "streamUrl": "https://vd404.okcdn.ru/expires/1767315168759/clientType/1/srcIp/75.212.140.136/type/2/mid/7335329532506/id/6741782694490/ms/185.226.52.25/zs/43/srcAg/CHROME/urls/95.163.35.1/oq/0/pr/10/ct/28/sig/yHaS2EJNBZM/ondemand/hls4_6741782694490.CNqU2J2-1QFA2q6i7-YQUApYAa8bUDG70J1J.m3u8",
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/baatonbaatonmain.jpg"
   },
-   {
+  {
     "title": "Gharaonda (1977)",
     "streamUrl": "https://ia801308.us.archive.org/31/items/gharaonda-1977-hindi.-web.-dl.-1080p.-hevc.-mxplayer.x-264.-aac.-by-juleyano/Gharaonda%20%281977%29%20Hindi.WEB.DL.1080p.HEVC.Mxplayer.x264.AAC.BY%20Juleyano.ia.mp4",
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/gharonda.jpg"
-  },{
+  },
+  {
     "title": "Hera Pheri (2000)",
     "streamUrl": "https://dn720400.ca.archive.org/0/items/2021-8-27-tmp0x-541986524940/Hera%20Pheri%20%282000%29%201080p%20AMZN%20WEB-DL%20H.264%20DDP%202.0%20ESub%20~%20TombDoc.mp4",
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/herapheri.jpg"
   },
-   {
+  {
     "title": "Phir Hera Pheri (2006)",
     "streamUrl": "https://dn720400.ca.archive.org/0/items/2021-8-27-tmp0x-541986524940/Phir%20Hera%20Pheri%20%282006%29%201080p%20AMZN%20WEB-DL%20H.264%20DDP%205.1%20ESub%20~%20TombDoc.mp4",
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/phirherapheri.jpg"
   },
-   {
+  {
     "title": "Bawarchi (1978)",
     "streamUrl": "https://dn720400.ca.archive.org/0/items/2021-8-27-tmp0x-541986524940/Bawarchi.1972.1080p.AMZN.WEB-DL.DDP2.0.HEVC-TombDoc.mp4",
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/bawarchi.jpg"
   },
-   {
+  {
     "title": "Kati Patang (1970)",
     "streamUrl": "https://ia800902.us.archive.org/0/items/kati-patang-1970-hindi.-dv-drip.-480p.-xvi-d.-mp-3.-esub.-alice.-tdbb.-by.juleyano/Kati%20Patang%20%281970%29%20Hindi.DvDRip.480p.XviD.MP3.Esub.Alice.Tdbb.BY.juleyano.mp4",
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/katipatang.jpg"
   },
-   {
+  {
     "title": "Anand (1971)",
     "streamUrl": "https://ia800507.us.archive.org/23/items/anand-movie-1971-1080p-blu-ray-x-264-archive-here-by-vaibhav-khade/Anand.1971.1080p.BluRay.x264-%5BYTS.AM%5D.mp4",
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/anand.jpg"
-  },{
+  },
+  {
     "title": "Aap Ki Kasam (1978)",
     "streamUrl": "https://dn710001.ca.archive.org/0/items/aap-ki-kasam-1974-hindi.-web.-rip.-720p.-avc.x-264.-aac.-e.-sub.-by.juleyano/Aap%20Ki%20Kasam%20%281974%29%20Hindi.WEB.Rip.720p.AVC.x264.AAC.E.Sub.BY.juleyano.ia.mp4",
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/aapkikasam.jpg"
   },
-   {
+  {
     "title": "Chhoti Bahu (1971)",
     "streamUrl": "https://ia801303.us.archive.org/2/items/chhoti-bahu-1971-web-rip-720p-hindi-aac-2.0-x-264-esub-mkv-cinemas-telly/Chhoti%20Bahu%201971%20WebRip%20720p%20Hindi%20AAC%202.0%20x264%20ESub%20-%20mkvCinemas%20%5BTelly%5D.mp4",
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/chotibahu.jpg"
   },
-   {
+  {
     "title": "Apne Apne (1987)",
     "streamUrl": "https://ia801707.us.archive.org/29/items/humjoli-1970-hindi.-dv-drip.-480p.x-264.-aac.-esubs.-tmb.-by.juleyano/Apne%20Apne%20%281987%29%20Hindi.DvDRip.480p.x264.AAC.E.Sub.5.1.Chapters...BY.juleyano.mp4",
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/apneapne1987.jpg"
   },
-   {
+  {
     "title": "Arpan (1983)",
     "streamUrl": "https://ia601707.us.archive.org/29/items/humjoli-1970-hindi.-dv-drip.-480p.x-264.-aac.-esubs.-tmb.-by.juleyano/Arpan%20%281983%29%20Hindi.NTSC.DvDRip.480p.%20x264.AAC..ESubs..BY.juleyano.ia.mp4",
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/arpan1983.jpg"
   },
-   {
+  {
     "title": "Ek Hi Rasta (1977)",
     "streamUrl": "https://ia601707.us.archive.org/29/items/humjoli-1970-hindi.-dv-drip.-480p.x-264.-aac.-esubs.-tmb.-by.juleyano/Arpan%20%281983%29%20Hindi.NTSC.DvDRip.480p.%20x264.AAC..ESubs..BY.juleyano.ia.mp4",
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/ekhirasta1977.jpg"
   },
-   {
+  {
     "title": "Vishwas (1969)",
     "streamUrl": "https://ia601707.us.archive.org/29/items/humjoli-1970-hindi.-dv-drip.-480p.x-264.-aac.-esubs.-tmb.-by.juleyano/Vishwas%20%281969%29%20Hindi.NTSC.DvDRip.480p.%20x264.AAC.5.1.ESubs.Chapters.BY.juleyano.mp4",
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/vishwas1969.jpg"
