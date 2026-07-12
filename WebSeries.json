@@ -1,5 +1,47 @@
 [
   {
+    "title": "Queens",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Queens_1783790408.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "https://si.videoapne.to/bdohw6xy7bboxuzvta274ban3qqc65bh6r5ocxn6mnkmvtuald7oghngha3q/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Queens_Episode_1.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "https://si.videoapne.to/bdohw6py7bboxuzvta274fcstosyraytk2xxigkclrxq3mhc3epcr5g54vlq/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Queens_Episode_2.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "https://si.videoapne.to/bdohw6hy7bboxuzvta274dqu27orccraqp7yem7oe4todncdd3m3vlugt2sq/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Queens_Episode_3.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "https://si.videoapne.to/bdohw57y7bboxuzvta274hylqd7j3r4x2ry37rrjpc55vg5vp3pclmnbr3wa/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Queens_Episode_4.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "https://s2.videoapne.to/bdohw5xy7bboxuzvta274sixqj4gy3x72ohhm7hgjbf23qmgpgji5uhp5gwq/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Queens_Episode_5.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "https://s2.videoapne.to/bdohw5py7bboxuzvta274bcwqnln2tpnkc2wodhy4pbodch6dxhvnewlglka/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Queens_Episode_6.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "https://s2.videoapne.to/bdohw5hy7bboxuzvta274dqjrrnlrjwzrzfd7g6qdillm7ttzrciw5mxxuka/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Queens_Episode_7.jpg"
+      }
+    ]
+  },
+  {
     "title": "Pritam and Pedro",
     "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Pritam-and_1783094602.jpg",
     "year": "2026",
@@ -236,6 +278,16 @@
         "title": "Episode 11",
         "videoUrl": "https://s2.videoapne.to/bdohxu7y7bboxuzvta274fifrhx23omma2qhmilfvllqkjcz3ntylkzpu2xq/v.mp4",
         "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Lock_Upp_Season_2_Episode_11.jpg"
+      },
+      {
+        "title": "Episode 12",
+        "videoUrl": "https://s2.videoapne.to/bdohw7hy7bboxuzvta274eikt4jhrtxc3s2jj63cpfudcdmmd6msezytg55q/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Lock_Upp_Season_2_Episode_12.jpg"
+      },
+      {
+        "title": "Episode 13",
+        "videoUrl": "https://s2.videoapne.to/bdohwyhy7bboxuzvta274cst3ppmn2xx3lhiepeq667xydpbvwdgbsx6sgca/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Lock_Upp_Season_2_Episode_13.jpg"
       }
     ]
   },
@@ -345,6 +397,16 @@
         "title": "Episode 17",
         "videoUrl": "https://si.videoapne.to/bdohwmhy7bboxuzvta274syx34sfouguezj7f4fh4eb4agqt4ubu3zsqfm2q/v.mp4",
         "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Alliance_Episode_17.jpg"
+      },
+      {
+        "title": "Episode 18",
+        "videoUrl": "https://si.videoapne.to/bdohw67y7bboxuzvta274rajq2qd7p3fwkkzfdydzyiap6bwtu3joweluyva/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Alliance_Episode_18.jpg"
+      },
+      {
+        "title": "Episode 19",
+        "videoUrl": "https://si.videoapne.to/bdohwzhy7bboxuzvta274gyxr47ontf5y2hb427dm7cnlytz2ra2vmgb4ydq/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Alliance_Episode_19.jpg"
       }
     ]
   },
