@@ -1,5 +1,17 @@
 [
   {
+    "title": "Second Love",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Second-Lov_1783964294.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "https://si.videoapne.to/bdohxopz7bboxuzvta274balqp3im4uzwcr77gczyjvsroodbicntjuyipta/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Second_Love_Episode_1.jpg"
+      }
+    ]
+  },
+  {
     "title": "Gram Chikitsalay",
     "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Gram-Chiki_1746853587.jpg",
     "year": "2025",
@@ -320,6 +332,11 @@
         "title": "Episode 13",
         "videoUrl": "https://s2.videoapne.to/bdohwyhy7bboxuzvta274cst3ppmn2xx3lhiepeq667xydpbvwdgbsx6sgca/v.mp4",
         "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Lock_Upp_Season_2_Episode_13.jpg"
+      },
+      {
+        "title": "Episode 14",
+        "videoUrl": "https://s2.videoapne.to/bdohxpxz7bboxuzvta274tkyq6hrqjqmykwvucndid5536v5i4ytw2le6baa/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Lock_Upp_Season_2_Episode_14.jpg"
       }
     ]
   },
@@ -439,6 +456,11 @@
         "title": "Episode 19",
         "videoUrl": "https://si.videoapne.to/bdohwzhy7bboxuzvta274gyxr47ontf5y2hb427dm7cnlytz2ra2vmgb4ydq/v.mp4",
         "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Alliance_Episode_19.jpg"
+      },
+      {
+        "title": "Episode 20",
+        "videoUrl": "https://s2.videoapne.to/bdohwq7y7bboxuzvta274finrborlf7zngutfyq6z3gqmjjpmnr3r72mcjkq/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Alliance_Episode_20.jpg"
       }
     ]
   },
