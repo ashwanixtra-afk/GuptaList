@@ -1,5 +1,42 @@
 [
   {
+    "title": "Campus Beats Season 7",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Campus-Bea_1785101008.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "https://si.videoapne.to/bdohwsp27bboxuzvta274div3c4kha2su3wxtxnsgkn6gnkqfe53d4ebyieq/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Campus_Beats_Season_7_Episode_1.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "https://si.videoapne.to/bdohwsh27bboxuzvta274d2stcdaljzxz5mu6wgrqjgughy34kge6xdqwsdq/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Campus_Beats_Season_7_Episode_2.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "https://si.videoapne.to/bdohwr727bboxuzvta274dsu3ykjfxwifkr7ijzrlnfwvi5lldqnmfddjhda/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Campus_Beats_Season_7_Episode_3.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "https://s2.videoapne.to/bdohwrx27bboxuzvta274sqjq6mjag22j4k5t4fon25ubwfsn53vmkw2xwgq/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Campus_Beats_Season_7_Episode_4.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "https://s2.videoapne.to/bdohwrp27bboxuzvta274badrk5l436dphgw4am27kue2z27u54b4d3njtoa/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Campus_Beats_Season_7_Episode_5.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "https://s2.videoapne.to/bdohwrh27bboxuzvta274dau3new4xyd63vyrihi5aetc7d5axc4w33dxekq/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Campus_Beats_Season_7_Episode_6.jpg"
+      }
+    ]
+  },
+  {
     "title": "Musafir Cafe",
     "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Musafir-Ca_1784915380.jpg",
     "year": "2026",
@@ -635,6 +672,11 @@
         "title": "Episode 24",
         "videoUrl": "https://s2.videoapne.to/bdohw2727bboxuzvta274gae3wyvzkeias37np3hcygitxlavxa7jqlg4mzq/v.mp4",
         "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Lock_Upp_Season_2_Episode_24.jpg"
+      },
+      {
+        "title": "Episode 25",
+        "videoUrl": "https://si.videoapne.to/bdohwup27bboxuzvta274fcytmi5lnehh4wo3nu4lkraksgfd5xzzg23cqmq/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Lock_Upp_Season_2_Episode_25.jpg"
       }
     ]
   },
