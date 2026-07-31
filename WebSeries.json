@@ -1,5 +1,91 @@
 [
   {
+    "title": "The Legend of Karna",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_The-Legend_1785455545.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "https://si.videoapne.to/bdohwlx37bboxuzvta274fynt3aht3ulywbh7h2fbwx2tdrorxnfrczwrcxq/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/The_Legend_of_Karna_Episode_1.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "https://si.videoapne.to/bdohwlp37bboxuzvta274gqwt4kvuzkmn7oemviwkjffaf2bmzs6teu4l6ra/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/The_Legend_of_Karna_Episode_2.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Bahubali The Torch Bearer",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Bahubali-T_1785455797.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "https://s2.videoapne.to/bdohwkh37bboxuzvta274fawtgh45fwnfdazckdokbgiqocshhntd2vpbexq/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Bahubali_The_Torch_Bearer_Episode_1.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "https://s2.videoapne.to/bdohwj737bboxuzvta274fkwr7wxkmhoyhs6ztm5uzpys3nvxky4opnd4piq/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Bahubali_The_Torch_Bearer_Episode_2.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "https://s2.videoapne.to/bdohwjx37bboxuzvta274b2zthjxjvdimien72mxiwtpcmdthdfr5a7uniua/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Bahubali_The_Torch_Bearer_Episode_3.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "https://s2.videoapne.to/bdohwjp37bboxuzvta274ripttwgoakykx4kexcg4nas6brjquxqpf4mjqnq/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Bahubali_The_Torch_Bearer_Episode_4.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Gurthukosthunnayi",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Gurthukost_1785456189.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "https://si.videoapne.to/bdohwjh37bboxuzvta274bypsrw2tgg5mbdknwsa77ty3zmfrfce7kecqvfq/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Gurthukosthunnayi_Episode_1.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "https://si.videoapne.to/bdohwi737bboxuzvta274tqg3tqkcwohfgmuxnq74ed4q44hq5pvj4hda2nq/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Gurthukosthunnayi_Episode_2.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "https://si.videoapne.to/bdohwix37bboxuzvta274eyk24lgq5ai536sabwnnrjp62azhz6xo7xnaw3q/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Gurthukosthunnayi_Episode_3.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "https://si.videoapne.to/bdohwip37bboxuzvta274fics2uzxc56rmgiqnx5avjc3tzk5sf6codbh3xa/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Gurthukosthunnayi_Episode_4.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "https://si.videoapne.to/bdohwih37bboxuzvta274sywragciu2e4knm765ft74ivmlxan3vfykxunga/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Gurthukosthunnayi_Episode_5.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "https://si.videoapne.to/bdohwh737bboxuzvta274gsyq3bpjzsqwso76bgfjkschtyo67xlvvw2mzta/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Gurthukosthunnayi_Episode_6.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "https://si.videoapne.to/bdohwhx37bboxuzvta274syxqj2lhfjlennat4itirwk2g4el6xg5bv2e5za/v.mp4",
+        "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/Gurthukosthunnayi_Episode_7.jpg"
+      }
+    ]
+  },
+  {
     "title": "The Last Hour",
     "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_The-Last-H_1621036330.jpg",
     "year": "2021",
