@@ -3,7 +3,12 @@
     "title": "Khatron Ke Khiladi 15",
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/kkk15.jpg",
     "episodes": [
-      {}
+      {},
+      {
+        "title": "1st August 2026",
+        "videoUrl": "https://s2.videoapne.to/bdohwv737bboxuzvta274ead3ruegewr52nuiqfwz4fcrbdts64ifrcy4sqa/v.mp4",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/mb2yv8yrc6k9.jpg"
+      }
     ]
   },
   {
@@ -3965,6 +3970,11 @@
         "title": "12th March 2026",
         "videoUrl": "https://s2.videoapne.to/hls/,bdohwboo7bboxuzvta2p4rihrgp5akeqeqzr46eryruuefxnipkcykdxmlkq,.urlset/master.m3u8",
         "imageUrl": ""
+      },
+      {
+        "title": "1st August 2026",
+        "videoUrl": "https://si.videoapne.to/bdohwwx37bboxuzvta274fiaqp5yd46ydvipc23oqb4sxco7k5756iynyaha/v.mp4",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/hamz7s37svnc.jpg"
       }
     ]
   },
