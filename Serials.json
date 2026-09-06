@@ -1,5 +1,16 @@
 [
   {
+    "title": "Bigg Boss Season 20",
+    "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/bigboss20.jpeg",
+    "episodes": [
+      {
+        "title": "6th September 2026",
+        "videoUrl": "https://s2.videoapne.to/bdohw5pb7bboxuzvta274hqfsyttpnkxpfbpppewo6u56zdh5dd2shw5siqq/v.mp4",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/cdxwy2eqh791.jpg"
+      }
+    ]
+  },
+  {
     "title": "Kyunki Rishton Ke Bhi Roop Badalte Hain",
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/kkrkbrbh.jpeg",
     "episodes": [
