@@ -20,7 +20,11 @@
     "title": "Bigg Boss Season 20",
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/bigboss20.jpeg",
     "episodes": [
-      {
+       {
+        "title": "26th September 2026",
+        "videoUrl": "https://streaming.disk.yandex.net/hls/U2FsdGVkX1_zf6xcHa3rRrp1vC3Y11Rlwmd3-BC221rGiZRwePTut1cJ1iCF307Fk5rT6qzK6LAkhCMsEzwMOVCmtpOWUyU0Cndzq7B431yoTk7uuGwLnNWTM5CYTMYoiJy6E7F_cpMFDz1DHj23V8EO0xvp0z_Ojx2ejSHAQ1deTtYh9SQQgPFh-vVEX6JEQvidd81TNZDVTI4TpnWjwB6I8-i8EGxau9YIZOWkG0zdQfwMVFEiZVpGPSbB4ACfYRRGqMmz9yRQBn4WctJKeOy7PMSlChGqKttmdAjLX_IZSf6HDnMMpiJ90ZfLCRcXsaSPE7DARizWz1-4eipBxaHJ6Hso5XLKYILk902qOLQ/65c7b0a816568/6ec86b4ef61f71493dc557e92de28a183645c90582ac3b7470f385557585eff0/master-playlist.m3u8",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/c9lpqmh7ri6a.jpg"
+      },{
         "title": "25th September 2026",
         "videoUrl": "https://streaming.disk.yandex.net/hls/U2FsdGVkX1-f3_JOTZ-dM8LnQ73iBscf9q8r8syNgb11I9knIDgPXjRl8ekiwkU-9HLaklEWrCjOhOpFm5wPggX_hEwGTOcieOLffvgACNVJHj3zRjuchmI5Po8MmiFZhe5f_fVyYVA0mbghy5vAlGd2dJRr_WECYYCg0aEKWyEp0MPS601S8-kFPxa3n5YQUWZdbGDfdbImXHo5BCqKs--nVP7ZLSWjyzWNhqIGDL2fRrxijXy2x68e8Iinfyvimc2f1Yp-tgpKCn2OAMueuB_xT_Rl9JEKLJx8qj9cbs2obRl_sxLV8hxT_m3cMlN0B3zv9TfUScv0O3d39D_gNqPN6E62Q9c0oHm7D8uRE6k/65c6fc80d44f0/e83278eb92bf6381024b13dfb54cd0656bdd925772b3ffbfcf1278635c967af1/master-playlist.m3u8",
         "imageUrl": "https://s2.videoapne.to/i/01/00025/c9lpqmh7ri6a.jpg"
