@@ -92,6 +92,224 @@
       }
     ]
   },
+  
+  {
+    "title": "Rise and Fall S1",
+    "imageUrl": "",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "https://d3sgzbosmwirao.cloudfront.net/video/c746798b3e3b6bdfe547d31f24d85230ab0b45cf2ffd33036efd98a8a8a1d40e/1/hls/h264_high.m3u8",
+        "imageUrl": ""
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "https://d3sgzbosmwirao.cloudfront.net/video/1f1acea79b1d649eac2484e565d6fb4ed0a8776434f13ea69ff006effcdba636/1/hls/h264_high.m3u8",
+        "imageUrl": ""
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "https://d3sgzbosmwirao.cloudfront.net/video/6c65690cd0fb53b43eb77695b0c3b2da82e4b9ce6477fb0df77cb7f5f743c730/1/hls/h264_high.m3u8",
+        "imageUrl": ""
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "https://d3sgzbosmwirao.cloudfront.net/video/2f9e3e8bcb562fb86e6bc00801a468c3e6f9edfa9476b9e61aae4d3a12125994/1/hls/h264_high.m3u8",
+        "imageUrl": ""
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "https://d3sgzbosmwirao.cloudfront.net/video/15198c353ab27232c2f5c6e15a371870e34db8218db191f757f0cde6bbf2c7a6/1/hls/h264_high.m3u8",
+        "imageUrl": ""
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "https://d3sgzbosmwirao.cloudfront.net/video/c049cca5b3d14c2e25ef75de646609e1114b4076860924ad9b92938e0eb3d7b5/1/hls/h264_high.m3u8",
+        "imageUrl": ""
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "https://d3sgzbosmwirao.cloudfront.net/video/d78e1a0b3c0f657ede4b53b78d982ed9f3f9014f357e5bf6a0a52cf903128f01/1/hls/h264_high.m3u8",
+        "imageUrl": ""
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "https://d3sgzbosmwirao.cloudfront.net/video/402ae191b5c97d5af014f850581eab83e4d877a8196055d6df7e1aca708cc869/1/hls/h264_high.m3u8",
+        "imageUrl": ""
+      },
+      {
+        "title": "Episode 9",
+        "videoUrl": "https://d3sgzbosmwirao.cloudfront.net/video/45b667bb78b3690a9c68475fb4a0a9243642e924c5abfb498acc433c95851496/1/hls/h264_high.m3u8",
+        "imageUrl": ""
+      },
+      {
+        "title": "Episode 10",
+        "videoUrl": "https://d3sgzbosmwirao.cloudfront.net/video/c8aacc24a21defa1f652b466607735c468d308922777ec66f7493cc94d9cde73/1/hls/h264_high.m3u8",
+        "imageUrl": ""
+      },
+      {
+        "title": "Episode 11",
+        "videoUrl": "",
+        "imageUrl": ""
+      },
+      {
+        "title": "Episode 12",
+        "videoUrl": "",
+        "imageUrl": ""
+      },
+      {
+        "title": "Episode 13",
+        "videoUrl": "",
+        "imageUrl": ""
+      },
+      {
+        "title": "Episode 14",
+        "videoUrl": "",
+        "imageUrl": ""
+      },
+      {
+        "title": "Episode 15",
+        "videoUrl": "",
+        "imageUrl": ""
+      },
+      {
+        "title": "Episode 16",
+        "videoUrl": "",
+        "imageUrl": ""
+      },
+      {
+        "title": "Episode 17",
+        "videoUrl": "",
+        "imageUrl": ""
+      },
+      {
+        "title": "Episode 18",
+        "videoUrl": "",
+        "imageUrl": ""
+      },
+      {
+        "title": "Episode 19",
+        "videoUrl": "",
+        "imageUrl": ""
+      },
+      {
+        "title": "Episode 20",
+        "videoUrl": "",
+        "imageUrl": ""
+      },
+      {
+        "title": "Episode 21",
+        "videoUrl": "",
+        "imageUrl": ""
+      },
+      {
+        "title": "Episode 22",
+        "videoUrl": "",
+        "imageUrl": ""
+      },
+      {
+        "title": "Episode 23",
+        "videoUrl": "",
+        "imageUrl": ""
+      },
+      {
+        "title": "Episode 24",
+        "videoUrl": "",
+        "imageUrl": ""
+      },
+      {
+        "title": "Episode 25",
+        "videoUrl": "",
+        "imageUrl": ""
+      },
+      {
+        "title": "Episode 26",
+        "videoUrl": "",
+        "imageUrl": ""
+      },
+      {
+        "title": "Episode 27",
+        "videoUrl": "",
+        "imageUrl": ""
+      },
+      {
+        "title": "Episode 28",
+        "videoUrl": "",
+        "imageUrl": ""
+      },
+      {
+        "title": "Episode 29",
+        "videoUrl": "",
+        "imageUrl": ""
+      },
+      {
+        "title": "Episode 30",
+        "videoUrl": "",
+        "imageUrl": ""
+      },
+      {
+        "title": "Episode 31",
+        "videoUrl": "",
+        "imageUrl": ""
+      },
+      {
+        "title": "Episode 32",
+        "videoUrl": "",
+        "imageUrl": ""
+      },
+      {
+        "title": "Episode 33",
+        "videoUrl": "",
+        "imageUrl": ""
+      },
+      {
+        "title": "Episode 34",
+        "videoUrl": "",
+        "imageUrl": ""
+      },
+      {
+        "title": "Episode 35",
+        "videoUrl": "",
+        "imageUrl": ""
+      },
+      {
+        "title": "Episode 36",
+        "videoUrl": "",
+        "imageUrl": ""
+      },
+      {
+        "title": "Episode 37",
+        "videoUrl": "",
+        "imageUrl": ""
+      },
+      {
+        "title": "Episode 38",
+        "videoUrl": "",
+        "imageUrl": ""
+      },
+      {
+        "title": "Episode 39",
+        "videoUrl": "",
+        "imageUrl": ""
+      },
+      {
+        "title": "Episode 40",
+        "videoUrl": "",
+        "imageUrl": ""
+      },
+      {
+        "title": "Episode 41",
+        "videoUrl": "",
+        "imageUrl": ""
+      },
+      {
+        "title": "Episode 42",
+        "videoUrl": "",
+        "imageUrl": ""
+      }
+    ]
+  }
+,
   {
     "title": "Kyunki Rishton Ke Bhi Roop Badalte Hai",
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/kkrkbrbh.jpeg",
