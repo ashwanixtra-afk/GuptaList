@@ -14,7 +14,11 @@
     "title": "Bigg Boss 20",
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/bigboss20.jpeg",
     "episodes": [
-      {
+       {
+        "title": "12th October 2026",
+        "videoUrl": "https://sto.vkcdn5.com/olaxka6zwduiolyobgckhar6nbndtkamrikm4leiq6gv4naykgysglfo4oja/v.mp4",
+        "imageUrl": "https://serialtvmaza.to/wp-content/uploads/2026/09/Bigg-Boss-20-310x205.jpg"
+      },{
         "title": "11th October 2026",
         "videoUrl": "https://vksovhv101.vkcdn5.com/olaxk7ohwduiolyobgckhr3on5idise46hpkfo7xxpgleq75pnxudxw4uppq/v.mp4",
         "imageUrl": "https://serialtvmaza.to/wp-content/uploads/2026/09/Bigg-Boss-20-310x205.jpg"
