@@ -35,6 +35,10 @@
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/riseandfall2.jpg",
     "episodes": [
        {
+        "title": "12th October 2026",
+        "videoUrl": "https://d3sgzbosmwirao.cloudfront.net/video/d4fa4e985b84f2cc0bbaac404659e94c3080ee79327f8ad785ba44e99a68cb18/1/hls/h264_high.m3u8",
+        "imageUrl": "https://serialtvmaza.to/wp-content/uploads/2026/09/Rise-and-Fall-Season-2-310x165.png"
+      },{
         "title": "11th October 2026",
         "videoUrl": "https://d3sgzbosmwirao.cloudfront.net/video/9c8e3022a644ddab1d3b966e1d01fede134b81144f81315a8b824cda8180f155/1/hls/h264_high.m3u8",
         "imageUrl": "https://serialtvmaza.to/wp-content/uploads/2026/09/Rise-and-Fall-Season-2-310x165.png"
