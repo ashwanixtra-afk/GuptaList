@@ -73,6 +73,11 @@
         "title": "Episode 34",
         "videoUrl": "https://cdn.justfingram.com/2d9de1b581a180a1a5e3c42a6114e8a3.mp4?stream=true&t=ab3d9e3fc8ee58fc",
         "imageUrl": "https://cdn.justfingram.com/8b636618bf.jpg?stream=true"
+      },
+      {
+        "title": "Episode 35",
+        "videoUrl": "https://cdn.justfingram.com/2d4944588243689dcb116290c7266290.mp4?stream=true&t=c89f8437d1afe48e",
+        "imageUrl": "https://cdn.justfingram.com/de3fa9b999.jpg?stream=true"
       }
     ]
   },
@@ -150,90 +155,11 @@
         "title": "Episode 53",
         "videoUrl": "https://cdn.justfingram.com/7a85632513f2b87ae70e407228ea1991.mp4?stream=true&t=c0fbfbccea61717a",
         "imageUrl": "https://cdn.justfingram.com/09b8da6566.jpg?stream=true"
-      }
-    ]
-  },
-  {
-    "title": "Dupahiya Season 2",
-    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Dupahiya-S_1790873242.jpg",
-    "year": "2026",
-    "episodes": [
-      {
-        "title": "Episode 1",
-        "videoUrl": "https://cdn.justfingram.com/4792cb1326f5c120aedfe4ca55e0cd87.mp4?stream=true&t=81e69da133b096d4",
-        "imageUrl": "https://cdn.justfingram.com/098817433d.jpg?stream=true"
       },
       {
-        "title": "Episode 2",
-        "videoUrl": "https://cdn.justfingram.com/4daf48459415a1c856045f0a1bea365f.mp4?stream=true&t=99ca3950bb3a09da",
-        "imageUrl": "https://cdn.justfingram.com/f9f2883b89.jpg?stream=true"
-      },
-      {
-        "title": "Episode 3",
-        "videoUrl": "https://cdn.justfingram.com/894a7c9ad28fda353eba16fd681940fe.mp4?stream=true&t=df43ae84476fba30",
-        "imageUrl": "https://cdn.justfingram.com/5ae92abcb5.jpg?stream=true"
-      },
-      {
-        "title": "Episode 4",
-        "videoUrl": "https://cdn.justfingram.com/9519cd89e7af1a1fbce9833f8bc0ec83.mp4?stream=true&t=edbf7385d17ebb53",
-        "imageUrl": "https://cdn.justfingram.com/5e029bbf75.jpg?stream=true"
-      },
-      {
-        "title": "Episode 5",
-        "videoUrl": "https://cdn.justfingram.com/583f9fccfa88dce7946b88729aec0677.mp4?stream=true&t=82ffad9e2314ea2c",
-        "imageUrl": "https://cdn.justfingram.com/ee68f05190.jpg?stream=true"
-      },
-      {
-        "title": "Episode 6",
-        "videoUrl": "https://cdn.justfingram.com/8bd17a791d6f61948d38baa1185ce6c2.mp4?stream=true&t=b51dc50e99f817d9",
-        "imageUrl": "https://cdn.justfingram.com/1e3cce1c2b.jpg?stream=true"
-      },
-      {
-        "title": "Episode 7",
-        "videoUrl": "https://cdn.justfingram.com/e6543b976597b7af314515819d4a446a.mp4?stream=true&t=e1edd135095caf24",
-        "imageUrl": "https://cdn.justfingram.com/3520ca616d.jpg?stream=true"
-      },
-      {
-        "title": "Episode 8",
-        "videoUrl": "https://cdn.justfingram.com/6a0af8ae8588ba5ea1f82ec8415ccdaf.mp4?stream=true&t=5ac8b65f562650eb",
-        "imageUrl": "https://cdn.justfingram.com/2defd8ca88.jpg?stream=true"
-      }
-    ]
-  },
-  {
-    "title": "Love",
-    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Love_1790964215.jpg",
-    "year": "2026",
-    "episodes": [
-      {
-        "title": "Episode 1",
-        "videoUrl": "https://cdn.justfingram.com/9712da9f1d6cf7051cf124cf877ce5ba.mp4?stream=true&t=839d82e56755b688",
-        "imageUrl": "https://cdn.justfingram.com/21ae110372.jpg?stream=true"
-      },
-      {
-        "title": "Episode 2",
-        "videoUrl": "https://cdn.justfingram.com/b547e1105325c36f73896753248bb8e9.mp4?stream=true&t=9dc38a57cd0578b1",
-        "imageUrl": "https://cdn.justfingram.com/7f3e099982.jpg?stream=true"
-      },
-      {
-        "title": "Episode 3",
-        "videoUrl": "https://cdn.justfingram.com/be33b207e3bbd5e543354dc389535ef1.mp4?stream=true&t=d1dcdc18c6f51f96",
-        "imageUrl": "https://cdn.justfingram.com/cae65c0c31.jpg?stream=true"
-      },
-      {
-        "title": "Episode 4",
-        "videoUrl": "https://cdn.justfingram.com/7d0da80894fac065c51cc49a1172fae0.mp4?stream=true&t=f4791c4e06f9041e",
-        "imageUrl": "https://cdn.justfingram.com/4dc4b7509d.jpg?stream=true"
-      },
-      {
-        "title": "Episode 5",
-        "videoUrl": "https://cdn.justfingram.com/d3309d2bfec997dfd4386b0de1b34925.mp4?stream=true&t=e5a2ba0a8acc904a",
-        "imageUrl": "https://cdn.justfingram.com/45b3cdf7fb.jpg?stream=true"
-      },
-      {
-        "title": "Episode 6",
-        "videoUrl": "https://cdn.justfingram.com/ba2f48b2a783600cbd4a8f977a92c8c4.mp4?stream=true&t=16b5f06e468bd0ca",
-        "imageUrl": "https://cdn.justfingram.com/e95e2dc5bf.jpg?stream=true"
+        "title": "Episode 54",
+        "videoUrl": "https://cdn.justfingram.com/211c4275b39bc519fed708d437a2d06a.mp4?stream=true&t=c11af3fd96271973",
+        "imageUrl": "https://cdn.justfingram.com/da00dd0498.jpg?stream=true"
       }
     ]
   },
@@ -769,6 +695,169 @@
         "title": "Episode 7",
         "videoUrl": "https://cdn.justfingram.com/9f3b5709c13325852af65d6c8af5f43e.mp4?stream=true&t=896616ec00b66fe1",
         "imageUrl": "https://cdn.justfingram.com/040e4e559e.jpg?stream=true"
+      }
+    ]
+  },
+  {
+    "title": "Akka",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Akka_1793378376.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "https://cdn.justfingram.com/b78b9f7f3e89488c1f81cab8b002c6d0.mp4?stream=true&t=a2da56c93de91abe",
+        "imageUrl": "https://cdn.justfingram.com/0aa90f5abd.jpg?stream=true"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "https://cdn.justfingram.com/a81e0f60f500f16aabac8c9758a9c75d.mp4?stream=true&t=0201603067fc255e",
+        "imageUrl": "https://cdn.justfingram.com/4c3f6ec20a.jpg?stream=true"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "https://cdn.justfingram.com/f134147560f8bc21631aa60a58c397aa.mp4?stream=true&t=a1471c0cd67c75b0",
+        "imageUrl": "https://cdn.justfingram.com/4d663b1574.jpg?stream=true"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "https://cdn.justfingram.com/e90110ab65511d9f338288629d1d7756.mp4?stream=true&t=afb96decb469109e",
+        "imageUrl": "https://cdn.justfingram.com/bb079e2409.jpg?stream=true"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "https://cdn.justfingram.com/2c2b2c8e9cfe73de65ca4becfeadfaa4.mp4?stream=true&t=d66f8af1163dde25",
+        "imageUrl": "https://cdn.justfingram.com/00d9ce58a7.jpg?stream=true"
+      }
+    ]
+  },
+  {
+    "title": "Love Always",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Love-Alway_1793378784.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "https://cdn.justfingram.com/ea0c36976107e04edd2bfe0aa2e94e1b.mp4?stream=true&t=c6a6cc0c5e83d782",
+        "imageUrl": "https://cdn.justfingram.com/7a45dfbf42.jpg?stream=true"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "https://cdn.justfingram.com/0b48499c0591fb24f30d26128b5623d7.mp4?stream=true&t=fa523decc9d32dc2",
+        "imageUrl": "https://cdn.justfingram.com/3b3eead700.jpg?stream=true"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "https://cdn.justfingram.com/9f3261d4896deeaf4742b938000ac6b1.mp4?stream=true&t=eef3c0d7e48b3b37",
+        "imageUrl": "https://cdn.justfingram.com/707abe6b19.jpg?stream=true"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "https://cdn.justfingram.com/619b3c8947d94514c80e402b1b5b0432.mp4?stream=true&t=f96ee792a14bebe6",
+        "imageUrl": "https://cdn.justfingram.com/002a64e4ea.jpg?stream=true"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "https://cdn.justfingram.com/6fdfa46b641d9ee991937a1493177105.mp4?stream=true&t=26d4cabaef7c2933",
+        "imageUrl": "https://cdn.justfingram.com/078e0e5fea.jpg?stream=true"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "https://cdn.justfingram.com/315a9a267f74225fa0e3c92e185bf862.mp4?stream=true&t=35f535cfd37b373f",
+        "imageUrl": "https://cdn.justfingram.com/07b0198f26.jpg?stream=true"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "https://cdn.justfingram.com/451db8e937f7492e4351dc74c777688b.mp4?stream=true&t=5c79bb5a2cf8b048",
+        "imageUrl": "https://cdn.justfingram.com/0364b1b57a.jpg?stream=true"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "https://cdn.justfingram.com/f294004da751cb7fa6b5180adc5c22a5.mp4?stream=true&t=9a6ff4e96e7a0558",
+        "imageUrl": "https://cdn.justfingram.com/befdebddb3.jpg?stream=true"
+      }
+    ]
+  },
+  {
+    "title": "Dupahiya Season 2",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Dupahiya-S_1790873242.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "https://cdn.justfingram.com/4792cb1326f5c120aedfe4ca55e0cd87.mp4?stream=true&t=81e69da133b096d4",
+        "imageUrl": "https://cdn.justfingram.com/098817433d.jpg?stream=true"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "https://cdn.justfingram.com/4daf48459415a1c856045f0a1bea365f.mp4?stream=true&t=99ca3950bb3a09da",
+        "imageUrl": "https://cdn.justfingram.com/f9f2883b89.jpg?stream=true"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "https://cdn.justfingram.com/894a7c9ad28fda353eba16fd681940fe.mp4?stream=true&t=df43ae84476fba30",
+        "imageUrl": "https://cdn.justfingram.com/5ae92abcb5.jpg?stream=true"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "https://cdn.justfingram.com/9519cd89e7af1a1fbce9833f8bc0ec83.mp4?stream=true&t=edbf7385d17ebb53",
+        "imageUrl": "https://cdn.justfingram.com/5e029bbf75.jpg?stream=true"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "https://cdn.justfingram.com/583f9fccfa88dce7946b88729aec0677.mp4?stream=true&t=82ffad9e2314ea2c",
+        "imageUrl": "https://cdn.justfingram.com/ee68f05190.jpg?stream=true"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "https://cdn.justfingram.com/8bd17a791d6f61948d38baa1185ce6c2.mp4?stream=true&t=b51dc50e99f817d9",
+        "imageUrl": "https://cdn.justfingram.com/1e3cce1c2b.jpg?stream=true"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "https://cdn.justfingram.com/e6543b976597b7af314515819d4a446a.mp4?stream=true&t=e1edd135095caf24",
+        "imageUrl": "https://cdn.justfingram.com/3520ca616d.jpg?stream=true"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "https://cdn.justfingram.com/6a0af8ae8588ba5ea1f82ec8415ccdaf.mp4?stream=true&t=5ac8b65f562650eb",
+        "imageUrl": "https://cdn.justfingram.com/2defd8ca88.jpg?stream=true"
+      }
+    ]
+  },
+  {
+    "title": "Love",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Love_1790964215.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "https://cdn.justfingram.com/9712da9f1d6cf7051cf124cf877ce5ba.mp4?stream=true&t=839d82e56755b688",
+        "imageUrl": "https://cdn.justfingram.com/21ae110372.jpg?stream=true"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "https://cdn.justfingram.com/b547e1105325c36f73896753248bb8e9.mp4?stream=true&t=9dc38a57cd0578b1",
+        "imageUrl": "https://cdn.justfingram.com/7f3e099982.jpg?stream=true"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "https://cdn.justfingram.com/be33b207e3bbd5e543354dc389535ef1.mp4?stream=true&t=d1dcdc18c6f51f96",
+        "imageUrl": "https://cdn.justfingram.com/cae65c0c31.jpg?stream=true"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "https://cdn.justfingram.com/7d0da80894fac065c51cc49a1172fae0.mp4?stream=true&t=f4791c4e06f9041e",
+        "imageUrl": "https://cdn.justfingram.com/4dc4b7509d.jpg?stream=true"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "https://cdn.justfingram.com/d3309d2bfec997dfd4386b0de1b34925.mp4?stream=true&t=e5a2ba0a8acc904a",
+        "imageUrl": "https://cdn.justfingram.com/45b3cdf7fb.jpg?stream=true"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "https://cdn.justfingram.com/ba2f48b2a783600cbd4a8f977a92c8c4.mp4?stream=true&t=16b5f06e468bd0ca",
+        "imageUrl": "https://cdn.justfingram.com/e95e2dc5bf.jpg?stream=true"
       }
     ]
   },
