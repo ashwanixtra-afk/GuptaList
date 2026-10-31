@@ -1,87 +1,5 @@
 [
   {
-    "title": "Rise and Fall Season 2",
-    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Rise-and-F_1790526254.jpg",
-    "year": "2026",
-    "episodes": [
-      {
-        "title": "Episode 21",
-        "videoUrl": "https://cdn.justfingram.com/fd4583ef7e450f8ff264ec46deda95f6.mp4?stream=true&t=4f2ffdefcd36fa6d",
-        "imageUrl": "https://cdn.justfingram.com/a217b51ec8.jpg?stream=true"
-      },
-      {
-        "title": "Episode 22",
-        "videoUrl": "https://cdn.justfingram.com/2cbe603139f29584b7a178a5195f8743.mp4?stream=true&t=a53c6590afe230d4",
-        "imageUrl": "https://cdn.justfingram.com/38dd76f372.jpg?stream=true"
-      },
-      {
-        "title": "Episode 23",
-        "videoUrl": "https://cdn.justfingram.com/c62e20d66c59250bfb49e0d6ae56dfe8.mp4?stream=true&t=331e6a76e9b8fcee",
-        "imageUrl": "https://cdn.justfingram.com/12ec6c6edd.jpg?stream=true"
-      },
-      {
-        "title": "Episode 24",
-        "videoUrl": "https://cdn.justfingram.com/66d210f590fad5347759efbffb2b700a.mp4?stream=true&t=667c6494b5cf529b",
-        "imageUrl": "https://cdn.justfingram.com/591b75ab5b.jpg?stream=true"
-      },
-      {
-        "title": "Episode 25",
-        "videoUrl": "https://cdn.justfingram.com/a995af18e80245faa34891306155a39b.mp4?stream=true&t=5696067aafb6edd5",
-        "imageUrl": "https://cdn.justfingram.com/e496cdc518.jpg?stream=true"
-      },
-      {
-        "title": "Episode 26",
-        "videoUrl": "https://cdn.justfingram.com/ac5f98a580827c08db37d203240deb82.mp4?stream=true&t=13113051ec2a121e",
-        "imageUrl": "https://cdn.justfingram.com/051f506c28.jpg?stream=true"
-      },
-      {
-        "title": "Episode 27",
-        "videoUrl": "https://cdn.justfingram.com/eb32d798a8bbc725a25a18a2fb8144fb.mp4?stream=true&t=99c30c02e3e7ea9d",
-        "imageUrl": "https://cdn.justfingram.com/c255982dce.jpg?stream=true"
-      },
-      {
-        "title": "Episode 28",
-        "videoUrl": "https://cdn.justfingram.com/3ae5d675b08850b291ddf97b2b2f31be.mp4?stream=true&t=6cc2be14cb55e1aa",
-        "imageUrl": "https://cdn.justfingram.com/dbcd77b777.jpg?stream=true"
-      },
-      {
-        "title": "Episode 29",
-        "videoUrl": "https://cdn.justfingram.com/514d3a226123bbb8963cfbb5a3450373.mp4?stream=true&t=fa32771b3eb51d1c",
-        "imageUrl": "https://cdn.justfingram.com/cc2246ce88.jpg?stream=true"
-      },
-      {
-        "title": "Episode 30",
-        "videoUrl": "https://cdn.justfingram.com/43a1cc46602cc00d8eea90146ed4340e.mp4?stream=true&t=74348668d20e7578",
-        "imageUrl": "https://cdn.justfingram.com/73d8a98e20.jpg?stream=true"
-      },
-      {
-        "title": "Episode 31",
-        "videoUrl": "https://cdn.justfingram.com/950013e3112fd5857a48709d009f6908.mp4?stream=true&t=835c0bd02ec7fe3e",
-        "imageUrl": "https://cdn.justfingram.com/e2241c4fa5.jpg?stream=true"
-      },
-      {
-        "title": "Episode 32",
-        "videoUrl": "https://cdn.justfingram.com/7267668e69fc31ba1ab67bdbe53f7def.mp4?stream=true&t=0918329452e9f767",
-        "imageUrl": "https://cdn.justfingram.com/1e41a40862.jpg?stream=true"
-      },
-      {
-        "title": "Episode 33",
-        "videoUrl": "https://cdn.justfingram.com/78caa4778cf4e7e0234c3dcffb144a58.mp4?stream=true&t=7dd47433d78faf29",
-        "imageUrl": "https://cdn.justfingram.com/e8c5dd2d78.jpg?stream=true"
-      },
-      {
-        "title": "Episode 34",
-        "videoUrl": "https://cdn.justfingram.com/2d9de1b581a180a1a5e3c42a6114e8a3.mp4?stream=true&t=ab3d9e3fc8ee58fc",
-        "imageUrl": "https://cdn.justfingram.com/8b636618bf.jpg?stream=true"
-      },
-      {
-        "title": "Episode 35",
-        "videoUrl": "https://cdn.justfingram.com/2d4944588243689dcb116290c7266290.mp4?stream=true&t=c89f8437d1afe48e",
-        "imageUrl": "https://cdn.justfingram.com/de3fa9b999.jpg?stream=true"
-      }
-    ]
-  },
-  {
     "title": "Indian Game Show Season 2",
     "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Indian-Gam_1787588955.jpg",
     "year": "2026",
@@ -160,6 +78,93 @@
         "title": "Episode 54",
         "videoUrl": "https://cdn.justfingram.com/211c4275b39bc519fed708d437a2d06a.mp4?stream=true&t=c11af3fd96271973",
         "imageUrl": "https://cdn.justfingram.com/da00dd0498.jpg?stream=true"
+      }
+    ]
+  },
+  {
+    "title": "Rise and Fall Season 2",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Rise-and-F_1790526254.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 21",
+        "videoUrl": "https://cdn.justfingram.com/fd4583ef7e450f8ff264ec46deda95f6.mp4?stream=true&t=4f2ffdefcd36fa6d",
+        "imageUrl": "https://cdn.justfingram.com/a217b51ec8.jpg?stream=true"
+      },
+      {
+        "title": "Episode 22",
+        "videoUrl": "https://cdn.justfingram.com/2cbe603139f29584b7a178a5195f8743.mp4?stream=true&t=a53c6590afe230d4",
+        "imageUrl": "https://cdn.justfingram.com/38dd76f372.jpg?stream=true"
+      },
+      {
+        "title": "Episode 23",
+        "videoUrl": "https://cdn.justfingram.com/c62e20d66c59250bfb49e0d6ae56dfe8.mp4?stream=true&t=331e6a76e9b8fcee",
+        "imageUrl": "https://cdn.justfingram.com/12ec6c6edd.jpg?stream=true"
+      },
+      {
+        "title": "Episode 24",
+        "videoUrl": "https://cdn.justfingram.com/66d210f590fad5347759efbffb2b700a.mp4?stream=true&t=667c6494b5cf529b",
+        "imageUrl": "https://cdn.justfingram.com/591b75ab5b.jpg?stream=true"
+      },
+      {
+        "title": "Episode 25",
+        "videoUrl": "https://cdn.justfingram.com/a995af18e80245faa34891306155a39b.mp4?stream=true&t=5696067aafb6edd5",
+        "imageUrl": "https://cdn.justfingram.com/e496cdc518.jpg?stream=true"
+      },
+      {
+        "title": "Episode 26",
+        "videoUrl": "https://cdn.justfingram.com/ac5f98a580827c08db37d203240deb82.mp4?stream=true&t=13113051ec2a121e",
+        "imageUrl": "https://cdn.justfingram.com/051f506c28.jpg?stream=true"
+      },
+      {
+        "title": "Episode 27",
+        "videoUrl": "https://cdn.justfingram.com/eb32d798a8bbc725a25a18a2fb8144fb.mp4?stream=true&t=99c30c02e3e7ea9d",
+        "imageUrl": "https://cdn.justfingram.com/c255982dce.jpg?stream=true"
+      },
+      {
+        "title": "Episode 28",
+        "videoUrl": "https://cdn.justfingram.com/3ae5d675b08850b291ddf97b2b2f31be.mp4?stream=true&t=6cc2be14cb55e1aa",
+        "imageUrl": "https://cdn.justfingram.com/dbcd77b777.jpg?stream=true"
+      },
+      {
+        "title": "Episode 29",
+        "videoUrl": "https://cdn.justfingram.com/514d3a226123bbb8963cfbb5a3450373.mp4?stream=true&t=fa32771b3eb51d1c",
+        "imageUrl": "https://cdn.justfingram.com/cc2246ce88.jpg?stream=true"
+      },
+      {
+        "title": "Episode 30",
+        "videoUrl": "https://cdn.justfingram.com/43a1cc46602cc00d8eea90146ed4340e.mp4?stream=true&t=74348668d20e7578",
+        "imageUrl": "https://cdn.justfingram.com/73d8a98e20.jpg?stream=true"
+      },
+      {
+        "title": "Episode 31",
+        "videoUrl": "https://cdn.justfingram.com/950013e3112fd5857a48709d009f6908.mp4?stream=true&t=835c0bd02ec7fe3e",
+        "imageUrl": "https://cdn.justfingram.com/e2241c4fa5.jpg?stream=true"
+      },
+      {
+        "title": "Episode 32",
+        "videoUrl": "https://cdn.justfingram.com/7267668e69fc31ba1ab67bdbe53f7def.mp4?stream=true&t=0918329452e9f767",
+        "imageUrl": "https://cdn.justfingram.com/1e41a40862.jpg?stream=true"
+      },
+      {
+        "title": "Episode 33",
+        "videoUrl": "https://cdn.justfingram.com/78caa4778cf4e7e0234c3dcffb144a58.mp4?stream=true&t=7dd47433d78faf29",
+        "imageUrl": "https://cdn.justfingram.com/e8c5dd2d78.jpg?stream=true"
+      },
+      {
+        "title": "Episode 34",
+        "videoUrl": "https://cdn.justfingram.com/2d9de1b581a180a1a5e3c42a6114e8a3.mp4?stream=true&t=ab3d9e3fc8ee58fc",
+        "imageUrl": "https://cdn.justfingram.com/8b636618bf.jpg?stream=true"
+      },
+      {
+        "title": "Episode 35",
+        "videoUrl": "https://cdn.justfingram.com/2d4944588243689dcb116290c7266290.mp4?stream=true&t=c89f8437d1afe48e",
+        "imageUrl": "https://cdn.justfingram.com/de3fa9b999.jpg?stream=true"
+      },
+      {
+        "title": "Episode 36",
+        "videoUrl": "https://cdn.justfingram.com/b57e7bdd49e31de3053ee579f64d5433.mp4?stream=true&t=94f27c90b5ece595",
+        "imageUrl": "https://cdn.justfingram.com/221ca6c25a.jpg?stream=true"
       }
     ]
   },
