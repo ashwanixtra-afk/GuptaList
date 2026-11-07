@@ -1,72 +1,5 @@
 [
   {
-    "title": "Ali Baba aur 40 Bhoot",
-    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Ali-Baba-a_1789151475.jpg",
-    "year": "2026",
-    "episodes": [
-      {
-        "title": "Episode 21",
-        "videoUrl": "https://cdn.justfingram.com/0117e7aaa912155341b6249335d86662.mp4?stream=true&t=4179effd36725744",
-        "imageUrl": "https://cdn.justfingram.com/afd21d4730.jpg?stream=true"
-      },
-      {
-        "title": "Episode 22",
-        "videoUrl": "https://cdn.justfingram.com/41e0e31c860d2a1a603e2dd174aac115.mp4?stream=true&t=1256ad1c7395b0c4",
-        "imageUrl": "https://cdn.justfingram.com/faad71854b.jpg?stream=true"
-      },
-      {
-        "title": "Episode 23",
-        "videoUrl": "https://cdn.justfingram.com/c770ffa8c6448fca305f96a3a386d158.mp4?stream=true&t=b0efaf73257a0b66",
-        "imageUrl": "https://cdn.justfingram.com/5635f3922d.jpg?stream=true"
-      },
-      {
-        "title": "Episode 24",
-        "videoUrl": "https://cdn.justfingram.com/3f65f8e7fd667b68dd94b142287bfe66.mp4?stream=true&t=b6da6e6259c265fb",
-        "imageUrl": "https://cdn.justfingram.com/e761ea835f.jpg?stream=true"
-      },
-      {
-        "title": "Episode 25",
-        "videoUrl": "https://cdn.justfingram.com/ade71e6e7f666ea111f47603e316f679.mp4?stream=true&t=f6cbeebfb9efefba",
-        "imageUrl": "https://cdn.justfingram.com/548e595873.jpg?stream=true"
-      },
-      {
-        "title": "Episode 26",
-        "videoUrl": "https://cdn.justfingram.com/b177fd8a304ac6cf9db9197260f8f47a.mp4?stream=true&t=d6109bb1493c51cc",
-        "imageUrl": "https://cdn.justfingram.com/01919a11b2.jpg?stream=true"
-      },
-      {
-        "title": "Episode 27",
-        "videoUrl": "https://cdn.justfingram.com/42e7b785bf7199fb39d61556c6b56e0e.mp4?stream=true&t=077c3336ec5bf7a7",
-        "imageUrl": "https://cdn.justfingram.com/28bef79075.jpg?stream=true"
-      },
-      {
-        "title": "Episode 28",
-        "videoUrl": "https://cdn.justfingram.com/fafe1dd0413b4e994cc4ef8acf36c377.mp4?stream=true&t=670972cb1cc73fbb",
-        "imageUrl": "https://cdn.justfingram.com/fa462346a6.jpg?stream=true"
-      },
-      {
-        "title": "Episode 29",
-        "videoUrl": "https://cdn.justfingram.com/c3a146e0de48ef6fc6c679b1e63e6200.mp4?stream=true&t=09eecbedb230b408",
-        "imageUrl": "https://cdn.justfingram.com/eece604650.jpg?stream=true"
-      },
-      {
-        "title": "Episode 30",
-        "videoUrl": "https://cdn.justfingram.com/4ddc8af7394a9db9110a73da40fcb7db.mp4?stream=true&t=a0548b453f74823c",
-        "imageUrl": "https://cdn.justfingram.com/f80604046c.jpg?stream=true"
-      },
-      {
-        "title": "Episode 31",
-        "videoUrl": "https://cdn.justfingram.com/fcb6e28a2cc129d8450dfa727428fc92.mp4?stream=true&t=6a904f69542250e5",
-        "imageUrl": "https://cdn.justfingram.com/12c439dc4e.jpg?stream=true"
-      },
-      {
-        "title": "Episode 32",
-        "videoUrl": "https://cdn.justfingram.com/ea88fc88040c3027c50e15042d7fd3f9.mp4?stream=true&t=81546e41d94802cd",
-        "imageUrl": "https://cdn.justfingram.com/9d3c9e8e21.jpg?stream=true"
-      }
-    ]
-  },
-  {
     "title": "I Popstar Season 2",
     "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_I-Popstar-_1791293558.jpg",
     "year": "2026",
@@ -389,6 +322,135 @@
         "title": "Episode 59",
         "videoUrl": "https://cdn.justfingram.com/62dfb7c2b56cb936f526531996cded76.mp4?stream=true&t=c065ecf6592b9285",
         "imageUrl": "https://cdn.justfingram.com/c3aa40ddee.jpg?stream=true"
+      }
+    ]
+  },
+  {
+    "title": "Ali Baba aur 40 Bhoot",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Ali-Baba-a_1789151475.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 21",
+        "videoUrl": "https://cdn.justfingram.com/0117e7aaa912155341b6249335d86662.mp4?stream=true&t=4179effd36725744",
+        "imageUrl": "https://cdn.justfingram.com/afd21d4730.jpg?stream=true"
+      },
+      {
+        "title": "Episode 22",
+        "videoUrl": "https://cdn.justfingram.com/41e0e31c860d2a1a603e2dd174aac115.mp4?stream=true&t=1256ad1c7395b0c4",
+        "imageUrl": "https://cdn.justfingram.com/faad71854b.jpg?stream=true"
+      },
+      {
+        "title": "Episode 23",
+        "videoUrl": "https://cdn.justfingram.com/c770ffa8c6448fca305f96a3a386d158.mp4?stream=true&t=b0efaf73257a0b66",
+        "imageUrl": "https://cdn.justfingram.com/5635f3922d.jpg?stream=true"
+      },
+      {
+        "title": "Episode 24",
+        "videoUrl": "https://cdn.justfingram.com/3f65f8e7fd667b68dd94b142287bfe66.mp4?stream=true&t=b6da6e6259c265fb",
+        "imageUrl": "https://cdn.justfingram.com/e761ea835f.jpg?stream=true"
+      },
+      {
+        "title": "Episode 25",
+        "videoUrl": "https://cdn.justfingram.com/ade71e6e7f666ea111f47603e316f679.mp4?stream=true&t=f6cbeebfb9efefba",
+        "imageUrl": "https://cdn.justfingram.com/548e595873.jpg?stream=true"
+      },
+      {
+        "title": "Episode 26",
+        "videoUrl": "https://cdn.justfingram.com/b177fd8a304ac6cf9db9197260f8f47a.mp4?stream=true&t=d6109bb1493c51cc",
+        "imageUrl": "https://cdn.justfingram.com/01919a11b2.jpg?stream=true"
+      },
+      {
+        "title": "Episode 27",
+        "videoUrl": "https://cdn.justfingram.com/42e7b785bf7199fb39d61556c6b56e0e.mp4?stream=true&t=077c3336ec5bf7a7",
+        "imageUrl": "https://cdn.justfingram.com/28bef79075.jpg?stream=true"
+      },
+      {
+        "title": "Episode 28",
+        "videoUrl": "https://cdn.justfingram.com/fafe1dd0413b4e994cc4ef8acf36c377.mp4?stream=true&t=670972cb1cc73fbb",
+        "imageUrl": "https://cdn.justfingram.com/fa462346a6.jpg?stream=true"
+      },
+      {
+        "title": "Episode 29",
+        "videoUrl": "https://cdn.justfingram.com/c3a146e0de48ef6fc6c679b1e63e6200.mp4?stream=true&t=09eecbedb230b408",
+        "imageUrl": "https://cdn.justfingram.com/eece604650.jpg?stream=true"
+      },
+      {
+        "title": "Episode 30",
+        "videoUrl": "https://cdn.justfingram.com/4ddc8af7394a9db9110a73da40fcb7db.mp4?stream=true&t=a0548b453f74823c",
+        "imageUrl": "https://cdn.justfingram.com/f80604046c.jpg?stream=true"
+      },
+      {
+        "title": "Episode 31",
+        "videoUrl": "https://cdn.justfingram.com/fcb6e28a2cc129d8450dfa727428fc92.mp4?stream=true&t=6a904f69542250e5",
+        "imageUrl": "https://cdn.justfingram.com/12c439dc4e.jpg?stream=true"
+      },
+      {
+        "title": "Episode 32",
+        "videoUrl": "https://cdn.justfingram.com/ea88fc88040c3027c50e15042d7fd3f9.mp4?stream=true&t=81546e41d94802cd",
+        "imageUrl": "https://cdn.justfingram.com/9d3c9e8e21.jpg?stream=true"
+      },
+      {
+        "title": "Episode 33",
+        "videoUrl": "https://cdn.justfingram.com/ead8cd5f930b172e10d930dee6dd0327.mp4?stream=true&t=21239c7bffda59d6",
+        "imageUrl": "https://cdn.justfingram.com/afe87fb4dc.jpg?stream=true"
+      },
+      {
+        "title": "Episode 34",
+        "videoUrl": "https://cdn.justfingram.com/2917ccaf2a0b0be408f45069a29b64a8.mp4?stream=true&t=a1a8ddb84b39f587",
+        "imageUrl": "https://cdn.justfingram.com/63d2c3d9c6.jpg?stream=true"
+      },
+      {
+        "title": "Episode 35",
+        "videoUrl": "https://cdn.justfingram.com/17ce28b8fececb9671e60421cc409fae.mp4?stream=true&t=8856e87d35c0d1bc",
+        "imageUrl": "https://cdn.justfingram.com/c5be4d4d5e.jpg?stream=true"
+      },
+      {
+        "title": "Episode 36",
+        "videoUrl": "https://cdn.justfingram.com/53c6463ba9d615dd0e3ee7f6ae4858a3.mp4?stream=true&t=9c160d21a9dd822c",
+        "imageUrl": "https://cdn.justfingram.com/3f9ee0143f.jpg?stream=true"
+      }
+    ]
+  },
+  {
+    "title": "The Great Indian Kapil Show Season 5",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_The-Great-_1790444162.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "https://cdn.justfingram.com/dee77ad1d222ff3996155394ef462697.mp4?stream=true&t=9910e06541a4a6a6",
+        "imageUrl": "https://watchapne.biz/db_imgs/show_The-Great-_1790444162.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "https://cdn.justfingram.com/5db1ba536791ff85d673e51953cd1cee.mp4?stream=true&t=d5adaf073c964f98",
+        "imageUrl": "https://cdn.justfingram.com/5365e5f228.jpg?stream=true"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "https://cdn.justfingram.com/fe492097851a81d62f3a3732c1c9eb61.mp4?stream=true&t=327c6553d228e043",
+        "imageUrl": "https://cdn.justfingram.com/62a95bb3d0.jpg?stream=true"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "https://cdn.justfingram.com/9d637faa76b4c60585a6f442b22bc1e9.mp4?stream=true&t=7709a5434eec4abb",
+        "imageUrl": "https://cdn.justfingram.com/a41c9bcb0c.jpg?stream=true"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "https://cdn.justfingram.com/7a44ba8ad58d3618cd766b895c4a2c57.mp4?stream=true&t=fde10b83ce6dd570",
+        "imageUrl": "https://cdn.justfingram.com/4e24d857ad.jpg?stream=true"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "https://cdn.justfingram.com/433688a74a3f5a7fbfda816106511cfa.mp4?stream=true&t=eafd0d69fd4f5a01",
+        "imageUrl": "https://cdn.justfingram.com/4d73d27630.jpg?stream=true"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "https://cdn.justfingram.com/07687b62af91e0cab1e3df44729cef5e.mp4?stream=true&t=df4cb1593eb9346f",
+        "imageUrl": "https://cdn.justfingram.com/aaeda5e9fe.jpg?stream=true"
       }
     ]
   },
@@ -978,43 +1040,6 @@
         "title": "Episode 6",
         "videoUrl": "https://cdn.justfingram.com/e8f11318d89e6de513efc55c3ad50983.mp4?stream=true&t=8a6f7b648cba95bc",
         "imageUrl": "https://cdn.justfingram.com/648f4b1fca.jpg?stream=true"
-      }
-    ]
-  },
-  {
-    "title": "The Great Indian Kapil Show Season 5",
-    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_The-Great-_1790444162.jpg",
-    "year": "2026",
-    "episodes": [
-      {
-        "title": "Episode 1",
-        "videoUrl": "https://cdn.justfingram.com/dee77ad1d222ff3996155394ef462697.mp4?stream=true&t=9910e06541a4a6a6",
-        "imageUrl": "https://watchapne.biz/db_imgs/show_The-Great-_1790444162.jpg"
-      },
-      {
-        "title": "Episode 2",
-        "videoUrl": "https://cdn.justfingram.com/5db1ba536791ff85d673e51953cd1cee.mp4?stream=true&t=d5adaf073c964f98",
-        "imageUrl": "https://cdn.justfingram.com/5365e5f228.jpg?stream=true"
-      },
-      {
-        "title": "Episode 3",
-        "videoUrl": "https://cdn.justfingram.com/fe492097851a81d62f3a3732c1c9eb61.mp4?stream=true&t=327c6553d228e043",
-        "imageUrl": "https://cdn.justfingram.com/62a95bb3d0.jpg?stream=true"
-      },
-      {
-        "title": "Episode 4",
-        "videoUrl": "https://cdn.justfingram.com/9d637faa76b4c60585a6f442b22bc1e9.mp4?stream=true&t=7709a5434eec4abb",
-        "imageUrl": "https://cdn.justfingram.com/a41c9bcb0c.jpg?stream=true"
-      },
-      {
-        "title": "Episode 5",
-        "videoUrl": "https://cdn.justfingram.com/7a44ba8ad58d3618cd766b895c4a2c57.mp4?stream=true&t=fde10b83ce6dd570",
-        "imageUrl": "https://cdn.justfingram.com/4e24d857ad.jpg?stream=true"
-      },
-      {
-        "title": "Episode 6",
-        "videoUrl": "https://cdn.justfingram.com/433688a74a3f5a7fbfda816106511cfa.mp4?stream=true&t=eafd0d69fd4f5a01",
-        "imageUrl": "https://cdn.justfingram.com/4d73d27630.jpg?stream=true"
       }
     ]
   },
