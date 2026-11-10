@@ -111,14 +111,29 @@
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/bigboss20.jpeg",
     "episodes": [
       {
+        "title": "Apne - 10th November 2026",
+        "videoUrl": "https://cdn.justfingram.com/546fe53d32a7d02f57dee4aba4118991.mp4?stream=true&t=5c1d435ca488f0de",
+        "imageUrl": "https://cdn.justfingram.com/f342325186.jpg?stream=true"
+      },
+      {
         "title": "9th November 2026",
         "videoUrl": "https://s013.upbolt.to/hls2/01/00043/,98n9ch3anjak_l,98n9ch3anjak_n,98n9ch3anjak_h,.urlset/master.m3u8?t=ZUhJM6ND3MfL8liEhsQLF-0QnwP-B598D_d_GLdQmqU&s=1794258156&e=86400&v=43021991&i=0.3&sp=1000",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Bigg-Boss-20-310x165.jpg"
       },
       {
+        "title": "Apne - 9th November 2026",
+        "videoUrl": "https://cdn.justfingram.com/cc0557986413770111da40eabd3d2e1a.mp4?stream=true&t=e63865e45cab8721",
+        "imageUrl": "https://cdn.justfingram.com/926ccb7f07.jpg?stream=true"
+      },
+      {
         "title": "8th November 2026",
         "videoUrl": "https://s13-s1001604.97bf1.com/hls/JL7RyQonvf3ENLHTw7w0Sl3euuFU0OnI/master.m3u8?token=70d77d093b71685939b97ca226425fde-1794286957-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-6e1351e8bc0ebf247c07d560b4a50e419bd890ffa9df007dbed128c70918b946",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Bigg-Boss-20-310x165.jpg"
+      },
+      {
+        "title": "Apne - 8th November 2026",
+        "videoUrl": "https://cdn.justfingram.com/989055d46d27ff689201b812ce7847d4.mp4?stream=true&t=7201d4bb94017749",
+        "imageUrl": "https://cdn.justfingram.com/c4c05dd546.jpg?stream=true"
       },
       {
         "title": "7th November 2026",
@@ -159,16 +174,6 @@
         "title": "31st October 2026",
         "videoUrl": "https://m1-s1001604.97bf1.com/hls/pgXst72BSTEpVlNUtEAHPFp58SQChwUW/master.m3u8",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Bigg-Boss-20-310x165.jpg"
-      },
-      {
-        "title": "Apne - 9th November 2026",
-        "videoUrl": "https://cdn.justfingram.com/cc0557986413770111da40eabd3d2e1a.mp4?stream=true&t=002ad087d068e881",
-        "imageUrl": "https://cdn.justfingram.com/14a0acd896.jpg?stream=true"
-      },
-      {
-        "title": "Apne - 8th November 2026",
-        "videoUrl": "https://cdn.justfingram.com/989055d46d27ff689201b812ce7847d4.mp4?stream=true&t=7201d4bb94017749",
-        "imageUrl": "https://cdn.justfingram.com/c4c05dd546.jpg?stream=true"
       }
     ]
   },
