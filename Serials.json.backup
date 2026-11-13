@@ -5,58 +5,53 @@
     "episodes": [
       {
         "title": "8th November 2026",
-        "videoUrl": "https://m1-s1001604.97bf1.com/hls/jRskPc3tX59aR63DLWQiUuc8G6XOXOEc/master.m3u8?token=d5d7197cd6d2b4dafe0a959332a5c582-1794533324-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-976b60e64f29ae7cafcc0059afdb96dc0e6726fd11909ea5df3d21d17ff60ce9",
-        "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/India-Ke-Top-1-310x165.jpg"
-      },
-      {
-        "title": "7th November 2026",
-        "videoUrl": "https://m1-s1001604.97bf1.com/hls/XYk66LbFPZCAzeajdG3nRbill2AYIXAx/master.m3u8?token=2f0971b99af0b399474c22d8734b9d1c-1794533325-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-6ef013cada1be1ea212c73cc58bf1e11236bc12539fdfb16673403d26a2b14b8",
-        "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/India-Ke-Top-1-310x165.jpg"
-      },
-      {
-        "title": "1st November 2026",
-        "videoUrl": "https://s13-s1001604.97bf1.com/hls/zUzt2E9aVjVCr9rOHsjP77QuaRntFASF/master.m3u8?token=48674278e689e850b153ae98b7b082fc-1794533326-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-5f9a8e2eb053b0ef510b9492d49316fe1feef7b701d1781f6b0269b6b1ac460a",
-        "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/India-Ke-Top-1-310x165.jpg"
-      },
-      {
-        "title": "31st October 2026",
-        "videoUrl": "https://s8-s251765.97bf1.com/hls/nLdzqYiE5JRHnMwJsqjU9fTw0YEMJRM8/master.m3u8?token=e520cc45b32e7e8fe178fa3bdd8c3007-1794533327-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-892646c6eb6a97a78e9f492255f6fbcf7b943ed6cec202241b0c2456f1cb317d",
-        "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/India-Ke-Top-1-310x165.jpg"
-      },
-      {
-        "title": "25th October 2026",
-        "videoUrl": "https://m1-s1001604.97bf1.com/hls/ZfIhbrPNYlCYY2iWK62QlUx4sTDkMeXi/master.m3u8?token=2e845af98c3c06b137bc91496e9c6636-1794533328-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-76b5fdc0f366d7f17fbb87b6eb1f882910413e49503ab0faee900e9951d64ad7",
-        "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/India-Ke-Top-1-310x165.jpg"
-      },
-      {
-        "title": "24th October 2026",
-        "videoUrl": "https://s13-s1001604.97bf1.com/hls/ZZsAInk6xHX6k9TQzpus2aRajzBiS3No/master.m3u8?token=b541b0a9aa7790513c0b50800a9264b9-1794533329-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-19da1e8227a42b62399740495d01002c870e5a671afd1a1c113bcc8c66fde912",
-        "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/India-Ke-Top-1-310x165.jpg"
-      },
-      {
-        "title": "18th October 2026",
-        "videoUrl": "https://s1-s501740.97bf1.com/hls/42joQ5fM5LSz47Hv0SGovhc3QrxQPaju/master.m3u8?token=337b51d0bf2df79338260d021e873802-1794533330-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-8b5bf2045b15e8ff4ec80edee13ee4315af33702ea7fb804c7dcc64e3cdb7d46",
-        "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/India-Ke-Top-1-310x165.jpg"
-      },
-      {
-        "title": "17th October 2026",
-        "videoUrl": "https://s11-s1001604.97bf1.com/hls/fvWGqv9ekqaj2awTgti1Rjbk4TRyFnc0/master.m3u8?token=25d6d07bab5bebf70cdc1ccfa3afd503-1794533331-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-add37de5fe47eea467bdfb104d4333c9136559e6baf8013cc9a87b87fce856d1",
-        "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/India-Ke-Top-1-310x165.jpg"
-      },
-      {
-        "title": "11th October 2026",
-        "videoUrl": "https://sto.vkcdn5.com/olaxkyohwduiolyobgckhwrnghrlv2pe5d6z4xsdicwmqgduerpx3q4h6jxa/v.mp4",
-        "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/India-Ke-Top-1-310x165.jpg"
-      },
-      {
-        "title": "10th October 2026",
-        "videoUrl": "https://cdn.streamcash.to/videos/Z33EuGaMtfhc_Q/index.m3u8",
+        "videoUrl": "https://vksovhj002.vkcdn5.com/olaxkw73wduiolyobgc2hu3emxekiwvrsnvozyx3hi2u6m7y6v37sudzzepq/v.mp4",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/India-Ke-Top-1-310x165.jpg"
       },
       {
         "title": "Apne - 8th November 2026",
         "videoUrl": "https://cdn.justfingram.com/763aa090b98cc9cebe8f371bcb904133.mp4?stream=true&t=0f8d85640d4d56bd",
         "imageUrl": "https://cdn.justfingram.com/9ae9759946.jpg?stream=true"
+      },
+      {
+        "title": "7th November 2026",
+        "videoUrl": "https://sto.vkcdn5.com/olaxk4pywduiolyobgc2hujyozhuvwyescfr4japptiqjgp3fhefximcp4aa/v.mp4",
+        "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/India-Ke-Top-1-310x165.jpg"
+      },
+      {
+        "title": "1st November 2026",
+        "videoUrl": "https://s13-s1001604.97bf1.com/hls/zUzt2E9aVjVCr9rOHsjP77QuaRntFASF/master.m3u8?token=ad9999cbad64c73cf14a04f752ff4577-1794614338-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-959bc6ce1c4b68a9ee4a37ec069a65bf185417c1dc60532fdb880b667171ab1d",
+        "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/India-Ke-Top-1-310x165.jpg"
+      },
+      {
+        "title": "31st October 2026",
+        "videoUrl": "https://s8-s251765.97bf1.com/hls/nLdzqYiE5JRHnMwJsqjU9fTw0YEMJRM8/master.m3u8?token=3802a849f520bb8bfa2b87369d9b0002-1794614339-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-c5f8359a9f04af29b9677d05c17a0f1bd34f423b4b7517cb661ef78d84102090",
+        "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/India-Ke-Top-1-310x165.jpg"
+      },
+      {
+        "title": "25th October 2026",
+        "videoUrl": "https://m1-s1001604.97bf1.com/hls/ZfIhbrPNYlCYY2iWK62QlUx4sTDkMeXi/master.m3u8?token=b0747397e225ba7942f1d973a29fc697-1794614340-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-bc2a4b2fdaa69874e0acd2785f593b3ddbe515e4cfa83c8a97ce124656b8947f",
+        "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/India-Ke-Top-1-310x165.jpg"
+      },
+      {
+        "title": "24th October 2026",
+        "videoUrl": "https://s13-s1001604.97bf1.com/hls/ZZsAInk6xHX6k9TQzpus2aRajzBiS3No/master.m3u8?token=abffbe1c2e6f7792a07c77379f3625fa-1794614341-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-6a6dcb32c99df2b422cc059ac0f6f9472ef6b59c69999f0749d02c802b00590d",
+        "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/India-Ke-Top-1-310x165.jpg"
+      },
+      {
+        "title": "18th October 2026",
+        "videoUrl": "https://sto.vkcdn5.com/olaxkgwrwduiolyobgckhuz4gh3auhywnlq7anx4vb56t7ctwswys5aqt7ea/v.mp4",
+        "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/India-Ke-Top-1-310x165.jpg"
+      },
+      {
+        "title": "17th October 2026",
+        "videoUrl": "https://sto.vkcdn5.com/olaxkt66wduiolyobgckhwtnnyurnoy5x2m4vxb6wgxkkdcme756ikufbega/v.mp4",
+        "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/India-Ke-Top-1-310x165.jpg"
+      },
+      {
+        "title": "11th October 2026",
+        "videoUrl": "https://sto.vkcdn5.com/olaxkyohwduiolyobgckhwrnghrlv2pe5d6z4xsdicwmqgduerp6rp4g6jxa/v.mp4",
+        "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/India-Ke-Top-1-310x165.jpg"
       }
     ]
   },
@@ -65,18 +60,28 @@
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/bigboss20.jpeg",
     "episodes": [
       {
+        "title": "13th November 2026",
+        "videoUrl": "https://s7-s501740.s1q2105.com/hls/9Ilu5odZDh1sKDxP51fMdFBxwHD8JmUT/master.m3u8?token=98186f26c43e189a8f321676c9b248bd-1794614373-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-4bc1f972383674c631f4088e6c383d829fb40732e89e8dd5fa76d9f636309119",
+        "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Bigg-Boss-20-310x165.jpg"
+      },
+      {
+        "title": "Apne - 13th November 2026",
+        "videoUrl": "https://cdn.justfingram.com/fa499c187d240854043e86fd0b2ccb3f.mp4?stream=true&t=2af8007ea063f67a",
+        "imageUrl": "https://cdn.justfingram.com/9fbf024a42.jpg?stream=true"
+      },
+      {
         "title": "12th November 2026",
-        "videoUrl": "https://s13-s1001604.97bf1.com/hls/snGxqPGc3xaEvDOyinu3eCcpx7k460yN/master.m3u8?token=6d5601fc001f9f7acaedfac77232f859-1794533364-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-842a971be8009fa870796fdaf102410c987cbb9f339696f85b02effd5d8410a0",
+        "videoUrl": "https://phbg00.vkcdn5.com/olaxkr76wduiolyobgbkhxrfhmrmnwojbt4e6oz2x5r76uo2djat4kqhx74q/v.mp4",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Bigg-Boss-20-310x165.jpg"
       },
       {
         "title": "Apne - 12th November 2026",
-        "videoUrl": "https://cdn.justfingram.com/fed03c7d254675fdc272d572ea4e4682.mp4?stream=true&t=696b063ca81e9629",
+        "videoUrl": "https://cdn.justfingram.com/fed03c7d254675fdc272d572ea4e4682.mp4?stream=true&t=78b90d8768fd8c31",
         "imageUrl": "https://cdn.justfingram.com/c859c5e668.jpg?stream=true"
       },
       {
         "title": "11th November 2026",
-        "videoUrl": "https://s8-s251765.97bf1.com/hls/cTO6dZpEfHhGjQgfEpX3jX5lP9IpI1tt/master.m3u8?token=66ceab5149339f1c79a2c65b9a15d833-1794533365-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-c8aeadff8e362c942ec872107b57a950c194877c493d729074fd6c18c72f0071",
+        "videoUrl": "https://s8-s251765.97bf1.com/hls/cTO6dZpEfHhGjQgfEpX3jX5lP9IpI1tt/master.m3u8?token=2e8ffa886811ff0167c1117653fc9502-1794614375-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-20ce5976f4897e75a43a9d67edf31a2603ec71b1e039a3cbd55cc15946dfdfb6",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Bigg-Boss-20-310x165.jpg"
       },
       {
@@ -86,7 +91,7 @@
       },
       {
         "title": "10th November 2026",
-        "videoUrl": "https://s12-s501740.s1q2105.com/hls/mOdqEQS2JXZ8Np77Aq34ssGzdQqYpjUj/master.m3u8?token=0ce0a34a912165a45270ccb6ced1f4e7-1794533366-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-b4f1120c27cfe684157a0142af9e87e97f563b1164c841c5482ec05a5cd371f3",
+        "videoUrl": "https://vksovhj002.vkcdn5.com/olaxkjp5wduiolyobgbkhqrxmr6kv6oifqnw47cjd56mkk4i3ugvcg5y3o5q/v.mp4",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Bigg-Boss-20-310x165.jpg"
       },
       {
@@ -96,7 +101,7 @@
       },
       {
         "title": "9th November 2026",
-        "videoUrl": "https://s013.upbolt.to/hls2/01/00043/,98n9ch3anjak_l,98n9ch3anjak_n,98n9ch3anjak_h,.urlset/master.m3u8?t=2slB8RmBJ1pHYfCWDIZWBkBXiJ1aUl3JHl7OqhYw-YY&s=1794504566&e=86400&v=43021991&i=0.3&sp=1000",
+        "videoUrl": "https://vksovhj001.vkcdn5.com/olaxkcx2wduiolyobgbkhqj4mfke2kdeychmoql4d2nzdmmkk4q5niao3sba/v.mp4",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Bigg-Boss-20-310x165.jpg"
       },
       {
@@ -106,7 +111,7 @@
       },
       {
         "title": "8th November 2026",
-        "videoUrl": "https://s13-s1001604.97bf1.com/hls/JL7RyQonvf3ENLHTw7w0Sl3euuFU0OnI/master.m3u8?token=81d79f9958d5254a59b0fd2852a5b8e0-1794533368-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-37e2d65e8cfaadef0d830a28575effdf39e9c8ef0ecbe328ccb5b8dce42d9d10",
+        "videoUrl": "https://s13-s1001604.97bf1.com/hls/JL7RyQonvf3ENLHTw7w0Sl3euuFU0OnI/master.m3u8?token=9681e7bfe2a6d92ef95ff34385339824-1794614377-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-c5b6a27d1902a95e22315ad87bc6737d86cf5b1d8e1da073e5744a43d63fab48",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Bigg-Boss-20-310x165.jpg"
       },
       {
@@ -116,27 +121,17 @@
       },
       {
         "title": "7th November 2026",
-        "videoUrl": "https://s6-s251765.97bf1.com/hls/naqoLHS1pC0NfJKOuvx7Ugf2gRIi0zjB/master.m3u8?token=22b83018ec639d0f349b31850445c5cf-1794533368-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-724c33dc613e3eabe007f255d7ed070236dd04caea7ab30de4de44bbb0fa94fd",
+        "videoUrl": "https://s6-s251765.97bf1.com/hls/naqoLHS1pC0NfJKOuvx7Ugf2gRIi0zjB/master.m3u8?token=ed2cbe920e808cdd3282259a65d27c88-1794614377-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-5883ef6c307547ab36e231cc5f0af14e6536b59cad6cfd285f25f2759ee2e15d",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Bigg-Boss-20-310x165.jpg"
       },
       {
         "title": "6th November 2026",
-        "videoUrl": "https://s11-s1001604.97bf1.com/hls/V6CkoLbFesS2NvEausHWRwi0hULB9pzA/master.m3u8?token=b1e525c262f234f85992e8d60b5a87e5-1794533369-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-d8aa1129cd681e93b1c37d636fab9f7f08f5945da87544ebb73d900ddda812b7",
+        "videoUrl": "https://s11-s1001604.97bf1.com/hls/V6CkoLbFesS2NvEausHWRwi0hULB9pzA/master.m3u8?token=c98a2397f3dd6d98ae3824f9302df96d-1794614378-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-f5fd2c46b2502c1a59196e09489e6e9b873bc9be6b66b31e5413311c5bc9f84a",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Bigg-Boss-20-310x165.jpg"
       },
       {
         "title": "5th November 2026",
-        "videoUrl": "https://s6-s251765.97bf1.com/hls/wYCTKmKaVbpBo4q1RbayX6a91ncnim68/master.m3u8?token=bb0e971dbaec9488f1dc7eac59610b9d-1794533370-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-d71c15752f7f43ccc25b46f564292e44800c25d68e92e0178d74d3435ac23224",
-        "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Bigg-Boss-20-310x165.jpg"
-      },
-      {
-        "title": "4th November 2026",
-        "videoUrl": "https://s9-s1001604.97bf1.com/hls/hdqrE5cKKoByTH3NT35AGdi2rPDEoRg1/master.m3u8?token=abbf9a3b6b5996c1633e80bd8692d5c9-1794533371-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-bf6db34e57de106c27cc6e0639ca91afb4fcae4a8e1e290d4cfb7c44ac08db82",
-        "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Bigg-Boss-20-310x165.jpg"
-      },
-      {
-        "title": "3rd November 2026",
-        "videoUrl": "https://s10-s501740.97bf1.com/hls/UPO5A3GfBlODrp9Sp6JcTikNFKzlrRTn/master.m3u8?token=2efaf3ca7f675b591f31c8651da76f34-1794533372-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-53a9311325a716eb79bc16545b901c62380505c55da28ca7aa7a0a4f86c62d17",
+        "videoUrl": "https://s6-s251765.97bf1.com/hls/wYCTKmKaVbpBo4q1RbayX6a91ncnim68/master.m3u8?token=bf89a1d9a6b53fe351a44e0cf0710c8c-1794614379-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-77fea9347ffdd6a64a94d401e4a4ad67f82770e2800f05a879926586dd2893b9",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Bigg-Boss-20-310x165.jpg"
       }
     ]
@@ -146,43 +141,48 @@
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/rodies2026.jpeg",
     "episodes": [
       {
+        "title": "13th November 2026",
+        "videoUrl": "https://vksovhj002.vkcdn5.com/olaxkvxrwduiolyobgbkha3nm6rhnjxcrv5hc6rgeemoyoot6ncgs577zeja/v.mp4",
+        "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/MTV-Roadies-Rebirth-310x165.jpg"
+      },
+      {
+        "title": "Apne - 13th November 2026",
+        "videoUrl": "https://cdn.justfingram.com/b75909a881f51c37139db95213ed9597.mp4?stream=true&t=9b7ea699464250db",
+        "imageUrl": "https://cdn.justfingram.com/6761d9f403.jpg?stream=true"
+      },
+      {
         "title": "7th November 2026",
-        "videoUrl": "https://s13-s1001604.97bf1.com/hls/Raj563egtnSnSAj1eGiFU0c0iWRGNnqL/master.m3u8?token=3a0bfdd93bfb797c4aced241ca12f419-1794533377-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-89cde560b10b2dc555e2760d8b630a51b226082eafd0fcd3ca0f4bd800c499ec",
+        "videoUrl": "https://vksovhv101.vkcdn5.com/olaxlexzwduiolyobgc2hsjvnovetvryb6mgulo2x3kqvuuqdyzz76o6fn4q/v.mp4",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/MTV-Roadies-Rebirth-310x165.jpg"
       },
       {
         "title": "6th November 2026",
-        "videoUrl": "https://s11-s1001604.97bf1.com/hls/GbPMSRt0xMrzWVtAn55wyWqyzQtuFb8n/master.m3u8?token=37d226a314666e493e9469468732098b-1794533378-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-68d45b17a95a37948d7a57b4ba1d25c528e36faf008d920a4d58278d68e79f5a",
+        "videoUrl": "https://sto.vkcdn5.com/olaxlypgwduiolyobgc2hcbqgx4qk4inwxhzli546d5dpmv42hzwziselgta/v.mp4",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/MTV-Roadies-Rebirth-310x165.jpg"
       },
       {
         "title": "31st October 2026",
-        "videoUrl": "https://s10-s501740.97bf1.com/hls/5dmB4Y7NGHiFCBxXNwNwLGVN3PJ9K5tG/master.m3u8?token=08c4c7816083c70b511e740eb60e307e-1794533379-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-0bad157f36def95a03624f7011f76b0f78afd7be709cc41ecb6b3f6db40fd89a",
+        "videoUrl": "https://s10-s501740.97bf1.com/hls/5dmB4Y7NGHiFCBxXNwNwLGVN3PJ9K5tG/master.m3u8?token=43ed55755cc5d284b2b80445c569aa8c-1794614388-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-ea2af59335ab4eaf8f9cd1e9d1013920626d65fcbc9df0c32826cbdb562ccf09",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/MTV-Roadies-Rebirth-310x165.jpg"
       },
       {
         "title": "30th October 2026",
-        "videoUrl": "https://s6-s251765.97bf1.com/hls/8ORj49zhFdPKM54jwE1rqLQf4WTBkWSu/master.m3u8?token=a3991add2616fee6370e37ef6078c2a0-1794533380-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-d2cccb0b94d44264622fb65eeea460e62029df5d93c6d2f41c92d724863e7e78",
+        "videoUrl": "https://s6-s251765.97bf1.com/hls/8ORj49zhFdPKM54jwE1rqLQf4WTBkWSu/master.m3u8?token=5db2b62e964dcc65ba03f7da7e4b3720-1794614388-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-9dbb32f29bc58bd67c3655cdcd73ca5bc13f26e3aaab4b05534015f7262db023",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/MTV-Roadies-Rebirth-310x165.jpg"
       },
       {
         "title": "24th October 2026",
-        "videoUrl": "https://s13-s1001604.97bf1.com/hls/XWerUa9eE98IUfSwLPNlaMW8jklHCa39/master.m3u8?token=be7c9f9c8806bdddf9044b98d860e34d-1794533380-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-4d107b6ab8ec5eab4790713d52b6e340ac05286a9635efbf4f55aef737b9675f",
+        "videoUrl": "https://s13-s1001604.97bf1.com/hls/XWerUa9eE98IUfSwLPNlaMW8jklHCa39/master.m3u8?token=b906747c199b60bd53b5bd1ca600e258-1794614389-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-3a093aab09677281cb98c4dc110eb8600734a925c77d9bcbb5a45a55eb274cb4",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/MTV-Roadies-Rebirth-310x165.jpg"
       },
       {
         "title": "23rd October 2026",
-        "videoUrl": "https://s14-s1001604.97bf1.com/hls/l1O7rPxJRDcqHBabpwsHQ9KJqza24Yoi/master.m3u8?token=19e118a357d4cc3d264ca74b7ea6e93f-1794533381-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-9c6601c8c57ff7b89021e1fb69518eda9404e51a09e21432f691220db51b3527",
+        "videoUrl": "https://sto.vkcdn5.com/olaxkowwwduiolyobgc2hsblow2sk4x3c4pfdf6dht5t3vrd7ywryy7juu2a/v.mp4",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/MTV-Roadies-Rebirth-310x165.jpg"
       },
       {
         "title": "17th October 2026",
-        "videoUrl": "https://s8-s251765.97bf1.com/hls/psZHOJAWFDoR9X9A60E1L3ASOl8UtBli/master.m3u8?token=848b2c43506666d2a00f6d31053d6ecd-1794533382-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-b37dda0de939ff365cca5fbc7fdb4b7e6496ad501d8c0da57500426a81fe90ae",
-        "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/MTV-Roadies-Rebirth-310x165.jpg"
-      },
-      {
-        "title": "16th October 2026",
-        "videoUrl": "https://s12-s501740.s1q2105.com/hls/tDDD2fbYhtYFDrKl7aHIwarf0kDDFqB8/master.m3u8?token=36a51df51a303f4fda1a36211a2d6135-1794533383-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-a3cf05a6092b0d4a487a1bb8af588a081dcb8e42d314103994524ea297ef4242",
+        "videoUrl": "https://sto.vkcdn5.com/olaxlag7wduiolyobgckhvbrogk7ayp3jq7qpnv7uzhzd6wyujjhuvajj4gq/v.mp4",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/MTV-Roadies-Rebirth-310x165.jpg"
       }
     ]
@@ -192,53 +192,53 @@
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/anupama.jpeg",
     "episodes": [
       {
+        "title": "13th November 2026",
+        "videoUrl": "https://vksovhj001.vkcdn5.com/olaxk3p6wduiolyobgbkhslogh4t5kvubkeagcluggqks5ixsb2onsoapida/v.mp4",
+        "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Anupamaa-310x165.jpg"
+      },
+      {
+        "title": "Apne - 13th November 2026",
+        "videoUrl": "https://cdn.justfingram.com/3a9e0d128263f89d6a2f37fb324c8d4a.mp4?stream=true&t=ac7621b3b9d6cc87",
+        "imageUrl": "https://cdn.justfingram.com/fc19271d8e.jpg?stream=true"
+      },
+      {
         "title": "12th November 2026",
-        "videoUrl": "https://s1-s501740.97bf1.com/hls/3ZJq1slo9ztrS6nhNNBRwH54xgEozXoP/master.m3u8?token=0deaf25476e1d77a9604d86c0a04411b-1794533332-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-c50cf5789f84e810ecc5deeaed85b0489caec2a38e64d599ff8f434d0e03797d",
+        "videoUrl": "https://phbg00.vkcdn5.com/olaxlip4wduiolyobgbkhvjvpcyl4bpw6ovf52oh4wbz6aqcdfgxkkjigkma/v.mp4",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Anupamaa-310x165.jpg"
       },
       {
         "title": "11th November 2026",
-        "videoUrl": "https://s13-s1001604.97bf1.com/hls/pMOvY9y0dAmRPqxJu8Bh5qpaLCmOOMRj/master.m3u8?token=cce265951fbc3c0dae9fe90938d231af-1794533333-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-c8c865488a96886c5bdb076633d075050146875ef371ccb6ba42775d16b5d0c4",
+        "videoUrl": "https://vksovhj1002.vkcdn5.com/olaxlgh5wduiolyobgbkhqbxgqmxzhdywopjymgx56ecw6jwfq6sbkcxnurq/v.mp4",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Anupamaa-310x165.jpg"
       },
       {
         "title": "10th November 2026",
-        "videoUrl": "https://s7-s501740.s1q2105.com/hls/EqTi7lNVO7zinJCITnbdixnqzI0uqPny/master.m3u8?token=1e4c285901566b005530a3bc4dda8aeb-1794533334-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-3c9ede4255d9b0c88780365a5b92171c220fcbf82b299ce20a3616dd86443f87",
+        "videoUrl": "https://vksovhv01.vkcdn5.com/olaxkpx2wduiolyobgbkhqrzmu4bjjmvjgmboqqyapldu4lfmssi37krf2ca/v.mp4",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Anupamaa-310x165.jpg"
       },
       {
         "title": "9th November 2026",
-        "videoUrl": "https://s6-s251765.97bf1.com/hls/5rC6bmKqAQVhCA0gtv3b9kcVYWp5PbZ4/master.m3u8?token=4e81962888db32a1f5af58005dedd4e6-1794533334-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-014067ca419fd82148cd02858b93d0f664387d14f8cbc57bedf4ac4c38b6afad",
+        "videoUrl": "https://vksovhv101.vkcdn5.com/olaxkex3wduiolyobgc2hutigoja7yhpg3u3z4qs57u3vjwjbmhxvajk3y3q/v.mp4",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Anupamaa-310x165.jpg"
       },
       {
         "title": "8th November 2026",
-        "videoUrl": "https://s13-s1001604.97bf1.com/hls/cxQZMCsSbLk6OwbwI0MvHURcMzh6hiNM/master.m3u8?token=bfe450935a83166c67c411ab0e3a39a5-1794533335-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-12a44a8b93171e414b4f5ac1b5d96eef38702bf430378762e0ce88bbe5bc9eef",
+        "videoUrl": "https://sto.vkcdn5.com/olaxkjpywduiolyobgc2halmmax3ffh525miegtnglzwrs4cvagjubskd2qq/v.mp4",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Anupamaa-310x165.jpg"
       },
       {
         "title": "7th November 2026",
-        "videoUrl": "https://s6-s251765.97bf1.com/hls/YxoDAg2qAIx3Tz6qSYXtx0sgNqGXyCiH/master.m3u8?token=27e3664dcf81b693b76b4720eb9c11ba-1794533336-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-a786bbe264242da9a12534351c8e4b29d83378cae28961e7dae5ae85b2750ac4",
+        "videoUrl": "https://sto.vkcdn5.com/olaxk77zwduiolyobgc2hujhpplqpi2fxsm5l5yfavangzu6eroqnnyvk73a/v.mp4",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Anupamaa-310x165.jpg"
       },
       {
         "title": "6th November 2026",
-        "videoUrl": "https://s10-s501740.97bf1.com/hls/DrZuX9tmr5KW4ePqsl0p2EzggXVBTUYn/master.m3u8?token=e70c24409cf6a6d39b42f6bfea86b2c0-1794533337-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-7ce0243e6916d9e7b5d1a0db15bc49d48570466fa652a2dcf1112f7e03632566",
+        "videoUrl": "https://sto.vkcdn5.com/olaxkrhgwduiolyobgc2hwrvm7qmjxhtlkwlb5ifhyydb4sj64nc7f6bygda/v.mp4",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Anupamaa-310x165.jpg"
       },
       {
         "title": "5th November 2026",
-        "videoUrl": "https://s017.upbolt.to/hls2/01/00042/,ud8ozs8mc54o_l,ud8ozs8mc54o_n,ud8ozs8mc54o_h,.urlset/master.m3u8?t=LO9Xd-PtSX7BgnYmAJhozXDRj-YN_Br8YSrj36DJUZw&s=1794504537&e=86400&v=42022774&i=0.3&sp=1000",
-        "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Anupamaa-310x165.jpg"
-      },
-      {
-        "title": "4th November 2026",
-        "videoUrl": "https://s10-s501740.97bf1.com/hls/5wDRmvR07HmPTbfzIIiLZm6idlut5gyy/master.m3u8?token=20f3ba89c0a48453c06f0dc4b61f6833-1794533338-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-254f2e0579f6e8453eeb76811d03d9695f18735d8f5f4f71392607fb48199a91",
-        "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Anupamaa-310x165.jpg"
-      },
-      {
-        "title": "3rd November 2026",
-        "videoUrl": "https://s10-s501740.97bf1.com/hls/kxv9xAlzkaNhLkRYVaHX14kALPjUKaDb/master.m3u8?token=69b71931f9c45ad352e4d36654b23323-1794533339-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-cb156270ed38858c325c5e4ec7658c584de52806c26d967b9b459044100b382b",
+        "videoUrl": "https://vksovhj1001.vkcdn5.com/olaxlpxewduiolyobgc2hwzlok7ncxwl42byeeohqznbkie4yia5u6waqmhq/v.mp4",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Anupamaa-310x165.jpg"
       }
     ]
@@ -248,53 +248,58 @@
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/yrkkh.jpeg",
     "episodes": [
       {
-        "title": "12th November 2026",
-        "videoUrl": "https://s7-s501740.s1q2105.com/hls/cpKRRK50EG3tpRhLtG52yibp1boxSRWb/master.m3u8?token=3f7b56152a366008c6a9330fbf835c10-1794533340-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-6e5fa3f7366a891b96af12e8e5faee1549c7b2b0ae1522f5a021d5d417220f81",
+        "title": "13th November 2026",
+        "videoUrl": "https://vksovhj001.vkcdn5.com/olaxkkh6wduiolyobgbkha3enztxzwseq62ktrd34askv3ubnpyrwr7ktuxq/v.mp4",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Yeh-Rishta-Kya-Kehlata-Hai-310x165.jpg"
       },
       {
+        "title": "Apne - 13th November 2026",
+        "videoUrl": "https://cdn.justfingram.com/ab92d27cd0748cd0aa91c134e84ec037.mp4?stream=true&t=185951315d37b22b",
+        "imageUrl": "https://cdn.justfingram.com/fea9d78128.jpg?stream=true"
+      },
+      {
+        "title": "12th November 2026",
+        "videoUrl": "https://phbg00.vkcdn5.com/olaxlm74wduiolyobgbkhcjtodlprbzidthcidrcwswwwxszw24nrubphhua/v.mp4",
+        "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Yeh-Rishta-Kya-Kehlata-Hai-310x165.jpg"
+      },
+      {
+        "title": "Apne - 12th November 2026",
+        "videoUrl": "https://cdn.justfingram.com/b5977b6504ff5e8a938ed20bce48bf16.mp4?stream=true&t=1512215fee3cdaa1",
+        "imageUrl": "https://cdn.justfingram.com/b1668e16b3.jpg?stream=true"
+      },
+      {
         "title": "11th November 2026",
-        "videoUrl": "https://s14-s1001604.97bf1.com/hls/MV0RZA4ctR45HXezqS0RxMA4qU5QS5uf/master.m3u8?token=a6943c9a61e48d487168eb872545a36c-1794533341-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-d141672c9884becab5534cd3fa1e01bc82f4840c9de17252a371ea62fbdc6e5a",
+        "videoUrl": "https://vksovhj1002.vkcdn5.com/olaxlyp5wduiolyobgbkhsbxou74necqf2lpgq222u46mredkbzx3kw3upca/v.mp4",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Yeh-Rishta-Kya-Kehlata-Hai-310x165.jpg"
       },
       {
         "title": "10th November 2026",
-        "videoUrl": "https://s7-s501740.s1q2105.com/hls/P5u8iMCYstBvTLFF7PwF4xgs5fEvK6zH/master.m3u8?token=f5bb8895659347e91181e01b93d3b1a4-1794533341-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-e5fef6d445f5b7189194032434d0ec25a3bdfc1b8f202046bdf270751531f292",
+        "videoUrl": "https://vksovhj1002.vkcdn5.com/olaxlv72wduiolyobgbkhb3io5qbhdfhyrbiyebi75yrh2nc5kffscuhiiiq/v.mp4",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Yeh-Rishta-Kya-Kehlata-Hai-310x165.jpg"
       },
       {
         "title": "9th November 2026",
-        "videoUrl": "https://s8-s251765.97bf1.com/hls/dPDEiTDMzNsITPZTLYXtnBCq2YVKlUUF/master.m3u8?token=e3c37e25dabde5768e24a90a6c45c6b9-1794533342-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-dad8e18b46b392903bfa965cba6da4f19a2815fcf3c8c086110d8ce626db85dd",
+        "videoUrl": "https://sto.vkcdn5.com/olaxkjh3wduiolyobgc2hrrzmxoj5h4p5ghoa76p2krizp4vpzoyuim4aoyq/v.mp4",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Yeh-Rishta-Kya-Kehlata-Hai-310x165.jpg"
       },
       {
         "title": "8th November 2026",
-        "videoUrl": "https://m1-s1001604.97bf1.com/hls/8YoghP3Ap2ePvHLrnWKh1OCzRB0ftmbQ/master.m3u8?token=8987ba6152b935915c68667329958a69-1794533343-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-bc91f5a0b5784ce9390dd8cc22f066931b59b79728b53de06a2127b4dd0b4ed3",
+        "videoUrl": "https://vksovhj001.vkcdn5.com/olaxklpywduiolyobgc2hcb4nn3uerqyp6vhh2ccmbcoozpksp54nnaea3ua/v.mp4",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Yeh-Rishta-Kya-Kehlata-Hai-310x165.jpg"
       },
       {
         "title": "7th November 2026",
-        "videoUrl": "https://s1-s501740.97bf1.com/hls/Qng7hgv6KEthgCPPwqHduUgPvXPLEwha/master.m3u8?token=110df4fe3406fefbab8f7043584f6938-1794533343-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-cef61caf1fd1094e0483a7ce82e3ce9d6b322735c7d77a4dd23a7437ddd171db",
+        "videoUrl": "https://vksovhj002.vkcdn5.com/olaxkaxzwduiolyobgc2hcjtn5ljbxunr73sigcigifvhkbuhuaa2zqsmlzq/v.mp4",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Yeh-Rishta-Kya-Kehlata-Hai-310x165.jpg"
       },
       {
         "title": "6th November 2026",
-        "videoUrl": "https://s1-s501740.97bf1.com/hls/JiQnED6j9dbWuQvGTOlxQqKMrQ9mynf2/master.m3u8?token=2d274a791eb3b74c3f326c5a45407a6a-1794533345-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-eb5548def8488f348c04ae6a9490a0588e2ddbe65556e2d1f719dd8558981e36",
+        "videoUrl": "https://sto.vkcdn5.com/olaxkvxgwduiolyobgc2hvjzmevoyqgvrwmqoqfg42x5z5qj7fzm6kqg6bja/v.mp4",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Yeh-Rishta-Kya-Kehlata-Hai-310x165.jpg"
       },
       {
         "title": "5th November 2026",
-        "videoUrl": "https://s017.upbolt.to/hls2/01/00042/,ybxdfrz0itb8_l,ybxdfrz0itb8_n,ybxdfrz0itb8_h,.urlset/master.m3u8?t=p4Ugzn5ZFHINCssFcCm-MFSspzHDToI03NAcN4sy51g&s=1794504545&e=86400&v=42022808&i=0.3&sp=1000",
-        "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Yeh-Rishta-Kya-Kehlata-Hai-310x165.jpg"
-      },
-      {
-        "title": "4th November 2026",
-        "videoUrl": "https://s11-s1001604.97bf1.com/hls/K4Xr1MRhKrT7EZJvXRopV271gyxCGGie/master.m3u8?token=19cead3753493b7d87df065d89712a3a-1794533346-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-ac5928a9b58e1c40baf92c3e0717c6506a22bc04394a41a6a95b22bf3b539e48",
-        "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Yeh-Rishta-Kya-Kehlata-Hai-310x165.jpg"
-      },
-      {
-        "title": "3rd November 2026",
-        "videoUrl": "https://s13-s1001604.97bf1.com/hls/03OMNsGBqCgPzvtrJ04PjRzBudyJ7lRz/master.m3u8?token=57b6bc89ea9930efea1282a58917927b-1794533347-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-edc664692a981df048910a17173ada7972a9cf2f2b474c1793cc6d4813faaccb",
+        "videoUrl": "https://sto.vkcdn5.com/olaxkq7hwduiolyobgc2hxrfgwwh4rp55g5fsmqumscdfcqumol63guqn2da/v.mp4",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Yeh-Rishta-Kya-Kehlata-Hai-310x165.jpg"
       }
     ]
@@ -304,53 +309,58 @@
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/tmok.jpg",
     "episodes": [
       {
-        "title": "12th November 2026",
-        "videoUrl": "https://s021.upbolt.to/hls2/01/00044/,853o017vc3le_l,853o017vc3le_n,853o017vc3le_h,.urlset/master.m3u8?t=Jb82NAAw8m0dsDDuY3QU8G4uaNBHZ8eUu8bWPKkinQA&s=1794504555&e=86400&v=43611227&i=0.3&sp=1000",
+        "title": "13th November 2026",
+        "videoUrl": "https://vksovhj1002.vkcdn5.com/olaxkaprwduiolyobgbkhxzumny4m7kvp5kfutc5md7cbic4scsdtxazritq/v.mp4",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Taarak-Mehta-Ka-Ooltah-Chashmah-310x165.jpg"
       },
       {
+        "title": "Apne - 13th November 2026",
+        "videoUrl": "https://cdn.justfingram.com/5a7281028e82257ddd1c8968450a89f4.mp4?stream=true&t=86ddd8fd2e8679b2",
+        "imageUrl": "https://cdn.justfingram.com/c3ca75b8d9.jpg?stream=true"
+      },
+      {
+        "title": "12th November 2026",
+        "videoUrl": "https://ht165.vkcdn5.com/olaxlah7wduiolyobgbkhar3n75j7x5tojzpmv3srz7hq4bps5737kuqa37a/v.mp4",
+        "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Taarak-Mehta-Ka-Ooltah-Chashmah-310x165.jpg"
+      },
+      {
+        "title": "Apne - 12th November 2026",
+        "videoUrl": "https://cdn.justfingram.com/bc81a2124c1b1bb0960dc3aff9f80399.mp4?stream=true&t=c6b5bb13283ad14c",
+        "imageUrl": "https://cdn.justfingram.com/9b63ea1389.jpg?stream=true"
+      },
+      {
         "title": "11th November 2026",
-        "videoUrl": "https://s14-s1001604.97bf1.com/hls/CreOjD8uUxs3glSvT5jAh43eF5NNNzVm/master.m3u8?token=5621c04cdf88faafc6872ba1c4e9be0c-1794533356-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-fdec9675369e0f1cbba51b2fae91868c2716e478d26d63b1f014dfb1bb01a8cd",
+        "videoUrl": "https://vksovhv01.vkcdn5.com/olaxkop4wduiolyobgbkhxdlmsdyz3m4jzpck4v7pwz4f662pixvv7w3x6wq/v.mp4",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Taarak-Mehta-Ka-Ooltah-Chashmah-310x165.jpg"
       },
       {
         "title": "10th November 2026",
-        "videoUrl": "https://s12-s501740.s1q2105.com/hls/IgHMny6CglhvNo3kvkDhnKnc6igOEhZA/master.m3u8?token=31517fdac8d14f25ffc97e169b428d3b-1794533356-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-4a5c28ec02fab42775a134a283dfd09dfb100c03dee82d863b47ea59783d17f1",
+        "videoUrl": "https://vksovhv101.vkcdn5.com/olaxkyx5wduiolyobgbkhv3emv5omzgsiovao7eena7th4aupxu2yto2pn2q/v.mp4",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Taarak-Mehta-Ka-Ooltah-Chashmah-310x165.jpg"
       },
       {
         "title": "9th November 2026",
-        "videoUrl": "https://s10-s501740.97bf1.com/hls/M71XCZcVubY86hkFIkHkZEvtUfsnCHum/master.m3u8?token=cc2021a8637954a27a1a2ceb07db1647-1794533357-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-c38aa7f8a5c8010f3dcd2dd88e1c8031270c90ca36c536930a2986ed18ad657e",
+        "videoUrl": "https://sto.vkcdn5.com/olaxkz72wduiolyobgbkhrryn3m6zhbkqguo5ndqscwsiuo7gqsbi5ajb2nq/v.mp4",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Taarak-Mehta-Ka-Ooltah-Chashmah-310x165.jpg"
       },
       {
         "title": "7th November 2026",
-        "videoUrl": "https://s8-s251765.97bf1.com/hls/4ptNY13iuovYsQmmhkWLb6QvRUfiAaFd/master.m3u8?token=1fad08bec91fa47138b6612ab21f6095-1794533358-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-a445a435fcb9fc8504e7b0e63b8586d2188bd4d9b09b1946d6cea547338ab264",
+        "videoUrl": "https://vksovhj002.vkcdn5.com/olaxlkxzwduiolyobgc2hbrmgaycoudbhezzeuw47a2qzq6y4fmh5n5jqgla/v.mp4",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Taarak-Mehta-Ka-Ooltah-Chashmah-310x165.jpg"
       },
       {
         "title": "6th November 2026",
-        "videoUrl": "https://s1-s501740.97bf1.com/hls/LR8m99Jk1CYQriGMUe4zg5UIfHQiPOxJ/master.m3u8?token=71946e498bea3256ed4d6d3c29c66339-1794533359-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-6e03801d9ca7b3bfb5501b4cd128f0825602d42b4af397425dc7b80df2140e19",
+        "videoUrl": "https://sto.vkcdn5.com/olaxla7gwduiolyobgc2hvjlo2x5zplgmnu2zwwscrpp2wz654s7hoh5xjra/v.mp4",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Taarak-Mehta-Ka-Ooltah-Chashmah-310x165.jpg"
       },
       {
         "title": "5th November 2026",
-        "videoUrl": "https://s12-s501740.s1q2105.com/hls/IeuVwUili9RoGNYO94optq2cEHSVaiH7/master.m3u8?token=92fa2c1a9095e2d8493449af7f8b2f0b-1794533360-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-6e7cfc0cd885952d533f888edd4f66b9c79ce4f85c3ea182d96c6aab794572cd",
+        "videoUrl": "https://sto.vkcdn5.com/olaxlzhhwduiolyobgc2hqlngbhtmy7wkv6mnelqmjnahmbytuyz62iim2ca/v.mp4",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Taarak-Mehta-Ka-Ooltah-Chashmah-310x165.jpg"
       },
       {
         "title": "4th November 2026",
-        "videoUrl": "https://s14-s1001604.97bf1.com/hls/QjaaTnn5ISL5iC8ySucWZDKUXvCZE7CR/master.m3u8?token=f3591124eed254c230f2abffa678fab2-1794533361-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-4bd2f9e1908caab549c6f3fc60a54bed5fac2c34eeeefd3ca1a75feeeabc1678",
-        "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Taarak-Mehta-Ka-Ooltah-Chashmah-310x165.jpg"
-      },
-      {
-        "title": "3rd November 2026",
-        "videoUrl": "https://s12-s501740.s1q2105.com/hls/3dZP9rOyP36FUcF7XiTVN5j5DjlAy4Ik/master.m3u8?token=c12fdc25724a6ee67b83b406cb5141b3-1794533362-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-463ad389dda397f2714492e6a8540e811d54316092c27c3be43dd32a8af0ca2d",
-        "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Taarak-Mehta-Ka-Ooltah-Chashmah-310x165.jpg"
-      },
-      {
-        "title": "2nd November 2026",
-        "videoUrl": "https://s14-s1001604.97bf1.com/hls/FLvRg7QMggeVm4vkeRKpFXkwGdISjFK8/master.m3u8?token=39777f0110260a7f57b9e237e55ef176-1794533362-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-7ad17ae853c7a4dc15712c0280603b3f6e5c1944816af2ae9111500b585a227c",
+        "videoUrl": "https://s14-s1001604.97bf1.com/hls/QjaaTnn5ISL5iC8ySucWZDKUXvCZE7CR/master.m3u8?token=1e2b8a6bfa5ae55a79b907a42b8d8f4f-1794614372-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-2d127ddd39d8a7c7d29fc4c7ed049e3046590285cb570453f01c57af5b23a2f8",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Taarak-Mehta-Ka-Ooltah-Chashmah-310x165.jpg"
       }
     ]
@@ -360,53 +370,48 @@
     "imageUrl": "https://github.com/ashwanixtra-afk/images/raw/main/kkrkbrbh.jpeg",
     "episodes": [
       {
+        "title": "13th November 2026",
+        "videoUrl": "https://vksovhj002.vkcdn5.com/olaxk4p6wduiolyobgbkhqrqpjm5xx57exoazgdqtse6c2gjqu7hlisarloa/v.mp4",
+        "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Kyunki-Rishton-Ke-Bhi-Roop-Badalte-Hai-310x165.jpg"
+      },
+      {
         "title": "12th November 2026",
-        "videoUrl": "https://s8-s251765.97bf1.com/hls/Eo8KbyneSxvRvuXetlsYDiRZfsnL9L24/master.m3u8?token=5d1bdc6f4032ff2ba06289fd3cd6ebb4-1794533348-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-9ed4c449a92e422626b36901e058d760836a039c002b9f0ffd9e71fa4d8a8019",
+        "videoUrl": "https://phbg00.vkcdn5.com/olaxllp4wduiolyobgbkha3kma5k2jbeufzwz4etra45b3qcewe3kf5fy5kq/v.mp4",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Kyunki-Rishton-Ke-Bhi-Roop-Badalte-Hai-310x165.jpg"
       },
       {
         "title": "11th November 2026",
-        "videoUrl": "https://s14-s1001604.97bf1.com/hls/ptMNZk5PBXl7kvXX8iOXD5MgT4v4oaeI/master.m3u8?token=c21081e60295559a7125813846ef8408-1794533349-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-144b5739395a39cf5bc5d9c2ec7306799eb1b0e09a65d3cb638d5f28af9c7533",
+        "videoUrl": "https://vksovhj1002.vkcdn5.com/olaxku74wduiolyobgbkhqtjgsfqror4krzarvuoxxx5foiycyezwdkzbtta/v.mp4",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Kyunki-Rishton-Ke-Bhi-Roop-Badalte-Hai-310x165.jpg"
       },
       {
         "title": "10th November 2026",
-        "videoUrl": "https://m1-s1001604.97bf1.com/hls/VjpGmoX8l48GugcwBZ4AOzkBezyJgxjN/master.m3u8?token=441c85fc8b1cb282342c6f3544d6ef5e-1794533349-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-2a8c56a97f0072c9823e088a87495dde6c636e7a6c556afb661736774b708639",
+        "videoUrl": "https://vksovhv01.vkcdn5.com/olaxkox2wduiolyobgbkhbbynbedi2dvgu52lofj3ujdbe2sahrohljpfapa/v.mp4",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Kyunki-Rishton-Ke-Bhi-Roop-Badalte-Hai-310x165.jpg"
       },
       {
         "title": "9th November 2026",
-        "videoUrl": "https://s13-s1001604.97bf1.com/hls/JHkeES2rfNGm8jc5nD4RrEqAlG6POyxh/master.m3u8?token=de520623f4d94d56b5da1657e895fd4d-1794533350-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-d418b8ffa22be14e52f17b80e50b73451cc2d99c0cd1c59d46f04d5f1daffb6c",
+        "videoUrl": "https://vksovhj002.vkcdn5.com/olaxkhx3wduiolyobgc2hrz4gy26jekrvvvlvd4c6kdz4cnai7uuieoo3yaa/v.mp4",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Kyunki-Rishton-Ke-Bhi-Roop-Badalte-Hai-310x165.jpg"
       },
       {
         "title": "8th November 2026",
-        "videoUrl": "https://s6-s251765.97bf1.com/hls/rlEbSwPPaHBtffwTbaVTBoBftGOV9xIb/master.m3u8?token=f0e850931b6fa76858c9d7c0fd46daa9-1794533351-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-f44902cc6ac6dab8dbe49368a7cdaa37ef9eb91382627502184888f77e782408",
+        "videoUrl": "https://sto.vkcdn5.com/olaxkkxywduiolyobgc2hxlmn7jk37k6rrf7cd3nebd6wy5jhr474ez4ktua/v.mp4",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Kyunki-Rishton-Ke-Bhi-Roop-Badalte-Hai-310x165.jpg"
       },
       {
         "title": "7th November 2026",
-        "videoUrl": "https://s14-s1001604.97bf1.com/hls/Pb4dQbT8JtNL9jwEBKjKEuLH66TNZGo9/master.m3u8?token=fb877c5d6c85ba8594963db10d7b7a16-1794533351-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-0b016cf53ab14330f4b70eff91582475b1a07391d5f58efb6f1313ec183273c3",
+        "videoUrl": "https://vksovhj001.vkcdn5.com/olaxkzhywduiolyobgc2hxz7oj4oa5ylocavrjctogxo2munq2l2skaqdnoq/v.mp4",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Kyunki-Rishton-Ke-Bhi-Roop-Badalte-Hai-310x165.jpg"
       },
       {
         "title": "6th November 2026",
-        "videoUrl": "https://s1-s501740.97bf1.com/hls/Aunmp7SLSN84FjAF4apWH8s1acGyjeUs/master.m3u8?token=1945fad4b2ddd403bd666a4e7a29a8c8-1794533352-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-e7fbee8d88038edf0515ceb1e145bd7422fea0a34605a1ae91565b1d6f13e7c6",
+        "videoUrl": "https://vksovhv101.vkcdn5.com/olaxksxzwduiolyobgc2hvz6gya3rk2jq44vxwer3g5oo3wclzdbprjf27uq/v.mp4",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Kyunki-Rishton-Ke-Bhi-Roop-Badalte-Hai-310x165.jpg"
       },
       {
         "title": "5th November 2026",
-        "videoUrl": "https://s12-s501740.s1q2105.com/hls/7WTuLItHakf1Bp6RuXcN6qVocadu30D8/master.m3u8?token=1b61fa715ab67c68576644c20393c182-1794533353-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-b97d5c5567b1bca3b6d169d17d7763aecd8a508983d80dde8621b07dd58e8867",
-        "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Kyunki-Rishton-Ke-Bhi-Roop-Badalte-Hai-310x165.jpg"
-      },
-      {
-        "title": "4th November 2026",
-        "videoUrl": "https://s13-s1001604.97bf1.com/hls/77qeTxFDQh5Tl5hcKfPUFWmpYP644GKy/master.m3u8?token=b49a3b3be215ac62b53cf712193ed426-1794533354-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-f9ea7b3cb94628ccb70e6e676d39e7813bf474a1810561714369f94521910903",
-        "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Kyunki-Rishton-Ke-Bhi-Roop-Badalte-Hai-310x165.jpg"
-      },
-      {
-        "title": "3rd November 2026",
-        "videoUrl": "https://s12-s501740.s1q2105.com/hls/uxy5ZhaM4gmS45YdkySaOeT6DlM2KH23/master.m3u8?token=f11c7fd33165befb17198432790f9023-1794533354-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-90120f600b028527d5bd24f40eb24ece5d4c05c0ec4a5f32360c52aa318d0cc9",
+        "videoUrl": "https://vksovhv01.vkcdn5.com/olaxlg7hwduiolyobgc2hsbhon4whtudqcul6eteihoahm7n4suzu5hjtsna/v.mp4",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/Kyunki-Rishton-Ke-Bhi-Roop-Badalte-Hai-310x165.jpg"
       }
     ]
@@ -417,7 +422,7 @@
     "episodes": [
       {
         "title": "7th November 2026",
-        "videoUrl": "https://s14-s1001604.97bf1.com/hls/dHpn1dIR3RBe0HCtbS0Bh6njygIoQT1D/master.m3u8?token=70ad672fa89b6e34415a74bb0b0080ef-1794533373-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-db56151b41f4bfa025e58ea346e3a4734bf7fca017f4dd11520f77a8f883508f",
+        "videoUrl": "https://vksovhv101.vkcdn5.com/olaxloxzwduiolyobgc2hxz6ntj3et2h3ctt4mvadw32us2m34emitqanxqa/v.mp4",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/The-Great-Indian-Kapil-Show-5-310x165.jpg"
       },
       {
@@ -427,12 +432,12 @@
       },
       {
         "title": "24th October 2026",
-        "videoUrl": "https://s9-s1001604.97bf1.com/hls/YteZiRD8Yad9l8iVjjREijf4W4IEE6dy/master.m3u8?token=6695a71366539cc3d1d21c7627876fa5-1794533374-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-fb2463469ebcfaa428e245d1d80c2116f2aec4b47d4c905e54a3982a3631a647",
+        "videoUrl": "https://s9-s1001604.97bf1.com/hls/YteZiRD8Yad9l8iVjjREijf4W4IEE6dy/master.m3u8?token=0fa37e8e1a796b7a5fdf19d6681f09ed-1794614382-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-e2d791d6bffdfba5cd2bf9ce95ac5984ae58f13662a3a283481687c13f05dc25",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/The-Great-Indian-Kapil-Show-5-310x165.jpg"
       },
       {
         "title": "17th October 2026",
-        "videoUrl": "https://s11-s1001604.97bf1.com/hls/fulc3kIznNiQHLNPNgksYXXg53bJ33Zv/master.m3u8?token=2c9697d4b84c0e4faf221fa23fcb9168-1794533375-2a13%3A4ac0%3A28%3A3%3Af816%3A3eff%3Afe8c%3A35ed-79ab29fcaf197de64fa08ea36091978d5b32d255d8b09260b0b80eb5d20e87fb",
+        "videoUrl": "https://phbg00.vkcdn5.com/olaxljg7wduiolyobgckhujpo34hepxrg2ad67rkc2mfnq5x2mrctqdodrtq/v.mp4",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/The-Great-Indian-Kapil-Show-5-310x165.jpg"
       },
       {
@@ -443,11 +448,6 @@
       {
         "title": "3rd October 2026",
         "videoUrl": "https://cdn.streamcash.to/videos/odGrjB13cSKjvQ/index.m3u8",
-        "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/The-Great-Indian-Kapil-Show-5-310x165.jpg"
-      },
-      {
-        "title": "26th September 2026",
-        "videoUrl": "https://cdn.streamcash.to/videos/bhQ5YHLpGWUYSg/index.m3u8",
         "imageUrl": "https://serialtvmaza.sbs/wp-content/uploads/2026/10/The-Great-Indian-Kapil-Show-5-310x165.jpg"
       }
     ]
