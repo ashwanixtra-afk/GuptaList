@@ -877,119 +877,1941 @@
     ]
   },
   {
-    "title": "Ishqa Ishqa",
-    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Ishqa-Ishq_1791393443.jpg",
+    "title": "I Popstar Season 2",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_I-Popstar-_1791293558.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 2",
+        "videoUrl": "https://cdn.justfingram.com/b3e9b279c04d62573d5bc924759abec4.mp4?stream=true&t=4e2f0e5bf5221719",
+        "imageUrl": "https://cdn.justfingram.com/6cde4962cb.jpg?stream=true"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "https://cdn.justfingram.com/8e6a16a149bdd8da70f7016f2b8a99ee.mp4?stream=true&t=5e246d0e5ebdd399",
+        "imageUrl": "https://cdn.justfingram.com/aaf71c5b96.jpg?stream=true"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "https://cdn.justfingram.com/f731fb8f7a8acea6766d9bc39d4c98b8.mp4?stream=true&t=7580e3f706ef1156",
+        "imageUrl": "https://cdn.justfingram.com/9aa3a31738.jpg?stream=true"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "https://cdn.justfingram.com/59bf993bdbbe85b437da3e7ba780090f.mp4?stream=true&t=b272d9c7da488de1",
+        "imageUrl": "https://cdn.justfingram.com/e8a13e94e6.jpg?stream=true"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "https://cdn.justfingram.com/c598c99985b2bf415251ba165e9bac37.mp4?stream=true&t=ff867ea20d08241a",
+        "imageUrl": "https://cdn.justfingram.com/4b0640d715.jpg?stream=true"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "https://cdn.justfingram.com/14fa472c7221026c1243b164b9a1e10b.mp4?stream=true&t=5cce0e1a7d5105b9",
+        "imageUrl": "https://cdn.justfingram.com/f8ffd5a1a1.jpg?stream=true"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "https://cdn.justfingram.com/cea56488d363c9821ecbf603c492371e.mp4?stream=true&t=e91fd2217c9e2a05",
+        "imageUrl": "https://cdn.justfingram.com/b44cb4caa6.jpg?stream=true"
+      },
+      {
+        "title": "Episode 9",
+        "videoUrl": "https://cdn.justfingram.com/301a23a851a6267fb088d4a495df8d21.mp4?stream=true&t=c1531990f2fc71fb",
+        "imageUrl": "https://cdn.justfingram.com/0a712b48e9.jpg?stream=true"
+      },
+      {
+        "title": "Episode 10",
+        "videoUrl": "https://cdn.justfingram.com/b304cb924f5bf901af2f284d4e79b0ae.mp4?stream=true&t=aab8b7f21a9e03dc",
+        "imageUrl": "https://cdn.justfingram.com/c6194b0a79.jpg?stream=true"
+      },
+      {
+        "title": "Episode 11",
+        "videoUrl": "https://cdn.justfingram.com/113a164b0c7e2c377755d20019727c28.mp4?stream=true&t=b7286cd5e5f27657",
+        "imageUrl": "https://cdn.justfingram.com/3032e1d07f.jpg?stream=true"
+      },
+      {
+        "title": "Episode 12",
+        "videoUrl": "https://cdn.justfingram.com/65ea7fed58ff7ea9d9fb4682804f94a5.mp4?stream=true&t=cd9e313356723b06",
+        "imageUrl": "https://cdn.justfingram.com/bd711fa561.jpg?stream=true"
+      },
+      {
+        "title": "Episode 13",
+        "videoUrl": "https://cdn.justfingram.com/d8cf7be0f1dd81c60fb45dca1b5f4d20.mp4?stream=true&t=0f4148173fee8849",
+        "imageUrl": "https://cdn.justfingram.com/e0fd3c28a7.jpg?stream=true"
+      },
+      {
+        "title": "Episode 14",
+        "videoUrl": "https://cdn.justfingram.com/115ef27f4551297960fb32d7a7548510.mp4?stream=true&t=8a83d8b1b6b15b08",
+        "imageUrl": "https://cdn.justfingram.com/62c533f894.jpg?stream=true"
+      },
+      {
+        "title": "Episode 15",
+        "videoUrl": "https://cdn.justfingram.com/256919ab4e019723145b8f8f14429594.mp4?stream=true&t=5b50b1083e552a72",
+        "imageUrl": "https://cdn.justfingram.com/f9fa2b7a47.jpg?stream=true"
+      },
+      {
+        "title": "Episode 16",
+        "videoUrl": "https://cdn.justfingram.com/7396709f3fbeddd60cae25a24a1af8d2.mp4?stream=true&t=6f1bd2aa03d7b65f",
+        "imageUrl": "https://cdn.justfingram.com/1f5e92f2c2.jpg?stream=true"
+      },
+      {
+        "title": "Episode 17",
+        "videoUrl": "https://cdn.justfingram.com/2636f14e0d0e51c45507a3ca933a271e.mp4?stream=true&t=0c744747a946815d",
+        "imageUrl": "https://cdn.justfingram.com/f468f4b5c6.jpg?stream=true"
+      },
+      {
+        "title": "Episode 18",
+        "videoUrl": "https://cdn.justfingram.com/c9e583d2e47281b76bc84f9b4f791487.mp4?stream=true&t=7a7559d1c63e2e37",
+        "imageUrl": "https://cdn.justfingram.com/292e3a6810.jpg?stream=true"
+      },
+      {
+        "title": "Episode 19",
+        "videoUrl": "https://cdn.justfingram.com/c1afedff0adcbd2d99166caee3341e80.mp4?stream=true&t=8c2a8b728e2892e7",
+        "imageUrl": "https://cdn.justfingram.com/9ed6d992ea.jpg?stream=true"
+      },
+      {
+        "title": "Episode 20",
+        "videoUrl": "https://cdn.justfingram.com/9cc518ce0581daad46d9014ad172489e.mp4?stream=true&t=79108ff3a1545279",
+        "imageUrl": "https://cdn.justfingram.com/5959c06e1b.jpg?stream=true"
+      }
+    ]
+  },
+  {
+    "title": "Chumbak",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Chumbak_1789066316.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 5",
+        "videoUrl": "https://cdn.justfingram.com/f16f9f52a388cf43cd1ec949a4a7b172.mp4?stream=true&t=7e2873936c39dddd",
+        "imageUrl": "https://cdn.justfingram.com/9e3fa6783c.jpg?stream=true"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "https://cdn.justfingram.com/740a3de07db6a0f2538eba7e2e80f15a.mp4?stream=true&t=8aaa8ff9da4130c7",
+        "imageUrl": "https://cdn.justfingram.com/8f5b8a6a51.jpg?stream=true"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "https://cdn.justfingram.com/f65da453646b23ae0fd2b64e423444a6.mp4?stream=true&t=8fe51e66f6c0ac04",
+        "imageUrl": "https://cdn.justfingram.com/d14ff7022f.jpg?stream=true"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "https://cdn.justfingram.com/3537f0393599555b942191a68456ddad.mp4?stream=true&t=7dd3a51c79cc0b71",
+        "imageUrl": "https://cdn.justfingram.com/350eb81cc5.jpg?stream=true"
+      },
+      {
+        "title": "Episode 9",
+        "videoUrl": "https://cdn.justfingram.com/1d5077853670e915886741e259c8f353.mp4?stream=true&t=8e20339a0a8e6283",
+        "imageUrl": "https://cdn.justfingram.com/3b9447fdd2.jpg?stream=true"
+      },
+      {
+        "title": "Episode 10",
+        "videoUrl": "https://cdn.justfingram.com/08104797c3fda220ad472b6ec8f2f569.mp4?stream=true&t=d2091666861a0567",
+        "imageUrl": "https://cdn.justfingram.com/ed5f80a259.jpg?stream=true"
+      },
+      {
+        "title": "Episode 11",
+        "videoUrl": "https://cdn.justfingram.com/c08a23fc93b9572a979d868bf80cd2bc.mp4?stream=true&t=6be693439fdb39ba",
+        "imageUrl": "https://cdn.justfingram.com/f27c508ea5.jpg?stream=true"
+      },
+      {
+        "title": "Episode 12",
+        "videoUrl": "https://cdn.justfingram.com/740438c76541dc6fa03d5bb890f821d1.mp4?stream=true&t=9ee8cd1fe310f102",
+        "imageUrl": "https://cdn.justfingram.com/8debe995fe.jpg?stream=true"
+      },
+      {
+        "title": "Episode 13",
+        "videoUrl": "https://cdn.justfingram.com/d927e0a2ccb058626b48da2c6a1b62e7.mp4?stream=true&t=bfb0e9182f50e61b",
+        "imageUrl": "https://cdn.justfingram.com/66c6f548c1.jpg?stream=true"
+      },
+      {
+        "title": "Episode 14",
+        "videoUrl": "https://cdn.justfingram.com/d11a534ee5a8c3cbd8ba68f4e7caf978.mp4?stream=true&t=2ee1cf144bf09a4b",
+        "imageUrl": "https://cdn.justfingram.com/5541b65ec4.jpg?stream=true"
+      },
+      {
+        "title": "Episode 15",
+        "videoUrl": "https://cdn.justfingram.com/7114acd15b8b124d1cfffe7bba573630.mp4?stream=true&t=bdba8cfc7c8312e2",
+        "imageUrl": "https://cdn.justfingram.com/991ba7da8e.jpg?stream=true"
+      },
+      {
+        "title": "Episode 16",
+        "videoUrl": "https://cdn.justfingram.com/00ae1eebdbb8e807e2d88ac1a3fd533c.mp4?stream=true&t=335a84eb4a87ce9a",
+        "imageUrl": "https://cdn.justfingram.com/44b46de1b2.jpg?stream=true"
+      }
+    ]
+  },
+  {
+    "title": "Shaque Trust No One",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Shaque-Tru_1790389303.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "https://cdn.justfingram.com/45704f7648229c8cd3aa8105710ba50d.mp4?stream=true&t=d2deeae17d40d721",
+        "imageUrl": "https://watchapne.biz/db_imgs/show_Shaque-Tru_1790389303.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "https://cdn.justfingram.com/19c78aa3d9f8334135c31011970688ad.mp4?stream=true&t=79e41f46a279b502",
+        "imageUrl": "https://watchapne.biz/db_imgs/show_Shaque-Tru_1790389303.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "https://cdn.justfingram.com/1e3167ab15a7e8bd6273d9ecabe4d810.mp4?stream=true&t=bc8f5d0263dddef4",
+        "imageUrl": "https://watchapne.biz/db_imgs/show_Shaque-Tru_1790389303.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "https://cdn-wa.justfingram.com/1365a63390208478a2c211d89c90f1c3.mp4?stream=true&t=663a89173f6c5b00",
+        "imageUrl": "https://watchapne.biz/db_imgs/show_Shaque-Tru_1790389303.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "https://cdn.justfingram.com/56b4b453628ba524c21dc3844c9d2eb9.mp4?stream=true&t=4c9a72c69748a017",
+        "imageUrl": "https://watchapne.biz/db_imgs/show_Shaque-Tru_1790389303.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "https://cdn.justfingram.com/c57db3ca5c88c4fac6e7338fafcf4937.mp4?stream=true&t=76af8fc98e7c8e59",
+        "imageUrl": "https://watchapne.biz/db_imgs/show_Shaque-Tru_1790389303.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "https://cdn.justfingram.com/7fa0e35b1c32a2663c2bb9167c32d550.mp4?stream=true&t=b7437877b9f8d2a5",
+        "imageUrl": "https://watchapne.biz/db_imgs/show_Shaque-Tru_1790389303.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Operation Safed Sagar",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Operation-_1786122780.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/mjid9gkh1jr2.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/1tnxwliwux61.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/y951z3j0mhb9.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/zjh8amj5qrkg.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/t8hodc4lqvqc.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/z4vvh3kg1dsz.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Lock Upp Season 2",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Lock-Upp-S_1782649419.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 24",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/ee38lmtkmglq.jpg"
+      },
+      {
+        "title": "Episode 25",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/i9ubu7dx9l0j.jpg"
+      },
+      {
+        "title": "Episode 26",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/vi7khjjr11y8.jpg"
+      },
+      {
+        "title": "Episode 27",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/yxsdzeo2rmir.jpg"
+      },
+      {
+        "title": "Episode 28",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/984orkxv00qs.jpg"
+      },
+      {
+        "title": "Episode 29",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/v8la5yrvu3n0.jpg"
+      },
+      {
+        "title": "Episode 30",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/1n3u1j3ftpme.jpg"
+      },
+      {
+        "title": "Episode 31",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/17xid4x21m5s.jpg"
+      },
+      {
+        "title": "Episode 32",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/sxx3bb34xfye.jpg"
+      },
+      {
+        "title": "Episode 33",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/z0736gzigf8e.jpg"
+      },
+      {
+        "title": "Episode 34",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/k9ia727edahq.jpg"
+      },
+      {
+        "title": "Episode 35",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/sutqqr8ublam.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Musafir Cafe",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Musafir-Ca_1784915380.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/fuj3wu2v3xqt.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/skc9yfyn47yd.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/0uf7n1jym1pa.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/1azkkamfoipm.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/0go56203d1ax.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/kuj90ytez21s.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/26sh4pmdzmvm.jpg"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/ta9r423ulpsq.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Super Subbu",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Super-Subb_1783023056.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/b6kiq9gv57eo.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/5zaftbdhy2s2.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/z9frbwr1h081.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/v7pohcjo1mch.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/mulg75oygvo1.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/c9y5b3koyfu1.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/td51vsyeub6r.jpg"
+      }
+    ]
+  },
+  {
+    "title": "BhootMate",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_BhootMate_1699863741.jpg",
+    "year": "2023",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00015/il5ax97u2pf0.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00015/g1l760xmnysl.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00015/n44dv1vo2ld0.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00015/2ssi8nbtowzk.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00015/whi0ivk61200.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Talab",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Talab_1697751732.jpg",
+    "year": "2023",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00015/z05v448fi4qb.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00015/kmolm8wvbmiz.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00015/siep2fna3glt.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00015/gkcqg5lmfabh.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00015/je2t4fbq2ygk.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00015/avpdjj57m8g6.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Bekaaboo Season 3",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Bekaaboo-S_1695483136.jpg",
+    "year": "2023",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00015/s4z1thqrg7kc.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00015/c1g9ophf7n8k.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00015/7sb3agioyb42.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00015/yglptybbwa3t.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00015/vl4zk8lscpzf.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00015/0fs9w16r1f6c.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Paurashpur Season 2",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Paurashpur_1690661607.jpg",
+    "year": "2023",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00014/bq228rper73f.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00014/uwm9vgyv76k5.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00014/c7qlkipsbjoh.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00014/0r15o4c6q6jy.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00014/v8yvka8d5xdk.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Honey Trap Squad",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Honey-Trap_1690395403.jpg",
+    "year": "2023",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00014/mlf6zlabj4jf.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00014/c1wru3o6xod5.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00014/l8ov3f27s9uu.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00014/ajmgt89kxu2y.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00014/1whk69oeu005.jpg"
+      }
+    ]
+  },
+  {
+    "title": "The Test Case",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_The-Test-C_1587392733.jpg",
+    "year": "2022",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://watchapne.biz/db_imgs/show_The-Test-C_1587392733.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://watchapne.biz/db_imgs/show_The-Test-C_1587392733.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://watchapne.biz/db_imgs/show_The-Test-C_1587392733.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://watchapne.biz/db_imgs/show_The-Test-C_1587392733.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://watchapne.biz/db_imgs/show_The-Test-C_1587392733.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://watchapne.biz/db_imgs/show_The-Test-C_1587392733.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://watchapne.biz/db_imgs/show_The-Test-C_1587392733.jpg"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "",
+        "imageUrl": "https://watchapne.biz/db_imgs/show_The-Test-C_1587392733.jpg"
+      },
+      {
+        "title": "Episode 9",
+        "videoUrl": "",
+        "imageUrl": "https://watchapne.biz/db_imgs/show_The-Test-C_1587392733.jpg"
+      },
+      {
+        "title": "Episode 10",
+        "videoUrl": "",
+        "imageUrl": "https://watchapne.biz/db_imgs/show_The-Test-C_1587392733.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Mentalhood",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Mentalhood_1585550858.jpg",
+    "year": "2022",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://watchapne.biz/db_imgs/show_Mentalhood_1585550858.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://watchapne.biz/db_imgs/show_Mentalhood_1585550858.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://watchapne.biz/db_imgs/show_Mentalhood_1585550858.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://watchapne.biz/db_imgs/show_Mentalhood_1585550858.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://watchapne.biz/db_imgs/show_Mentalhood_1585550858.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://watchapne.biz/db_imgs/show_Mentalhood_1585550858.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://watchapne.biz/db_imgs/show_Mentalhood_1585550858.jpg"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "",
+        "imageUrl": "https://watchapne.biz/db_imgs/show_Mentalhood_1585550858.jpg"
+      },
+      {
+        "title": "Episode 9",
+        "videoUrl": "",
+        "imageUrl": "https://watchapne.biz/db_imgs/show_Mentalhood_1585550858.jpg"
+      },
+      {
+        "title": "Episode 10",
+        "videoUrl": "",
+        "imageUrl": "https://watchapne.biz/db_imgs/show_Mentalhood_1585550858.jpg"
+      }
+    ]
+  },
+  {
+    "title": "LOCK UPP",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_LOCK-UPP_1646021142.jpg",
+    "year": "2022",
+    "episodes": [
+      {
+        "title": "Episode 59",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00009/nt6uqprjj0l1.jpg"
+      },
+      {
+        "title": "Episode 60",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00009/esmcn8536u5f.jpg"
+      },
+      {
+        "title": "Episode 61",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00009/oxd5b30tpjq6.jpg"
+      },
+      {
+        "title": "Episode 62",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00009/d9kn4vog52mc.jpg"
+      },
+      {
+        "title": "Episode 63",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00009/2wujoz94e8hn.jpg"
+      },
+      {
+        "title": "Episode 64",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00009/dgmreu6zt1t8.jpg"
+      },
+      {
+        "title": "Episode 65",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00009/ci6vb596h5xo.jpg"
+      },
+      {
+        "title": "Episode 66",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00009/9bma0cc4nhko.jpg"
+      },
+      {
+        "title": "Episode 67",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00009/ek0jtj5ql7pr.jpg"
+      },
+      {
+        "title": "Episode 68",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00009/742incmhvm6k.jpg"
+      },
+      {
+        "title": "Episode 69",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00009/lcoe5p6dk1on.jpg"
+      },
+      {
+        "title": "Episode 70",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00009/er8ofcdt0r42.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Girgit",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Girgit_1635287664.jpg",
+    "year": "2021",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00007/qyn9y4gx2emr.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00007/g2vqmuvhe10v.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00007/r3j8uj1rgvxq.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00007/gnejsg6kd28c.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00007/7deyegrevlhp.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00007/nxrs9tzjumpd.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00007/p7s3mszamr7o.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Hai Taubba Season 3",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Hai-Taubba_1631392155.jpg",
+    "year": "2021",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00007/uikuwqgm8voh.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00007/tqrq373vw0ev.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00007/mgwsoc57csbr.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00007/hg9vwc80subb.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Cartel",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Cartel_1629464899.jpg",
+    "year": "2021",
+    "episodes": [
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00006/qqccg1kb4wsk.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00006/oc2tw1lm1y2b.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00006/xzxi509ka654.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00006/akyo58seh4u7.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00006/sx4pcf6u40a4.jpg"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00006/tyvm6rvgw3fq.jpg"
+      },
+      {
+        "title": "Episode 9",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00006/8w9kymzrzgvf.jpg"
+      },
+      {
+        "title": "Episode 10",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00006/liatwlmyl539.jpg"
+      },
+      {
+        "title": "Episode 11",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00006/vchtnb03h8rq.jpg"
+      },
+      {
+        "title": "Episode 12",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00006/3yv5japjzwq6.jpg"
+      },
+      {
+        "title": "Episode 13",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00006/cyc7v1ugstnt.jpg"
+      },
+      {
+        "title": "Episode 14",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00006/g7ef599a5f84.jpg"
+      }
+    ]
+  },
+  {
+    "title": "We Got You Girl",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_We-Got-You_1787419002.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/jp10lcrg1asd.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/1uqnxsmicq8m.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/aq3loynlgias.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/zduyy81ylxhn.jpg"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/nietdqlkefb9.jpg"
+      },
+      {
+        "title": "Episode 9",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/vrqgbvb2rya0.jpg"
+      },
+      {
+        "title": "Episode 10",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/jyf74ni79pwl.jpg"
+      },
+      {
+        "title": "Episode 11",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/dpzt6ajakobk.jpg"
+      },
+      {
+        "title": "Episode 12",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/3qu4myr0mfjr.jpg"
+      },
+      {
+        "title": "Episode 13",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/ya73ingkt5h7.jpg"
+      },
+      {
+        "title": "Episode 14",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/i1ewo53v44fm.jpg"
+      },
+      {
+        "title": "Episode 15",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/gp3fef51xmfp.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Heartbeats Season 2",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Heartbeats_1788975577.jpg",
     "year": "2026",
     "episodes": [
       {
         "title": "Episode 9",
-        "videoUrl": "https://cdn.justfingram.com/96bb50236a065554d0e789c9ca4bc18c.mp4?stream=true&t=e5c6aea51f704022",
-        "imageUrl": "https://cdn.justfingram.com/b1522e516a.jpg?stream=true"
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/s4lcko1jsz6d.jpg"
       },
       {
         "title": "Episode 10",
-        "videoUrl": "https://cdn.justfingram.com/5f3022e7e713b4a4144c7b2f1337420a.mp4?stream=true&t=7216a4315ada809b",
-        "imageUrl": "https://cdn.justfingram.com/e05bfdf0e5.jpg?stream=true"
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/zn91yzqoinix.jpg"
       },
       {
         "title": "Episode 11",
-        "videoUrl": "https://cdn.justfingram.com/e8e1d9d11ac0528cfa083507b0fd55dc.mp4?stream=true&t=d06aa9ad042a0a2a",
-        "imageUrl": "https://cdn.justfingram.com/119f8d9c4a.jpg?stream=true"
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/n2dw1hsh75g8.jpg"
       },
       {
         "title": "Episode 12",
-        "videoUrl": "https://cdn.justfingram.com/83d6c10305e518887fa0280a7b536c60.mp4?stream=true&t=3f37e80f1a637056",
-        "imageUrl": "https://cdn.justfingram.com/ff7d18336e.jpg?stream=true"
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/t5j8vwa9p3ve.jpg"
       },
       {
         "title": "Episode 13",
-        "videoUrl": "https://cdn.justfingram.com/ddc47b51b05bfcf2f6e6816716d70247.mp4?stream=true&t=8ec1a61b9ce65ff8",
-        "imageUrl": "https://cdn.justfingram.com/ef7b93b43c.jpg?stream=true"
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/lf8xoxb0h7ci.jpg"
       },
       {
         "title": "Episode 14",
-        "videoUrl": "https://cdn.justfingram.com/559b9fad5f5c60f2194287318ecdf38f.mp4?stream=true&t=7c713bd1b90f830b",
-        "imageUrl": "https://cdn.justfingram.com/39f0f85ca0.jpg?stream=true"
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/p3riosn9p6i6.jpg"
       },
       {
         "title": "Episode 15",
-        "videoUrl": "https://cdn.justfingram.com/0670b484b17a04c0f8041195610530fb.mp4?stream=true&t=6e4ce9257125525f",
-        "imageUrl": "https://cdn.justfingram.com/cd0a59d5ca.jpg?stream=true"
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/2wxvxblk0gyh.jpg"
       },
       {
         "title": "Episode 16",
-        "videoUrl": "https://cdn.justfingram.com/f7114ee5068ebdf066823736ff452d58.mp4?stream=true&t=91949a76bc52ad57",
-        "imageUrl": "https://cdn.justfingram.com/b6c5028c7e.jpg?stream=true"
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/4w89a9ztuns0.jpg"
       },
       {
         "title": "Episode 17",
-        "videoUrl": "https://cdn.justfingram.com/77e0827ce535d06c598c0af051fa524c.mp4?stream=true&t=457de09cca3e50e1",
-        "imageUrl": "https://cdn.justfingram.com/74bdc7393e.jpg?stream=true"
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/5qma1bofwpf6.jpg"
       },
       {
         "title": "Episode 18",
-        "videoUrl": "https://cdn.justfingram.com/a4e784c6f222b021daeb98c04ee9305d.mp4?stream=true&t=5ffd241fbe977e42",
-        "imageUrl": "https://cdn.justfingram.com/cf3ba5b908.jpg?stream=true"
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/xuwd4xjsvx7g.jpg"
       },
       {
         "title": "Episode 19",
-        "videoUrl": "https://cdn.justfingram.com/dfb3eda89bcac6c7ffa978f4ed431251.mp4?stream=true&t=c4488ed73018e7ee",
-        "imageUrl": "https://cdn.justfingram.com/1efc43c95a.jpg?stream=true"
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/32m0op4o3rve.jpg"
       },
       {
         "title": "Episode 20",
-        "videoUrl": "https://cdn.justfingram.com/c3ca3b21bdc366ccdbd563e51822ff6c.mp4?stream=true&t=18b8eceefb58ac29",
-        "imageUrl": "https://cdn.justfingram.com/4e935bc851.jpg?stream=true"
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/k8a667r0tg8o.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Campus Beats Season 7",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Campus-Bea_1785101008.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/7hirzpnsbqjb.jpg"
       },
       {
-        "title": "Episode 21",
-        "videoUrl": "https://cdn.justfingram.com/7bf13c630d11440bc4a885559d11a6b1.mp4?stream=true&t=fc23990915021c16",
-        "imageUrl": "https://cdn.justfingram.com/4141217ee6.jpg?stream=true"
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/ybdn7jfep9mq.jpg"
       },
       {
-        "title": "Episode 22",
-        "videoUrl": "https://cdn.justfingram.com/75907942443b01224592fe376a4ba63f.mp4?stream=true&t=0d20a9d7fd767898",
-        "imageUrl": "https://cdn.justfingram.com/ad081c5f00.jpg?stream=true"
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/qu52gvm46wd6.jpg"
       },
       {
-        "title": "Episode 23",
-        "videoUrl": "https://cdn.justfingram.com/198ece5918d89bcb6e4db6c569586ed0.mp4?stream=true&t=b9af9a4956aad998",
-        "imageUrl": "https://cdn.justfingram.com/7f0569e66f.jpg?stream=true"
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/bt650kp87snl.jpg"
       },
       {
-        "title": "Episode 24",
-        "videoUrl": "https://cdn.justfingram.com/6928812d262337a2584e3eb778ed4fe8.mp4?stream=true&t=18dc12b1a367c1e7",
-        "imageUrl": "https://cdn.justfingram.com/019e1ff3bf.jpg?stream=true"
+        "title": "Episode 8",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/ks1o8vu440y8.jpg"
       },
       {
-        "title": "Episode 25",
-        "videoUrl": "https://cdn.justfingram.com/15186a999aa3ab43bc56486d5c7e69c1.mp4?stream=true&t=11e49b911bea0cd9",
-        "imageUrl": "https://cdn.justfingram.com/cf11e3e795.jpg?stream=true"
+        "title": "Episode 9",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/rzkm4wtkssgo.jpg"
       },
       {
-        "title": "Episode 26",
-        "videoUrl": "https://cdn.justfingram.com/ada71587e7de6c6cca698502ea6fc394.mp4?stream=true&t=3c7bd727de771408",
-        "imageUrl": "https://cdn.justfingram.com/68053c93cd.jpg?stream=true"
+        "title": "Episode 10",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/yzaxv1693l2r.jpg"
       },
       {
-        "title": "Episode 27",
-        "videoUrl": "https://cdn.justfingram.com/16de503c6261a46ff43cf5119f19ddd6.mp4?stream=true&t=dac90b8e477dcccd",
-        "imageUrl": "https://cdn.justfingram.com/31e3cce4d4.jpg?stream=true"
+        "title": "Episode 11",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/u8b8uguos66r.jpg"
       },
       {
-        "title": "Episode 28",
-        "videoUrl": "https://cdn.justfingram.com/a21837ea7e1878c648604d7f24ec45e9.mp4?stream=true&t=321ddacca4e64603",
-        "imageUrl": "https://cdn.justfingram.com/dacafe2e82.jpg?stream=true"
+        "title": "Episode 12",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/b4a1iqdfs999.jpg"
       },
       {
-        "title": "Episode 29",
-        "videoUrl": "https://cdn.justfingram.com/75575371351cd9829c0f2c022fbca7de.mp4?stream=true&t=ddaf30753ae72825",
-        "imageUrl": "https://cdn.justfingram.com/9e787ecd16.jpg?stream=true"
+        "title": "Episode 13",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/y77diu7p9sfx.jpg"
       },
       {
-        "title": "Episode 30",
-        "videoUrl": "https://cdn.justfingram.com/d0d314e56c164b4e2ea63aa96cf95526.mp4?stream=true&t=a9fb3d8d0181d7be",
-        "imageUrl": "https://cdn.justfingram.com/9a296e208d.jpg?stream=true"
+        "title": "Episode 14",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/o5l84fhunqiv.jpg"
+      },
+      {
+        "title": "Episode 15",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/au82be21qzfp.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Ab Hoga Hisaab Season 2",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Ab-Hoga-Hi_1783095014.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/w4j12wvp016n.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/20i5mzjfxbs1.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/uhnfqnhvdq4l.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/7i5usj07eioa.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/42obmvaerr2l.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/ix7kryjj7peb.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/j34dk4hvb9pr.jpg"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/to7fwk0x1x3c.jpg"
+      },
+      {
+        "title": "Episode 9",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/2eagdvxihstc.jpg"
+      },
+      {
+        "title": "Episode 10",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/2nji17kfykaw.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Whos Your Gynac Season 2",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Whos-Your-_1779983248.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00024/onjg276tq5rc.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00024/20ae4d4nw1zw.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00024/34ji3x7hy7w0.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00024/0499452trhy7.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00024/0k6pir0btyii.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Whos Your Gynac",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Whos-Your-_1779983214.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/lro0voctb6gr.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/dqno7ehglo4q.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/or0ff0ujenwm.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/uuxzni8jimii.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/2lbhq4sadhg9.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Vimal Khanna",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Vimal-Khan_1778869369.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00024/jkvw55puhqv3.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00024/q43duuco1pge.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00024/pt6xvtf9ryto.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00024/3hwedstact2c.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/mt2x3pc7n41c.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/y6totaw71qo3.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/fj3ivt3tpzlq.jpg"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/f2p8gxvko8nv.jpg"
+      },
+      {
+        "title": "Episode 9",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/kujvzx9exloq.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Campus Beats Season 6",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Campus-Bea_1777826654.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00024/c9iqhm6mhxrw.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/vuogw69m0pzx.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/7e4ugf16rq3f.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/pwsj8kza794w.jpg"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/jz955svnlvqb.jpg"
+      },
+      {
+        "title": "Episode 9",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00024/d85rz7xxxdxg.jpg"
+      },
+      {
+        "title": "Episode 10",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00024/95829mvdaela.jpg"
+      },
+      {
+        "title": "Episode 11",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00024/bnwu1rsa28ig.jpg"
+      },
+      {
+        "title": "Episode 12",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00024/a9i5d1w21lj2.jpg"
+      },
+      {
+        "title": "Episode 13",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/2qlllt4uq1ut.jpg"
+      },
+      {
+        "title": "Episode 14",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/gr6rf8ox8wtw.jpg"
+      },
+      {
+        "title": "Episode 15",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/8fvexgxeokfs.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Psycho Saiyaan",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Psycho-Sai_1772041967.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/dvy39zr9tbvx.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/8o1ijghot541.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/d2qiwxh73mui.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00024/1kjrzt8to86t.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00024/x21a39t0ve12.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00024/0toqbee9wicv.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Amar Vishwas",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Amar-Vishw_1770838565.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/t7wk4j56ip0c.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/500tnaskaj3i.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/rlfd2euuva6j.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00024/tw4aww45domv.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00024/7w14uxoktodf.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00024/vi55oe1l17nz.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/tn1wcr3tqdo8.jpg"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/wptkcfbz1btc.jpg"
+      },
+      {
+        "title": "Episode 9",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/mdf2430xxfr8.jpg"
+      },
+      {
+        "title": "Episode 10",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/uypliaoo4jif.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Aukaat Ke Bahar",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Aukaat-Ke-_1764786957.jpg",
+    "year": "2025",
+    "episodes": [
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00023/1jt3zb7q1xmr.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00023/dc5q8oj311ii.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00023/0lsy82s6itcj.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00023/t9jfm5op944k.jpg"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00023/0fbb8n670la4.jpg"
+      },
+      {
+        "title": "Episode 9",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00023/qx1ete5xqw0e.jpg"
+      },
+      {
+        "title": "Episode 10",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00023/tcahfke3pabb.jpg"
+      },
+      {
+        "title": "Episode 11",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00023/ahf906qi82c0.jpg"
+      },
+      {
+        "title": "Episode 12",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00023/53qr8c7jjra3.jpg"
+      },
+      {
+        "title": "Episode 13",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00023/suyrs9l7xmwu.jpg"
+      },
+      {
+        "title": "Episode 14",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00023/b4hsn26qfkja.jpg"
+      },
+      {
+        "title": "Episode 15",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00023/ebc3lgebks9s.jpg"
+      }
+    ]
+  },
+  {
+    "title": "I Popstar",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_I-Popstar_1761762383.jpg",
+    "year": "2025",
+    "episodes": [
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00023/tvu2lfj5r8j3.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00023/0ip2qvqrp0vd.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00023/xhgbzrgiapvc.jpg"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00023/xcnt3kx4pvy3.jpg"
+      },
+      {
+        "title": "Episode 9",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00023/j2kxme62ns5p.jpg"
+      },
+      {
+        "title": "Episode 10",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00023/9wleghpjc6ld.jpg"
+      },
+      {
+        "title": "Episode 11",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00023/kbhnui5h6sk4.jpg"
+      },
+      {
+        "title": "Episode 12",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00023/bjxllo8r0a7z.jpg"
+      },
+      {
+        "title": "Episode 13",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00023/5ftgx5oz43f3.jpg"
+      },
+      {
+        "title": "Episode 14",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00023/bsk5wsxugvcf.jpg"
+      },
+      {
+        "title": "Episode 15",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00023/axe9nwr8s2ly.jpg"
+      },
+      {
+        "title": "Episode 16",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00023/cwxy6qsb1yhn.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Hunkkaar The Roar",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Hunkkaar-T_1790390424.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "https://cdn.justfingram.com/63152dbcbbfce11e384d55b0874198d4.mp4?stream=true&t=b25fe413e51bcafb",
+        "imageUrl": "https://cdn.justfingram.com/vid_0fd38ea9.jpg?stream=true"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "https://cdn.justfingram.com/b292c4d8270400c681518c7f228a72b4.mp4?stream=true&t=95d5c6cb663a21b0",
+        "imageUrl": "https://cdn.justfingram.com/vid_40c87834.jpg?stream=true"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "https://cdn.justfingram.com/e188af1997d5562793cf4328b3f4ef0c.mp4?stream=true&t=ce36f80207c5bcf5",
+        "imageUrl": "https://cdn.justfingram.com/vid_f9031ba6.jpg?stream=true"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "https://cdn.justfingram.com/f0799aee5d5c27f6f52a3be78b9aa872.mp4?stream=true&t=9757d6687a23f3f6",
+        "imageUrl": "https://cdn.justfingram.com/vid_0c91096f.jpg?stream=true"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "https://cdn.justfingram.com/1d7062c5b9bb3a33f8653afec0f84d31.mp4?stream=true&t=9a53382a55edc696",
+        "imageUrl": "https://cdn.justfingram.com/vid_9d497d68.jpg?stream=true"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "https://cdn.justfingram.com/d5609a0ab122977371ef88111edb690a.mp4?stream=true&t=9636dec41867ae4a",
+        "imageUrl": "https://cdn.justfingram.com/vid_b9c7db49.jpg?stream=true"
+      }
+    ]
+  },
+  {
+    "title": "Love",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Love_1790964215.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "https://cdn.justfingram.com/9712da9f1d6cf7051cf124cf877ce5ba.mp4?stream=true&t=839d82e56755b688",
+        "imageUrl": "https://cdn.justfingram.com/21ae110372.jpg?stream=true"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "https://cdn.justfingram.com/b547e1105325c36f73896753248bb8e9.mp4?stream=true&t=9dc38a57cd0578b1",
+        "imageUrl": "https://cdn.justfingram.com/7f3e099982.jpg?stream=true"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "https://cdn.justfingram.com/be33b207e3bbd5e543354dc389535ef1.mp4?stream=true&t=d1dcdc18c6f51f96",
+        "imageUrl": "https://cdn.justfingram.com/cae65c0c31.jpg?stream=true"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "https://cdn.justfingram.com/7d0da80894fac065c51cc49a1172fae0.mp4?stream=true&t=f4791c4e06f9041e",
+        "imageUrl": "https://cdn.justfingram.com/4dc4b7509d.jpg?stream=true"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "https://cdn.justfingram.com/d3309d2bfec997dfd4386b0de1b34925.mp4?stream=true&t=e5a2ba0a8acc904a",
+        "imageUrl": "https://cdn.justfingram.com/45b3cdf7fb.jpg?stream=true"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "https://cdn.justfingram.com/ba2f48b2a783600cbd4a8f977a92c8c4.mp4?stream=true&t=16b5f06e468bd0ca",
+        "imageUrl": "https://cdn.justfingram.com/e95e2dc5bf.jpg?stream=true"
+      }
+    ]
+  },
+  {
+    "title": "1962 The War In The Hills",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_1962-The-W_1614316366.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00005/inpthy27c3aq.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00005/sxbojg4oy38i.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00005/n6sr12f3gyvx.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00005/htussreodr73.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00005/x8mn5itavzuy.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00005/nxhrdmm9oy75.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00005/ubvuraxhdbz4.jpg"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00005/dtcjvn7502su.jpg"
+      },
+      {
+        "title": "Episode 9",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00005/npcd9dqkm6xq.jpg"
+      },
+      {
+        "title": "Episode 10",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00005/kpovv0dwz1dy.jpg"
+      },
+      {
+        "title": "Episode 11",
+        "videoUrl": "",
+        "imageUrl": "https://cdn.justfingram.com/gjghj.jpg?stream=true"
+      },
+      {
+        "title": "Episode 12",
+        "videoUrl": "",
+        "imageUrl": "https://watchapne.biz/db_imgs/show_1962-The-W_1614316366.jpg"
+      }
+    ]
+  },
+  {
+    "title": "The Court",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_The-Court_1789152855.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/ff4ja32svbfe.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/tbbq1spizf2c.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/zph3z5l4yxbc.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/wqmbbhmgt2z7.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/mygx2cp04bmz.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/oz5t5435fsla.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/35cinsq6lclm.jpg"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/xdxdvh4jrfz4.jpg"
+      },
+      {
+        "title": "Episode 9",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/kaq7gtcibrrw.jpg"
+      },
+      {
+        "title": "Episode 10",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/z1barlypv5cr.jpg"
+      },
+      {
+        "title": "Episode 11",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/ebtshz860a65.jpg"
+      },
+      {
+        "title": "Episode 12",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/lz6v38hjo3hf.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Prince of Mollywood",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Prince-of-_1789151953.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/8wnyq1wdnwc0.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/owrw0x8tph4h.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/ozpnddfxcmw0.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/dadrlnmqycb0.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/vl20hqmxdr86.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/myuhoupyxcjo.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/lets0m196r16.jpg"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/nfq4br0ly6n6.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Part Timers",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Part-Timer_1787937703.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/syxcr2o9ltev.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/lxzi0u3ca6g7.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/d9a8my92vltv.jpg"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/f07pqinbwm16.jpg"
+      },
+      {
+        "title": "Episode 9",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/godmizqh6gqb.jpg"
+      },
+      {
+        "title": "Episode 10",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/sw8wy1yxmdbv.jpg"
+      },
+      {
+        "title": "Episode 11",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/ljpezave08rn.jpg"
+      },
+      {
+        "title": "Episode 12",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/d0a79760w5fo.jpg"
+      },
+      {
+        "title": "Episode 13",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/w1h2msagcf0z.jpg"
+      },
+      {
+        "title": "Episode 14",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/nuzcgfwmdbxw.jpg"
+      },
+      {
+        "title": "Episode 15",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/3u26fea2s4bp.jpg"
+      },
+      {
+        "title": "Episode 16",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/nx6jry7x5243.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Gunehgar Rishtey",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Gunehgar-R_1789065888.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/1x0m7wfh8213.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/bwy31wzsa5fo.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/1nn2eohuvgjo.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/1p3w657d8kba.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/yqdfiz8bbvh0.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/ztwn1sclndxh.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/ys9m6n78qedq.jpg"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/4tf7tgv5573k.jpg"
+      },
+      {
+        "title": "Episode 9",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/pwq4uooemzpq.jpg"
+      },
+      {
+        "title": "Episode 10",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/2i4dplvmfjtw.jpg"
       }
     ]
   },
@@ -1111,104 +2933,119 @@
     ]
   },
   {
-    "title": "I Popstar Season 2",
-    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_I-Popstar-_1791293558.jpg",
+    "title": "Ishqa Ishqa",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Ishqa-Ishq_1791393443.jpg",
     "year": "2026",
     "episodes": [
       {
-        "title": "Episode 2",
-        "videoUrl": "https://cdn.justfingram.com/b3e9b279c04d62573d5bc924759abec4.mp4?stream=true&t=4e2f0e5bf5221719",
-        "imageUrl": "https://cdn.justfingram.com/6cde4962cb.jpg?stream=true"
-      },
-      {
-        "title": "Episode 3",
-        "videoUrl": "https://cdn.justfingram.com/8e6a16a149bdd8da70f7016f2b8a99ee.mp4?stream=true&t=5e246d0e5ebdd399",
-        "imageUrl": "https://cdn.justfingram.com/aaf71c5b96.jpg?stream=true"
-      },
-      {
-        "title": "Episode 4",
-        "videoUrl": "https://cdn.justfingram.com/f731fb8f7a8acea6766d9bc39d4c98b8.mp4?stream=true&t=7580e3f706ef1156",
-        "imageUrl": "https://cdn.justfingram.com/9aa3a31738.jpg?stream=true"
-      },
-      {
-        "title": "Episode 5",
-        "videoUrl": "https://cdn.justfingram.com/59bf993bdbbe85b437da3e7ba780090f.mp4?stream=true&t=b272d9c7da488de1",
-        "imageUrl": "https://cdn.justfingram.com/e8a13e94e6.jpg?stream=true"
-      },
-      {
-        "title": "Episode 6",
-        "videoUrl": "https://cdn.justfingram.com/c598c99985b2bf415251ba165e9bac37.mp4?stream=true&t=ff867ea20d08241a",
-        "imageUrl": "https://cdn.justfingram.com/4b0640d715.jpg?stream=true"
-      },
-      {
-        "title": "Episode 7",
-        "videoUrl": "https://cdn.justfingram.com/14fa472c7221026c1243b164b9a1e10b.mp4?stream=true&t=5cce0e1a7d5105b9",
-        "imageUrl": "https://cdn.justfingram.com/f8ffd5a1a1.jpg?stream=true"
-      },
-      {
-        "title": "Episode 8",
-        "videoUrl": "https://cdn.justfingram.com/cea56488d363c9821ecbf603c492371e.mp4?stream=true&t=e91fd2217c9e2a05",
-        "imageUrl": "https://cdn.justfingram.com/b44cb4caa6.jpg?stream=true"
-      },
-      {
         "title": "Episode 9",
-        "videoUrl": "https://cdn.justfingram.com/301a23a851a6267fb088d4a495df8d21.mp4?stream=true&t=c1531990f2fc71fb",
-        "imageUrl": "https://cdn.justfingram.com/0a712b48e9.jpg?stream=true"
+        "videoUrl": "https://cdn.justfingram.com/96bb50236a065554d0e789c9ca4bc18c.mp4?stream=true&t=e5c6aea51f704022",
+        "imageUrl": "https://cdn.justfingram.com/b1522e516a.jpg?stream=true"
       },
       {
         "title": "Episode 10",
-        "videoUrl": "https://cdn.justfingram.com/b304cb924f5bf901af2f284d4e79b0ae.mp4?stream=true&t=aab8b7f21a9e03dc",
-        "imageUrl": "https://cdn.justfingram.com/c6194b0a79.jpg?stream=true"
+        "videoUrl": "https://cdn.justfingram.com/5f3022e7e713b4a4144c7b2f1337420a.mp4?stream=true&t=7216a4315ada809b",
+        "imageUrl": "https://cdn.justfingram.com/e05bfdf0e5.jpg?stream=true"
       },
       {
         "title": "Episode 11",
-        "videoUrl": "https://cdn.justfingram.com/113a164b0c7e2c377755d20019727c28.mp4?stream=true&t=b7286cd5e5f27657",
-        "imageUrl": "https://cdn.justfingram.com/3032e1d07f.jpg?stream=true"
+        "videoUrl": "https://cdn.justfingram.com/e8e1d9d11ac0528cfa083507b0fd55dc.mp4?stream=true&t=d06aa9ad042a0a2a",
+        "imageUrl": "https://cdn.justfingram.com/119f8d9c4a.jpg?stream=true"
       },
       {
         "title": "Episode 12",
-        "videoUrl": "https://cdn.justfingram.com/65ea7fed58ff7ea9d9fb4682804f94a5.mp4?stream=true&t=cd9e313356723b06",
-        "imageUrl": "https://cdn.justfingram.com/bd711fa561.jpg?stream=true"
+        "videoUrl": "https://cdn.justfingram.com/83d6c10305e518887fa0280a7b536c60.mp4?stream=true&t=3f37e80f1a637056",
+        "imageUrl": "https://cdn.justfingram.com/ff7d18336e.jpg?stream=true"
       },
       {
         "title": "Episode 13",
-        "videoUrl": "https://cdn.justfingram.com/d8cf7be0f1dd81c60fb45dca1b5f4d20.mp4?stream=true&t=0f4148173fee8849",
-        "imageUrl": "https://cdn.justfingram.com/e0fd3c28a7.jpg?stream=true"
+        "videoUrl": "https://cdn.justfingram.com/ddc47b51b05bfcf2f6e6816716d70247.mp4?stream=true&t=8ec1a61b9ce65ff8",
+        "imageUrl": "https://cdn.justfingram.com/ef7b93b43c.jpg?stream=true"
       },
       {
         "title": "Episode 14",
-        "videoUrl": "https://cdn.justfingram.com/115ef27f4551297960fb32d7a7548510.mp4?stream=true&t=8a83d8b1b6b15b08",
-        "imageUrl": "https://cdn.justfingram.com/62c533f894.jpg?stream=true"
+        "videoUrl": "https://cdn.justfingram.com/559b9fad5f5c60f2194287318ecdf38f.mp4?stream=true&t=7c713bd1b90f830b",
+        "imageUrl": "https://cdn.justfingram.com/39f0f85ca0.jpg?stream=true"
       },
       {
         "title": "Episode 15",
-        "videoUrl": "https://cdn.justfingram.com/256919ab4e019723145b8f8f14429594.mp4?stream=true&t=5b50b1083e552a72",
-        "imageUrl": "https://cdn.justfingram.com/f9fa2b7a47.jpg?stream=true"
+        "videoUrl": "https://cdn.justfingram.com/0670b484b17a04c0f8041195610530fb.mp4?stream=true&t=6e4ce9257125525f",
+        "imageUrl": "https://cdn.justfingram.com/cd0a59d5ca.jpg?stream=true"
       },
       {
         "title": "Episode 16",
-        "videoUrl": "https://cdn.justfingram.com/7396709f3fbeddd60cae25a24a1af8d2.mp4?stream=true&t=6f1bd2aa03d7b65f",
-        "imageUrl": "https://cdn.justfingram.com/1f5e92f2c2.jpg?stream=true"
+        "videoUrl": "https://cdn.justfingram.com/f7114ee5068ebdf066823736ff452d58.mp4?stream=true&t=91949a76bc52ad57",
+        "imageUrl": "https://cdn.justfingram.com/b6c5028c7e.jpg?stream=true"
       },
       {
         "title": "Episode 17",
-        "videoUrl": "https://cdn.justfingram.com/2636f14e0d0e51c45507a3ca933a271e.mp4?stream=true&t=0c744747a946815d",
-        "imageUrl": "https://cdn.justfingram.com/f468f4b5c6.jpg?stream=true"
+        "videoUrl": "https://cdn.justfingram.com/77e0827ce535d06c598c0af051fa524c.mp4?stream=true&t=457de09cca3e50e1",
+        "imageUrl": "https://cdn.justfingram.com/74bdc7393e.jpg?stream=true"
       },
       {
         "title": "Episode 18",
-        "videoUrl": "https://cdn.justfingram.com/c9e583d2e47281b76bc84f9b4f791487.mp4?stream=true&t=7a7559d1c63e2e37",
-        "imageUrl": "https://cdn.justfingram.com/292e3a6810.jpg?stream=true"
+        "videoUrl": "https://cdn.justfingram.com/a4e784c6f222b021daeb98c04ee9305d.mp4?stream=true&t=5ffd241fbe977e42",
+        "imageUrl": "https://cdn.justfingram.com/cf3ba5b908.jpg?stream=true"
       },
       {
         "title": "Episode 19",
-        "videoUrl": "https://cdn.justfingram.com/c1afedff0adcbd2d99166caee3341e80.mp4?stream=true&t=8c2a8b728e2892e7",
-        "imageUrl": "https://cdn.justfingram.com/9ed6d992ea.jpg?stream=true"
+        "videoUrl": "https://cdn.justfingram.com/dfb3eda89bcac6c7ffa978f4ed431251.mp4?stream=true&t=c4488ed73018e7ee",
+        "imageUrl": "https://cdn.justfingram.com/1efc43c95a.jpg?stream=true"
       },
       {
         "title": "Episode 20",
-        "videoUrl": "https://cdn.justfingram.com/9cc518ce0581daad46d9014ad172489e.mp4?stream=true&t=79108ff3a1545279",
-        "imageUrl": "https://cdn.justfingram.com/5959c06e1b.jpg?stream=true"
+        "videoUrl": "https://cdn.justfingram.com/c3ca3b21bdc366ccdbd563e51822ff6c.mp4?stream=true&t=18b8eceefb58ac29",
+        "imageUrl": "https://cdn.justfingram.com/4e935bc851.jpg?stream=true"
+      },
+      {
+        "title": "Episode 21",
+        "videoUrl": "https://cdn.justfingram.com/7bf13c630d11440bc4a885559d11a6b1.mp4?stream=true&t=fc23990915021c16",
+        "imageUrl": "https://cdn.justfingram.com/4141217ee6.jpg?stream=true"
+      },
+      {
+        "title": "Episode 22",
+        "videoUrl": "https://cdn.justfingram.com/75907942443b01224592fe376a4ba63f.mp4?stream=true&t=0d20a9d7fd767898",
+        "imageUrl": "https://cdn.justfingram.com/ad081c5f00.jpg?stream=true"
+      },
+      {
+        "title": "Episode 23",
+        "videoUrl": "https://cdn.justfingram.com/198ece5918d89bcb6e4db6c569586ed0.mp4?stream=true&t=b9af9a4956aad998",
+        "imageUrl": "https://cdn.justfingram.com/7f0569e66f.jpg?stream=true"
+      },
+      {
+        "title": "Episode 24",
+        "videoUrl": "https://cdn.justfingram.com/6928812d262337a2584e3eb778ed4fe8.mp4?stream=true&t=18dc12b1a367c1e7",
+        "imageUrl": "https://cdn.justfingram.com/019e1ff3bf.jpg?stream=true"
+      },
+      {
+        "title": "Episode 25",
+        "videoUrl": "https://cdn.justfingram.com/15186a999aa3ab43bc56486d5c7e69c1.mp4?stream=true&t=11e49b911bea0cd9",
+        "imageUrl": "https://cdn.justfingram.com/cf11e3e795.jpg?stream=true"
+      },
+      {
+        "title": "Episode 26",
+        "videoUrl": "https://cdn.justfingram.com/ada71587e7de6c6cca698502ea6fc394.mp4?stream=true&t=3c7bd727de771408",
+        "imageUrl": "https://cdn.justfingram.com/68053c93cd.jpg?stream=true"
+      },
+      {
+        "title": "Episode 27",
+        "videoUrl": "https://cdn.justfingram.com/16de503c6261a46ff43cf5119f19ddd6.mp4?stream=true&t=dac90b8e477dcccd",
+        "imageUrl": "https://cdn.justfingram.com/31e3cce4d4.jpg?stream=true"
+      },
+      {
+        "title": "Episode 28",
+        "videoUrl": "https://cdn.justfingram.com/a21837ea7e1878c648604d7f24ec45e9.mp4?stream=true&t=321ddacca4e64603",
+        "imageUrl": "https://cdn.justfingram.com/dacafe2e82.jpg?stream=true"
+      },
+      {
+        "title": "Episode 29",
+        "videoUrl": "https://cdn.justfingram.com/75575371351cd9829c0f2c022fbca7de.mp4?stream=true&t=ddaf30753ae72825",
+        "imageUrl": "https://cdn.justfingram.com/9e787ecd16.jpg?stream=true"
+      },
+      {
+        "title": "Episode 30",
+        "videoUrl": "https://cdn.justfingram.com/d0d314e56c164b4e2ea63aa96cf95526.mp4?stream=true&t=a9fb3d8d0181d7be",
+        "imageUrl": "https://cdn.justfingram.com/9a296e208d.jpg?stream=true"
       }
     ]
   },
@@ -1260,39 +3097,2423 @@
     ]
   },
   {
-    "title": "Love",
-    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Love_1790964215.jpg",
+    "title": "The Revolutionaries",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_The-Revolu_1789153661.jpg",
     "year": "2026",
     "episodes": [
       {
         "title": "Episode 1",
-        "videoUrl": "https://cdn.justfingram.com/9712da9f1d6cf7051cf124cf877ce5ba.mp4?stream=true&t=839d82e56755b688",
-        "imageUrl": "https://cdn.justfingram.com/21ae110372.jpg?stream=true"
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/868brkrdpjvm.jpg"
       },
       {
         "title": "Episode 2",
-        "videoUrl": "https://cdn.justfingram.com/b547e1105325c36f73896753248bb8e9.mp4?stream=true&t=9dc38a57cd0578b1",
-        "imageUrl": "https://cdn.justfingram.com/7f3e099982.jpg?stream=true"
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/ol6n02fbqnkd.jpg"
       },
       {
         "title": "Episode 3",
-        "videoUrl": "https://cdn.justfingram.com/be33b207e3bbd5e543354dc389535ef1.mp4?stream=true&t=d1dcdc18c6f51f96",
-        "imageUrl": "https://cdn.justfingram.com/cae65c0c31.jpg?stream=true"
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/oxvdyxyhzhcj.jpg"
       },
       {
         "title": "Episode 4",
-        "videoUrl": "https://cdn.justfingram.com/7d0da80894fac065c51cc49a1172fae0.mp4?stream=true&t=f4791c4e06f9041e",
-        "imageUrl": "https://cdn.justfingram.com/4dc4b7509d.jpg?stream=true"
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/m8o6cvmupbnn.jpg"
       },
       {
         "title": "Episode 5",
-        "videoUrl": "https://cdn.justfingram.com/d3309d2bfec997dfd4386b0de1b34925.mp4?stream=true&t=e5a2ba0a8acc904a",
-        "imageUrl": "https://cdn.justfingram.com/45b3cdf7fb.jpg?stream=true"
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/xttqua5e2dhl.jpg"
       },
       {
         "title": "Episode 6",
-        "videoUrl": "https://cdn.justfingram.com/ba2f48b2a783600cbd4a8f977a92c8c4.mp4?stream=true&t=16b5f06e468bd0ca",
-        "imageUrl": "https://cdn.justfingram.com/e95e2dc5bf.jpg?stream=true"
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/uq6za7l727fq.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/rjyd3282937v.jpg"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/1smt4glp44no.jpg"
+      }
+    ]
+  },
+  {
+    "title": "The Traitors Season 2",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_The-Traito_1786597401.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/1giys1retf68.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/azajm5r9vl8r.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/a5kjhvnhizvg.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/zmwfdrgrhsyb.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/v6c2m3xxwqj8.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/2hs8kfqz43ay.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/yffysfm8z1l6.jpg"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/3zlqx83eh3fm.jpg"
+      },
+      {
+        "title": "Episode 9",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/zketzlh7lr26.jpg"
+      },
+      {
+        "title": "Episode 10",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/i6ffan2tfgfg.jpg"
+      },
+      {
+        "title": "Episode 11",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/qclorqbpp8sp.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Alliance",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Alliance_1782517492.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 36",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/qglyil8t1mvn.jpg"
+      },
+      {
+        "title": "Episode 37",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/nxvsvpcxyx8g.jpg"
+      },
+      {
+        "title": "Episode 38",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/dgq67xw08tfz.jpg"
+      },
+      {
+        "title": "Episode 39",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/ns4nuzzjg6t5.jpg"
+      },
+      {
+        "title": "Episode 40",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/riqhewjmyex2.jpg"
+      },
+      {
+        "title": "Episode 41",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/15fduf58tjrk.jpg"
+      },
+      {
+        "title": "Episode 42",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/1g6hackksmsz.jpg"
+      },
+      {
+        "title": "Episode 43",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/dgw3280k2qvk.jpg"
+      },
+      {
+        "title": "Episode 44",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/yxq7dkm3ndt5.jpg"
+      },
+      {
+        "title": "Episode 45",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/q3sw0iy2epz4.jpg"
+      },
+      {
+        "title": "Episode 46",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/22pwgoezswtb.jpg"
+      },
+      {
+        "title": "Episode 47",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/iykxsywxx83c.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Vadhandhi Season 2",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Vadhandhi-_1786055670.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/oo5oas0on7zc.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/dkokd4fll45v.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/hoox1dy36ens.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/i9dyjxdq5fmg.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/97ohu95b7o2x.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/yxl4m1hs9r0k.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/9y0u85sxt3i9.jpg"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/1nakmulxrt66.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Adarsh Baal Vidyalaya",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Adarsh-Baa_1784915775.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/cb7xvnsfrb1o.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/naerzub8v4vg.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/5qjr80vdgqq2.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/5mq1pucbqapq.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/a64gpeau8iag.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/chd1675pntyv.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/xx9ijjtwjvin.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Isakapatnam",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Isakapatna_1783022665.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/xfm2gxhjgk1w.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/gbl45jt10v7i.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/lu3308vgxjwi.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/r32nztg44zop.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/jpd40aolf9uw.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/54tnpq7aw2q1.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/h29av9t2qtfv.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Gram Chikitsalay Season 2",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Gram-Chiki_1782233078.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/gnqp836lm8bd.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/odoyt6zg0nyg.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/xifqcutn4q39.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/qtx39anz8dop.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/50q7tqndy8xb.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Raakh 2",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Raakh_1781291678.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/cbxvxir1jh0w.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/bhojxk38hy37.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/zx88b9v7uq9c.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/26ljxuo4sozo.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/k8ytj3ia3yqm.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/nfwoe7h3z2e8.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/fsirq03fgeex.jpg"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/sr57dfh5tcpq.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Doctors",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Doctors_1735323574.jpg",
+    "year": "2024",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00020/m1lly6fvt0i0.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00020/kavcirvx3osf.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00020/cz3al3id6oli.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00020/mfehov5t7052.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00020/jcybku6b0iym.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00020/27xk1eqgd7my.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00020/2bl4jxfeg1nt.jpg"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00020/yj17bvcf44xw.jpg"
+      },
+      {
+        "title": "Episode 9",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00020/xiwbdkprij4u.jpg"
+      },
+      {
+        "title": "Episode 10",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00020/ge1aqannhp4g.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Moonwalk",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Moonwalk_1734718732.jpg",
+    "year": "2024",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00020/f5lbmhcwyf4c.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00020/p5tq2c5c26a5.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00020/5zyauozm14xm.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00020/at3q6p7pkgic.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00020/ez2r1zm64z99.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00020/83joybytbllt.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00020/emwpjn2lla3x.jpg"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00020/qox8asiqq2me.jpg"
+      },
+      {
+        "title": "Episode 9",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00020/ohwrkdsfrayy.jpg"
+      },
+      {
+        "title": "Episode 10",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00020/9ef2tnja7njq.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Komedy With Akki",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Komedy-Wit_1722710331.png",
+    "year": "2024",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00018/m8m34cxpnanu.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00018/ynlj20b6yxsa.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00018/rf42g97brsz5.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00018/tl70luztfjy7.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00018/96zfzx6ydco8.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00019/537dpjb779wd.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00019/o7zxffjy6w3b.jpg"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00019/e3wwvcwsx9wl.jpg"
+      },
+      {
+        "title": "Episode 9",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00019/b4nybxm4i9mz.jpg"
+      },
+      {
+        "title": "Episode 10",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00019/yqqk4fn3d4dw.jpg"
+      },
+      {
+        "title": "Episode 11",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00020/4rr8oi7nkjf9.jpg"
+      }
+    ]
+  },
+  {
+    "title": "The Magic of Shiri",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_The-Magic-_1731610995.jpg",
+    "year": "2024",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00019/pm6ogswz8jx3.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00019/aq6a85k4wvir.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00019/95zt7rgt4zfu.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00019/b76dcr8yyic3.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00019/5glzbjxfhi70.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00019/e2p49v751hml.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00019/kmcayucvlbxj.jpg"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00019/p4p2sxrjget4.jpg"
+      },
+      {
+        "title": "Episode 9",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00019/6lsirt5lq2ko.jpg"
+      },
+      {
+        "title": "Episode 10",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00019/890rje1xglae.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Dus June Ki Raat Season 2",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Dus-June-K_1730487165.jpg",
+    "year": "2024",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00019/lyhopvh7mw5i.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00019/u548wr3y3lu9.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00019/ogwld0hoq8s3.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00019/hr6qq2d3aon9.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00019/0flyojzbusx0.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00019/hl4w4lifvdvf.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00019/q226jml8oph0.jpg"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00019/mowwtup2qa4y.jpg"
+      },
+      {
+        "title": "Episode 9",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00019/jsorwtr8pwhz.jpg"
+      },
+      {
+        "title": "Episode 10",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00019/l8t8dfmpyq4v.jpg"
+      },
+      {
+        "title": "Episode 11",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00019/f4iedq309txy.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Honeymoon Photographer",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Honeymoon-_1727458048.jpg",
+    "year": "2024",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00019/64u464vsau6t.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00019/r2lvue67mpjx.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00019/u4jluaalq1e5.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00019/216h41gzj1cy.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00019/hstvk4tfoxcj.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00019/avxrw2ff5gf7.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Khalbali Records",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Khalbali-R_1726163223.jpg",
+    "year": "2024",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00019/oijza3ajvxdw.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00019/k0gqk0rqiezl.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00019/dsqzjv8r3f96.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00019/3kztwdxvb55w.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00019/ejz7abxsj5ja.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00019/0s68v4mszq4h.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00019/ev6h773n5s72.jpg"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00019/ncavaiqohgk8.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Cadets",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Cadets_1725042536.jpg",
+    "year": "2024",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00018/bc0i74tm6x2x.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00018/3uhbennxqebq.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00018/nz6zxazfmjjs.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00018/npnwgl57qn2d.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00018/0h9tbjpu76qp.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00018/et7ysw8u9no3.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00018/awxm3fht367o.jpg"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00018/8ikbc95z9oq1.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Shekhar Home",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Shekhar-Ho_1723658451.jpg",
+    "year": "2024",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00018/v7jvtwrf51rh.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00018/uup8cuc6ohts.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00018/ev0861oywhqf.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00018/n5hwj5bdono9.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00018/3x1iwbaa3cr9.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00018/0yiz25hl1o9n.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Dus June Ki Raat",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Dus-June-K_1722718280.png",
+    "year": "2024",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00018/tskqnz5pnovf.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00018/5ic51n3yas6l.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00018/t7z3xscnp34a.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00018/wv68mh8v5l6l.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00018/56q16ameve09.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00018/s52wjob4hksw.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00018/fu2dnmsg7q89.jpg"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00018/vmpi1ui00cza.jpg"
+      },
+      {
+        "title": "Episode 9",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00018/p4v4beokhhk1.jpg"
+      },
+      {
+        "title": "Episode 10",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00018/ude1w29qm27g.jpg"
+      },
+      {
+        "title": "Episode 11",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00018/byr2a4g5hu4n.jpg"
+      },
+      {
+        "title": "Episode 12",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00018/vjkbxit0onbw.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Pill",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Pill_1720733415.png",
+    "year": "2024",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00018/3kzrhdiff6wb.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00018/irayf6r4xqo4.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00018/kokaa6t43sjn.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00018/u0x9ettusrlz.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00018/q9bkxnbgtnjw.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00018/586w4lxzrg4p.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00018/ppete9bl44po.jpg"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00018/xk1k58qblv4q.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Primetime with Murthys",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Primetime-_1720115599.jpg",
+    "year": "2024",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00018/0okqynswuvih.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00018/jfoq7168d6kp.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00018/lh7xq3vk9vk6.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00018/62al4d8nl60k.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00018/zzo31odp5fej.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00018/hxvxysgy2xys.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Aspirants Season 3",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Aspirants-_1773424023.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/gqhfk3uac2yw.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/23xbw77o4v9a.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/csfpwnhakitz.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/h74kdsqb7cj4.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/qhe6bpdlgadl.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Sapne Vs Everyone 2023",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Sapne-Vs-E_1746211984.jpg",
+    "year": "2025",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00021/sk7aihzsgzjg.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00021/433ybw4te9tx.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00021/0e69xvmwm9sb.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00021/0y6xb72p4emx.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00021/gntwkv0e3rl2.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Aspirants Season 2",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Aspirants-_1698285074.jpg",
+    "year": "2023",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00015/hfy7h7hl3gdr.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00015/6unvu3qen56c.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00015/wy3havgcqfed.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00015/hcjkhf57j9by.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00015/ainbar6lb5fy.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Minus one Season 2",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Minus-one-_1676402553.jpg",
+    "year": "2023",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00012/te7mjome5832.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00012/5tiarlnhhhsc.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00012/5hf35adiuo88.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00012/zx1tkvax03ec.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00012/cjeus2tbwr47.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00012/2dv2yqhg09vw.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Minus one",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Minus-one_1676401981.jpg",
+    "year": "2023",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00012/kkqfeek0c2wl.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00012/cjbfoq7ci6l6.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00012/461ga25c636j.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00012/r3fm3bpnq69d.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00012/e7sr7kx805r7.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00012/0756a51wjcue.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Pitchers",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Pitchers_1672333767.jpg",
+    "year": "2022",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00012/a3eqmb73qznf.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00012/x57px1kekvu8.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00012/ibx5b2je1zjm.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00012/3u7p4e9n7pgm.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00012/grjhjmq3s93w.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Pitchers Season 2",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Pitchers-S_1672028146.jpg",
+    "year": "2022",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00012/sb31mdeot9xm.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00012/bbnjt3744x8z.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00012/e96toe1u9xex.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00012/w02ailiinz9w.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00012/oi9tktqm0r96.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Flames Season 3",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Flames-Sea_1666985957.jpg",
+    "year": "2022",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00011/kfle5ji93bnl.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00011/fbskqha3t9ec.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00011/6v31ngb8arw0.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00011/r2xxba6m5f9r.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00011/wud66klu2ndi.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Tripling Season 3",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Tripling-S_1666384532.jpg",
+    "year": "2022",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00011/mqtyw5shrxo8.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00011/j1ewzgbpk9u5.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00011/9hatty6kho5k.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00011/5v5plwg16412.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00011/lhd6j5mo8gw7.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Tripling Season 2",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Tripling-S_1666384318.jpg",
+    "year": "2022",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00011/0qe6sqttax87.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00011/6stkf5kdrmfj.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00011/zwl90ztr2lx7.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00011/78qdl8mq0vy4.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00011/k19bd5183dzs.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Tripling",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Tripling_1666384114.jpg",
+    "year": "2022",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00011/bqsx84ia5yot.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00011/zv14jt45oazx.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00011/63o6el48tq45.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00011/2gdpc73tb4q1.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00011/17wa1unzbo9o.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Feels Like Home Season 2",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Feels-Like_1665619432.jpeg",
+    "year": "2022",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00011/089cmvsx2q6m.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00011/okyfa6ee906w.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00011/vyvbphihxatg.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00011/skku6ioraxu0.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00011/a8dcay6yb1e4.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00011/n2bu9133p6rn.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Indian Game Show",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Indian-Gam_1786721370.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 58",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/5r90b900elmh.jpg"
+      },
+      {
+        "title": "Episode 59",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/9js30mj0fr0e.jpg"
+      },
+      {
+        "title": "Episode 60",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/k60yn59x5nm4.jpg"
+      },
+      {
+        "title": "Episode 61",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/k39xrv6hne4g.jpg"
+      },
+      {
+        "title": "Episode 62",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/0us1ievrlj87.jpg"
+      },
+      {
+        "title": "Episode 63",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/h3vcympjqsyl.jpg"
+      },
+      {
+        "title": "Episode 64",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/k6gh189eg496.jpg"
+      },
+      {
+        "title": "Episode 65",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/zviaaa2sjkkk.jpg"
+      },
+      {
+        "title": "Episode 66",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/ix4m3j4yu4ma.jpg"
+      },
+      {
+        "title": "Episode 67",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/8ehqhxvd68n5.jpg"
+      },
+      {
+        "title": "Episode 68",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/v1c508bwe0qk.jpg"
+      },
+      {
+        "title": "Episode 69",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/w5ckfj6qvcxm.jpg"
+      }
+    ]
+  },
+  {
+    "title": "The Legend of Karna",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_The-Legend_1785455545.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/jlpvjy4b1daf.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/gwq3dsnn9dcg.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/8bkql0gvczzm.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/vue2sulg24na.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/0x4a8nn874dt.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Perfect Family",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Perfect-Fa_1782517677.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/gcvtkvfzhqya.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/c8pimaocaldy.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/timelpddbovk.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/m67n2nu9m9ac.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/8s97bau1mdl4.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/zlfp8bos974z.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/vy2xahilmfjs.jpg"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/2qkpdfc6v8e5.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Gullak Season 5",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Gullak-Sea_1780676516.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/my5qugpe5vz6.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/kql1mou0brmh.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/iat4w0fybe33.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/imjb9yf97s93.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/2n7eqex02gd5.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/riyvy57kgixe.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/uinykxlyz872.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Undekhi Season 4",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Undekhi-Se_1777823780.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00024/x92s2s0cmyt9.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00024/nh9lwqwu3m0x.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00024/b0gjac015oml.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00024/a4inuo1nymrc.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/ebi1ko373rrp.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/m0ffpicnu8oq.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00024/rrhw88g8666e.jpg"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00024/pdeqm5s6si9r.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Freedom at Midnight Season 2",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Freedom-at_1767980579.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00023/4heq8vedjlse.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00023/k91nkhtclf3p.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00023/9depss05lfal.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00023/fmsz8ojjd3f1.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00023/0zsp1z64f0nj.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00023/c1equjvaxeve.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00023/gd2gb650yevm.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Real Kashmir Football Club",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Real-Kashm_1765223203.jpg",
+    "year": "2025",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00023/sui52kd1l5ef.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00023/g0n74kc41cno.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00023/89lqrnhwfw5i.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00023/1gaxi8qh88l6.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00023/qt76nfwjlce3.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00023/nzwawxmtrtux.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00023/rznmfp1gzr24.jpg"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00023/dh5brfffj2jn.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Kuttram Purindhavan The Guilty One",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Kuttram-Pu_1764960714.jpg",
+    "year": "2025",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00023/wjaoiuser9kx.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00023/ztzlcvwv7f5f.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00023/l31c9in9h4wx.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00023/4k99mcuparzt.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00023/xsbxaxd4b6xc.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00023/beuytwln3ph4.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00023/h3olbk9o34ho.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Maharani Season 4",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Maharani-S_1762525963.jpg",
+    "year": "2025",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00023/bzi50imvl7f0.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00023/3z20jce8ghdr.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00023/sj1eyrtyi32k.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00023/ns9tyfamob48.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00023/bkkpe7d4xxs9.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00023/9lflahir86ek.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00023/jv0wp871yy7a.jpg"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00023/i89yf0zrwvvv.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Million Dollar Listing India Season 2",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Million-Do_1758639036.png",
+    "year": "2025",
+    "episodes": [
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00022/3ci50corxulf.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00022/np0lqx7yt77g.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00022/ti34qrf35g4z.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00022/ss9bvkr1ohke.jpg"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00022/l0jzd82kgyno.jpg"
+      },
+      {
+        "title": "Episode 9",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00022/3t30urm3az32.jpg"
+      },
+      {
+        "title": "Episode 10",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00023/nc7m480mvtwv.jpg"
+      },
+      {
+        "title": "Episode 11",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00023/9hpsks8ai4n7.jpg"
+      },
+      {
+        "title": "Episode 12",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00023/9c6s0czsptuc.jpg"
+      },
+      {
+        "title": "Episode 13",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00023/mcrueivzfrj2.jpg"
+      },
+      {
+        "title": "Episode 14",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00023/6y3q3ggcfmhk.jpg"
+      },
+      {
+        "title": "Episode 15",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00023/mqeyin5ibsb3.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Waiting Hai",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Waiting-Ha_1789583824.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/h5pzzaakdzto.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/y58piucw0hai.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/tjv70ro0cqir.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/7ms839jjdl2b.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/qnueqdvujfj1.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/6m08su28uzg6.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/3ugncxce3o2s.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Playground Season 5",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Playground_1785859746.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 35",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/70rs8bq7v7pf.jpg"
+      },
+      {
+        "title": "Episode 36",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/xpem96kdhudu.jpg"
+      },
+      {
+        "title": "Episode 37",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/blvqtbyxmj9g.jpg"
+      },
+      {
+        "title": "Episode 38",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/oc58q210agmj.jpg"
+      },
+      {
+        "title": "Episode 39",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/utzn8uqjedzi.jpg"
+      },
+      {
+        "title": "Episode 40",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/gmpgx0ct8247.jpg"
+      },
+      {
+        "title": "Episode 41",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/8izfb9c8auwx.jpg"
+      },
+      {
+        "title": "Episode 42",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/ktaxlhm4irm7.jpg"
+      },
+      {
+        "title": "Episode 43",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/wr0u9snrfubj.jpg"
+      },
+      {
+        "title": "Episode 44",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/wmquqnl6nwfm.jpg"
+      },
+      {
+        "title": "Episode 45",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/8ptw9nkz24js.jpg"
+      },
+      {
+        "title": "Episode 46",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/fd9ehgql25cr.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Clean Up Company",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Clean-Up-C_1787332137.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/8md0dq69dh3f.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/bwtu35b82y3f.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/si2mz3vlib3u.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/rfeu6837h3vk.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/zf36l1q33za8.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/8iubaci39fzo.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/ii5ej5odopkx.jpg"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/ewkxv9ix9l0t.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Raktanchal Season 3",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Raktanchal_1784239031.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/ekfob51g3ov3.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/akhqnb8kl5wr.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/atl1o47ozslg.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/1f6x4gssrya9.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/6pdsyafuj2u9.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/90xn7qa3wr6y.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/86zqcbh5jlnn.jpg"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/70sed17btxdy.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Ab Hoga Hisaab",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Ab-Hoga-Hi_1781805891.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/33b3qih3cz75.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/qclybrwwhpvd.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/ckpf5cznark9.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/7vqzkp9ey8zk.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/oq6diedn2v9p.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00025/bwp829g3yik8.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/xw3wo1coz2hm.jpg"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/luazxxtau2b2.jpg"
+      },
+      {
+        "title": "Episode 9",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/b3amjnz7ooyn.jpg"
+      },
+      {
+        "title": "Episode 10",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00025/rderrnnxgk0s.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Made in India A Titan Story",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Made-in-In_1780593782.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/xfssevxixyy1.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/bq110d4ruc5t.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/5vjdnv31ewe8.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/1qsanfu872yq.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/46cdix5pfbfp.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/k1pve48j5q9b.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Battleground Season 2",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Battlegrou_1777123441.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 29",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/81zvk2xh2flp.jpg"
+      },
+      {
+        "title": "Episode 30",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/jfyzo5clxxro.jpg"
+      },
+      {
+        "title": "Episode 31",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/ff41mafmn3k4.jpg"
+      },
+      {
+        "title": "Episode 32",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/t4ou2cl0klu4.jpg"
+      },
+      {
+        "title": "Episode 33",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/vsdeczbgjuwu.jpg"
+      },
+      {
+        "title": "Episode 34",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/qanu07z00a1u.jpg"
+      },
+      {
+        "title": "Episode 35",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00024/uv2ug6dnj36q.jpg"
+      },
+      {
+        "title": "Episode 36",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/w34xrhqxqllj.jpg"
+      },
+      {
+        "title": "Episode 37",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00024/nnzv7z4acyop.jpg"
+      },
+      {
+        "title": "Episode 38",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/4x5dlgrtcb92.jpg"
+      },
+      {
+        "title": "Episode 39",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/a0q2b9809da4.jpg"
+      },
+      {
+        "title": "Episode 40",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00024/79dgr2n615fj.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Kaptaan",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Kaptaan_1775240344.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00024/iq6cjay0vdqp.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00024/ti205pshpglv.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00024/6ilfplm0egf6.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00024/14es3uhq2syy.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/vnt3ag9gw3p5.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/ahiantptqfa3.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/6vvj3artik6k.jpg"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/yi7qv61be1do.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Sankalp",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Sankalp_1773255059.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00024/b0hu0i8tfdc3.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00024/2qly5mpmi3c6.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00024/fa25eun9p6us.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00024/vkwmbarp5len.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00024/jbk8jek21f9g.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/u2n5tudkx9f6.jpg"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/sgfcw453yhgd.jpg"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/skiw18nyu3tl.jpg"
+      },
+      {
+        "title": "Episode 9",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/o16g64fx2971.jpg"
+      },
+      {
+        "title": "Episode 10",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/l2kp4o8ha4lv.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Dil Dhokha Aur Desire",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Dil-Dhokha_1771015591.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00024/f6elhi0wtn0u.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00024/c5xkm2r84q6a.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://si.videoapne.to/i/01/00024/9e69jkz2dmn1.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/inqnfhyco77r.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/hajjnezerd9j.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00024/2p42k2betkox.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Bindiya Ke Bahubali Season 2",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Bindiya-Ke_1769017188.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00023/e648h2t3megz.jpg"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00023/hqr9pjnleap0.jpg"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00023/5g3majts0gkl.jpg"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00023/5x3cq0aebmkr.jpg"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00023/5wavhcfyy2cg.jpg"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "",
+        "imageUrl": "https://s2.videoapne.to/i/01/00023/tniv8co4hq8a.jpg"
       }
     ]
   }
