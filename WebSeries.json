@@ -1,5 +1,62 @@
 [
   {
+    "title": "Campus Diaries Season 2",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Campus-Dia_1795110506.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "https://cdn.justfingram.com/d59133348d27914369537ffd28308868.mp4?stream=true&t=346cb7f294fd215d",
+        "imageUrl": "https://cdn.justfingram.com/563b7239a5.jpg?stream=true"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "https://cdn.justfingram.com/4aabe4aa7f00b64931766288e080a829.mp4?stream=true&t=7d8fffd3f35f744f",
+        "imageUrl": "https://cdn.justfingram.com/f9ee252ddc.jpg?stream=true"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "https://cdn.justfingram.com/62521151f53350a788ebc998deaac036.mp4?stream=true&t=3f82cef3a6809b32",
+        "imageUrl": "https://cdn.justfingram.com/39d8522b9a.jpg?stream=true"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "https://cdn.justfingram.com/3c0bf79ca5c910be3501b07b32edad95.mp4?stream=true&t=0da6fa8f8cba1f62",
+        "imageUrl": "https://cdn.justfingram.com/42486a57de.jpg?stream=true"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "https://cdn.justfingram.com/b2ecc39652c855ae9f65505f3b87b583.mp4?stream=true&t=9dd7e2597e5f4733",
+        "imageUrl": "https://cdn.justfingram.com/d387beb4d5.jpg?stream=true"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "https://cdn.justfingram.com/fe5ff9d97d45b2a51e21b939699d3f4b.mp4?stream=true&t=2c6714f4e6d80c4e",
+        "imageUrl": "https://cdn.justfingram.com/d2a1afbfe6.jpg?stream=true"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "https://cdn.justfingram.com/b18f5854eb91ceb70f35ceddb6fd9fef.mp4?stream=true&t=1f124072e3240525",
+        "imageUrl": "https://cdn.justfingram.com/2a81ab60e9.jpg?stream=true"
+      },
+      {
+        "title": "Episode 8",
+        "videoUrl": "https://cdn.justfingram.com/ca0566f0efa2a1063d529e6526823292.mp4?stream=true&t=a40a149e39de1b68",
+        "imageUrl": "https://cdn.justfingram.com/9ae4b5cae8.jpg?stream=true"
+      },
+      {
+        "title": "Episode 9",
+        "videoUrl": "https://cdn.justfingram.com/24db6d966b176ec9b80029ecb0d6cff6.mp4?stream=true&t=35fea585f593ef12",
+        "imageUrl": "https://cdn.justfingram.com/e4cfc1d015.jpg?stream=true"
+      },
+      {
+        "title": "Episode 10",
+        "videoUrl": "https://cdn.justfingram.com/98b631d2b78fce1e19e94eff73927608.mp4?stream=true&t=4d3efe1f6aa2f4a3",
+        "imageUrl": "https://cdn.justfingram.com/a9f9b7ff49.jpg?stream=true"
+      }
+    ]
+  },
+  {
     "title": "Student of the Year After Dark",
     "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Student-of_1794592991.jpg",
     "year": "2026",
@@ -477,48 +534,6 @@
     ]
   },
   {
-    "title": "Eyes",
-    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Eyes_1791563919.jpg",
-    "year": "2026",
-    "episodes": [
-      {
-        "title": "Episode 1",
-        "videoUrl": "https://cdn.justfingram.com/7bce75a52ec5a93665d08ec528d49aa9.mp4?stream=true&t=443004da1c7a4b9c",
-        "imageUrl": "https://cdn.justfingram.com/22272f5903.jpg?stream=true"
-      },
-      {
-        "title": "Episode 2",
-        "videoUrl": "https://cdn.justfingram.com/8a30f6acf08ea816c6f2cbc3cccdeb5f.mp4?stream=true&t=2af43ab8b5fac055",
-        "imageUrl": "https://cdn.justfingram.com/fb56d2b736.jpg?stream=true"
-      },
-      {
-        "title": "Episode 3",
-        "videoUrl": "https://cdn.justfingram.com/6750a7be381d8c099f8a8eba915eafe8.mp4?stream=true&t=8768a42038d8b0e3",
-        "imageUrl": "https://cdn.justfingram.com/e107452a70.jpg?stream=true"
-      },
-      {
-        "title": "Episode 4",
-        "videoUrl": "https://cdn.justfingram.com/2185e9b55e3b47bd812085635e9a6d61.mp4?stream=true&t=d6969bbd2287421d",
-        "imageUrl": "https://cdn.justfingram.com/afbb254998.jpg?stream=true"
-      },
-      {
-        "title": "Episode 5",
-        "videoUrl": "https://cdn.justfingram.com/2430582916ca2adc5c8bb7355c077e23.mp4?stream=true&t=10b04efeb8e959c6",
-        "imageUrl": "https://cdn.justfingram.com/58b97805cf.jpg?stream=true"
-      },
-      {
-        "title": "Episode 6",
-        "videoUrl": "https://cdn.justfingram.com/06543e789f7a2b3d6373af0406b1361c.mp4?stream=true&t=094b91cbaa9fde6e",
-        "imageUrl": "https://cdn.justfingram.com/93a00c8f5d.jpg?stream=true"
-      },
-      {
-        "title": "Episode 7",
-        "videoUrl": "https://cdn.justfingram.com/e347a6a91925688fecc8c4beffa2a622.mp4?stream=true&t=65ecdce19e8fa104",
-        "imageUrl": "https://cdn.justfingram.com/d21619c8e7.jpg?stream=true"
-      }
-    ]
-  },
-  {
     "title": "Indian Game Show Season 2",
     "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Indian-Gam_1787588955.jpg",
     "year": "2026",
@@ -791,6 +806,48 @@
         "title": "Episode 8",
         "videoUrl": "https://cdn.justfingram.com/2b1f78de45500ec4b17cca76613f1cbc.mp4?stream=true&t=0809c078871351b2",
         "imageUrl": "https://cdn.justfingram.com/59862d5fd9.jpg?stream=true"
+      }
+    ]
+  },
+  {
+    "title": "Eyes",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Eyes_1791563919.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "https://cdn.justfingram.com/7bce75a52ec5a93665d08ec528d49aa9.mp4?stream=true&t=443004da1c7a4b9c",
+        "imageUrl": "https://cdn.justfingram.com/22272f5903.jpg?stream=true"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "https://cdn.justfingram.com/8a30f6acf08ea816c6f2cbc3cccdeb5f.mp4?stream=true&t=2af43ab8b5fac055",
+        "imageUrl": "https://cdn.justfingram.com/fb56d2b736.jpg?stream=true"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "https://cdn.justfingram.com/6750a7be381d8c099f8a8eba915eafe8.mp4?stream=true&t=8768a42038d8b0e3",
+        "imageUrl": "https://cdn.justfingram.com/e107452a70.jpg?stream=true"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "https://cdn.justfingram.com/2185e9b55e3b47bd812085635e9a6d61.mp4?stream=true&t=d6969bbd2287421d",
+        "imageUrl": "https://cdn.justfingram.com/afbb254998.jpg?stream=true"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "https://cdn.justfingram.com/2430582916ca2adc5c8bb7355c077e23.mp4?stream=true&t=10b04efeb8e959c6",
+        "imageUrl": "https://cdn.justfingram.com/58b97805cf.jpg?stream=true"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "https://cdn.justfingram.com/06543e789f7a2b3d6373af0406b1361c.mp4?stream=true&t=094b91cbaa9fde6e",
+        "imageUrl": "https://cdn.justfingram.com/93a00c8f5d.jpg?stream=true"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "https://cdn.justfingram.com/e347a6a91925688fecc8c4beffa2a622.mp4?stream=true&t=65ecdce19e8fa104",
+        "imageUrl": "https://cdn.justfingram.com/d21619c8e7.jpg?stream=true"
       }
     ]
   },
