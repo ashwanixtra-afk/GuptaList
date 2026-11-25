@@ -712,6 +712,53 @@
         "title": "Episode 71",
         "videoUrl": "https://cdn.justfingram.com/ef802073460b3eb69bcd049dd8b78d26.mp4?stream=true&t=45e6749a040f05fc",
         "imageUrl": "https://cdn.justfingram.com/c5a94dfe9e.jpg?stream=true"
+      },
+      {
+        "title": "Episode 72",
+        "videoUrl": "https://cdn.justfingram.com/9f2cf1c01e11770f72ab872b7399b600.mp4?stream=true&t=31e961c023923ff9",
+        "imageUrl": "https://cdn.justfingram.com/b76aa34015.jpg?stream=true"
+      }
+    ]
+  },
+  {
+    "title": "Koffee With Karan Season 9",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Koffee-Wit_1791896980.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "https://cdn.justfingram.com/216fc2954f614864136d4166409e54ee.mp4?stream=true&t=eec56bb7970a7a8a",
+        "imageUrl": "https://cdn.justfingram.com/de220537be.jpg?stream=true"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "https://cdn.justfingram.com/6d7dc4bf75c44e8e4d49a1cfe7ec9d6a.mp4?stream=true&t=f5e5bb957d4d6737",
+        "imageUrl": "https://cdn.justfingram.com/62b5b970a8.jpg?stream=true"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "https://cdn.justfingram.com/8c0b02b584d3ea36261593a47a3aec28.mp4?stream=true&t=06e81d707d4bebf9",
+        "imageUrl": "https://cdn.justfingram.com/2370111874.jpg?stream=true"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "https://cdn.justfingram.com/dc0bc0a2697f69749fb7c525fc0faa4c.mp4?stream=true&t=25f6aa6721ee846c",
+        "imageUrl": "https://cdn.justfingram.com/3c91b40aea.jpg?stream=true"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "https://cdn.justfingram.com/60d66babd35781610cfc5c21c0978363.mp4?stream=true&t=92f75117e27fdc72",
+        "imageUrl": "https://cdn.justfingram.com/6d44673bc7.jpg?stream=true"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "https://cdn.justfingram.com/51c93860c62b379fe73ca8f8075846e3.mp4?stream=true&t=2fcc2d958a7ab65f",
+        "imageUrl": "https://cdn.justfingram.com/a38a661ab3.jpg?stream=true"
+      },
+      {
+        "title": "Episode 7",
+        "videoUrl": "https://cdn.justfingram.com/97ce5e68a413d023c608dc3ee4f13bcd.mp4?stream=true&t=8a7ce3cfee4cf1cb",
+        "imageUrl": "https://cdn.justfingram.com/72cf014e69.jpg?stream=true"
       }
     ]
   },
@@ -764,43 +811,6 @@
         "title": "Episode 9",
         "videoUrl": "https://cdn.justfingram.com/db4b81ded8051b3b4344974c45454cfc.mp4?stream=true&t=4ab7a7e577e26450",
         "imageUrl": "https://cdn.justfingram.com/51b2c6f178.jpg?stream=true"
-      }
-    ]
-  },
-  {
-    "title": "Koffee With Karan Season 9",
-    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Koffee-Wit_1791896980.jpg",
-    "year": "2026",
-    "episodes": [
-      {
-        "title": "Episode 1",
-        "videoUrl": "https://cdn.justfingram.com/216fc2954f614864136d4166409e54ee.mp4?stream=true&t=eec56bb7970a7a8a",
-        "imageUrl": "https://cdn.justfingram.com/de220537be.jpg?stream=true"
-      },
-      {
-        "title": "Episode 2",
-        "videoUrl": "https://cdn.justfingram.com/6d7dc4bf75c44e8e4d49a1cfe7ec9d6a.mp4?stream=true&t=f5e5bb957d4d6737",
-        "imageUrl": "https://cdn.justfingram.com/62b5b970a8.jpg?stream=true"
-      },
-      {
-        "title": "Episode 3",
-        "videoUrl": "https://cdn.justfingram.com/8c0b02b584d3ea36261593a47a3aec28.mp4?stream=true&t=06e81d707d4bebf9",
-        "imageUrl": "https://cdn.justfingram.com/2370111874.jpg?stream=true"
-      },
-      {
-        "title": "Episode 4",
-        "videoUrl": "https://cdn.justfingram.com/dc0bc0a2697f69749fb7c525fc0faa4c.mp4?stream=true&t=25f6aa6721ee846c",
-        "imageUrl": "https://cdn.justfingram.com/3c91b40aea.jpg?stream=true"
-      },
-      {
-        "title": "Episode 5",
-        "videoUrl": "https://cdn.justfingram.com/60d66babd35781610cfc5c21c0978363.mp4?stream=true&t=92f75117e27fdc72",
-        "imageUrl": "https://cdn.justfingram.com/6d44673bc7.jpg?stream=true"
-      },
-      {
-        "title": "Episode 6",
-        "videoUrl": "https://cdn.justfingram.com/51c93860c62b379fe73ca8f8075846e3.mp4?stream=true&t=2fcc2d958a7ab65f",
-        "imageUrl": "https://cdn.justfingram.com/a38a661ab3.jpg?stream=true"
       }
     ]
   },
