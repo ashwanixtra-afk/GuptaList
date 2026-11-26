@@ -126,6 +126,43 @@
     ]
   },
   {
+    "title": "Manglik",
+    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Manglik_1795196950.jpg",
+    "year": "2026",
+    "episodes": [
+      {
+        "title": "Episode 1",
+        "videoUrl": "https://cdn.justfingram.com/5a0addf60e196d9c3ffcb86e6ec44c39.mp4?stream=true&t=f0bafdc0f1c14f34",
+        "imageUrl": "https://cdn.justfingram.com/fc2df2aec6.jpg?stream=true"
+      },
+      {
+        "title": "Episode 2",
+        "videoUrl": "https://cdn.justfingram.com/b7bd7d0a86dbdde52540875d7f443786.mp4?stream=true&t=127d48535b7be21a",
+        "imageUrl": "https://cdn.justfingram.com/19d12496f4.jpg?stream=true"
+      },
+      {
+        "title": "Episode 3",
+        "videoUrl": "https://cdn.justfingram.com/f5d413ac48f274f8a347fbfb404a8895.mp4?stream=true&t=8f8b56c8a40a2c85",
+        "imageUrl": "https://cdn.justfingram.com/ce054405fb.jpg?stream=true"
+      },
+      {
+        "title": "Episode 4",
+        "videoUrl": "https://cdn.justfingram.com/3e49884a29d5ae729307696c2a838e05.mp4?stream=true&t=05f835b0d32de2c1",
+        "imageUrl": "https://cdn.justfingram.com/e7f4b6ee44.jpg?stream=true"
+      },
+      {
+        "title": "Episode 5",
+        "videoUrl": "https://cdn.justfingram.com/0c0a19ad2aa62ed2e637d482cadee057.mp4?stream=true&t=843e15bf5c38f28c",
+        "imageUrl": "https://cdn.justfingram.com/f56d71b2d7.jpg?stream=true"
+      },
+      {
+        "title": "Episode 6",
+        "videoUrl": "https://cdn.justfingram.com/ee149dce250ba23b04bbd64a53b40659.mp4?stream=true&t=582b419ef6af02bf",
+        "imageUrl": "https://cdn.justfingram.com/17e9323f91.jpg?stream=true"
+      }
+    ]
+  },
+  {
     "title": "Campus Diaries Season 2",
     "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Campus-Dia_1795110506.jpg",
     "year": "2026",
@@ -759,43 +796,6 @@
         "title": "Episode 9",
         "videoUrl": "https://cdn.justfingram.com/db4b81ded8051b3b4344974c45454cfc.mp4?stream=true&t=4ab7a7e577e26450",
         "imageUrl": "https://cdn.justfingram.com/51b2c6f178.jpg?stream=true"
-      }
-    ]
-  },
-  {
-    "title": "Manglik",
-    "imageUrl": "https://raw.githubusercontent.com/ashwanixtra-afk/images/main/webseries/show_Manglik_1795196950.jpg",
-    "year": "2026",
-    "episodes": [
-      {
-        "title": "Episode 1",
-        "videoUrl": "https://cdn.justfingram.com/5a0addf60e196d9c3ffcb86e6ec44c39.mp4?stream=true&t=f0bafdc0f1c14f34",
-        "imageUrl": "https://cdn.justfingram.com/fc2df2aec6.jpg?stream=true"
-      },
-      {
-        "title": "Episode 2",
-        "videoUrl": "https://cdn.justfingram.com/b7bd7d0a86dbdde52540875d7f443786.mp4?stream=true&t=127d48535b7be21a",
-        "imageUrl": "https://cdn.justfingram.com/19d12496f4.jpg?stream=true"
-      },
-      {
-        "title": "Episode 3",
-        "videoUrl": "https://cdn.justfingram.com/f5d413ac48f274f8a347fbfb404a8895.mp4?stream=true&t=8f8b56c8a40a2c85",
-        "imageUrl": "https://cdn.justfingram.com/ce054405fb.jpg?stream=true"
-      },
-      {
-        "title": "Episode 4",
-        "videoUrl": "https://cdn.justfingram.com/3e49884a29d5ae729307696c2a838e05.mp4?stream=true&t=05f835b0d32de2c1",
-        "imageUrl": "https://cdn.justfingram.com/e7f4b6ee44.jpg?stream=true"
-      },
-      {
-        "title": "Episode 5",
-        "videoUrl": "https://cdn.justfingram.com/0c0a19ad2aa62ed2e637d482cadee057.mp4?stream=true&t=843e15bf5c38f28c",
-        "imageUrl": "https://cdn.justfingram.com/f56d71b2d7.jpg?stream=true"
-      },
-      {
-        "title": "Episode 6",
-        "videoUrl": "https://cdn.justfingram.com/ee149dce250ba23b04bbd64a53b40659.mp4?stream=true&t=582b419ef6af02bf",
-        "imageUrl": "https://cdn.justfingram.com/17e9323f91.jpg?stream=true"
       }
     ]
   },
